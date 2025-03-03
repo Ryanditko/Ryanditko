@@ -50,15 +50,11 @@ Tecnologias que utilizo ou estou aprendendo:
                 <img src="https://github-readme-stats.vercel.app/api?username=Ryanditko&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=000000&title_color=00FF7F&text_color=FFFFFF&hide=contribs" height="165"/>
             </td>
         </tr>
-        <tr>
-            <td colspan="2">
-            </td>
-        </tr>
     </table>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ryanditko&theme=matrix&no-frame=true&no-bg=true&margin-w=10" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Ryanditko&theme=matrix&no-frame=true&no-bg=true&margin-w=10" />
 
-<img src="https://github-readme-graph.vercel.app/graph?username=Ryanditko&theme=react-dark"/>
+    <img src="https://github-readme-graph.vercel.app/graph?username=Ryanditko&theme=react-dark"/>
 </div>
 
 <img align="right" src="https://imgur.com/FaTOxix.png" alt="Gon_hxh" style="min-width: 100px; max-width: 100px; width: 100px;">
