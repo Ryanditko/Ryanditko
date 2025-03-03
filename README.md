@@ -57,11 +57,8 @@ Tecnologias que utilizo ou estou aprendendo:
         </tr>
     </table>
 
-   
- <img src="https://github-profile-trophy.vercel.app/?username=Ryanditko&theme=matrix&margin-w=10" />
-
-    
- <img src="https://github-readme-graph.vercel.app/graph?username=Ryanditko&theme=react-dark"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ryanditko&theme=matrix&no-frame=true&no-bg=true&margin-w=10" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ryanditko&theme=react-dark&bg_color=000000&color=00FF7F&line=0effa3&point=ffffff&area=true&hide_border=true"/>
 </div>
 
 <img align="right" src="https://imgur.com/FaTOxix.png" alt="Gon_hxh" style="min-width: 100px; max-width: 100px; width: 100px;">
