@@ -52,12 +52,12 @@ Tecnologias que utilizo ou estou aprendendo:
         </tr>
         <tr>
             <td colspan="2">
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryanditko&theme=dark&hide_border=false&background=000000&stroke=00FF7F&ring=00FF7F&fire=00FF7F&currStreakLabel=FFFFFF" height="165"/>
             </td>
         </tr>
     </table>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Ryanditko&theme=matrix&no-frame=true&no-bg=true&margin-w=10" />
+
 <img src="https://github-readme-graph.vercel.app/graph?username=Ryanditko&theme=react-dark"/>
 </div>
 
