@@ -54,7 +54,8 @@ Tecnologias que utilizo ou estou aprendendo:
 
 <img src="https://github-profile-trophy.vercel.app/?username=Ryanditko&theme=matrix&no-frame=true&no-bg=true&margin-w=10" />
 
-![Gráfico de Atividades do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=Ryanditko&theme=react-dark)
+![Gráfico de Atividades do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=Ryanditko&theme=github-compact&bg_color=000000&color=00FF7F&line=0effa3&point=ffffff&area=true&hide_border=true)
+
 
 </div>
 
