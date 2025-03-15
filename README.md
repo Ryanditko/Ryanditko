@@ -32,7 +32,7 @@ Tecnologias que utilizo ou estou aprendendo:
 
 <div align="center">
     <p>
-        <img src="https://skillicons.dev/icons?i=notion, cursor,vscode,git,github,kali,linux" />
+        <img src="https://skillicons.dev/icons?i=notion,vscode,git,github,kali,linux" />
     </p>
     <p>
         <img src="https://skillicons.dev/icons?i=python,docker,js,nodejs,html,css,bootstrap,aws,mysql" />
