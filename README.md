@@ -10,12 +10,9 @@
 🚀 Transformando processos manuais em soluções eficientes e diretas!  
 
 ## Redes Sociais:
-
-[![Bluesky](https://img.shields.io/badge/bluesky-000000?style=for-the-badge&logo=bluesky&logoColor=00FF7F)](https://bsky.app/profile/ryankali.bsky.social) 
+ 
 [![Instagram](https://img.shields.io/badge/Instagram-000000.svg?logo=Instagram&logoColor=00FF7F)](https://instagram.com/ryanrodriguexs) 
 [![Discord](https://img.shields.io/badge/Discord-000000.svg?logo=discord&logoColor=00FF7F)](https://discord.gg/gibrasil) 
-[![Pinterest](https://img.shields.io/badge/Pinterest-000000.svg?logo=Pinterest&logoColor=00FF7F)](https://pinterest.com/ryangame2005) 
-[![Twitch](https://img.shields.io/badge/Twitch-000000.svg?logo=Twitch&logoColor=00FF7F)](https://twitch.tv/ryan_osamu) 
 
 ## Contato:
 <p>
