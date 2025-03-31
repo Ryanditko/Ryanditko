@@ -15,25 +15,19 @@
 [![Discord](https://img.shields.io/badge/Discord-000000.svg?logo=discord&logoColor=00FF7F)](https://discord.gg/gibrasil) 
 
 ## Contato:
-<p>
-    <a href="mailto:yryurodriguess@gmail.com">
+   <a href="mailto:yryurodriguess@gmail.com">
         <img src="https://img.shields.io/badge/Email-000000.svg?logo=gmail&logoColor=00FF7F" alt="Email"/>
     </a>
     <a href="https://www.linkedin.com/in/ryan-rodrigues-592a27313">
         <img src="https://img.shields.io/badge/LinkedIn-000000.svg?logo=linkedin&logoColor=00FF7F" alt="LinkedIn"/>
     </a>
-</p>
 
 ## Stacks:
 Tecnologias que utilizo ou estou aprendendo:
 
 <div align="center">
-    <p>
-        <img src="https://skillicons.dev/icons?i=notion,vscode,git,figma,kali,linux" />
-    </p>
-    <p>
+         <img src="https://skillicons.dev/icons?i=notion,vscode,git,figma,kali,linux" />
         <img src="https://skillicons.dev/icons?i=python,docker,js,nodejs,bootstrap,aws,mysql" />
-    </p>
 </div>
 
 ## Estatísticas do GitHub:
