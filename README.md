@@ -14,7 +14,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-000000.svg?logo=Instagram&logoColor=00FF7F)](https://instagram.com/ryanrodriguexs) 
 [![Discord](https://img.shields.io/badge/Discord-000000.svg?logo=discord&logoColor=00FF7F)](https://discord.gg/gibrasil) 
 
-## Contato
+## Contato:
 <p>
     <a href="mailto:yryurodriguess@gmail.com">
         <img src="https://img.shields.io/badge/Email-000000.svg?logo=gmail&logoColor=00FF7F" alt="Email"/>
@@ -44,7 +44,7 @@ Tecnologias que utilizo ou estou aprendendo:
                 <img src="https://github-readme-stats.vercel.app/api?username=Ryanditko&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=000000&title_color=00FF7F&text_color=FFFFFF&hide=contribs" height="165"/>
             </td>
             <td>
-                  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanditko&layout=compact&theme=dark&hide_border=false&bg_color=000000&title_color=0effa3&text_color=FFFFFF" height="165"/>
+                  <img src="https://github-reame-stats.vercel.app/api/top-langs/?username=Ryanditko&layout=compact&theme=dark&hide_border=false&bg_color=000000&title_color=0effa3&text_color=FFFFFF" height="165"/>
             </td>
         </tr>
     </table>
