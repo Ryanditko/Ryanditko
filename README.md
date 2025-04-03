@@ -14,7 +14,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-000000.svg?logo=Instagram&logoColor=00FF7F)](https://instagram.com/ryanrodriguexs) 
 [![Discord](https://img.shields.io/badge/Discord-000000.svg?logo=discord&logoColor=00FF7F)](https://discord.gg/gibrasil) 
 
-## Contato:
+## Contato
 <p>
     <a href="mailto:yryurodriguess@gmail.com">
         <img src="https://img.shields.io/badge/Email-000000.svg?logo=gmail&logoColor=00FF7F" alt="Email"/>
