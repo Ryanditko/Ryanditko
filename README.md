@@ -8,18 +8,18 @@
 
 <br>
 
-<!-- Redes Sociais Centralizadas -->
+<!-- Redes Sociais Centralizadas com ícones maiores -->
 <a href="https://instagram.com/ryanrodriguexs">
-  <img src="https://img.shields.io/badge/Instagram-000000.svg?logo=Instagram&logoColor=00FF7F" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-000000.svg?style=for-the-badge&logo=Instagram&logoColor=00FF7F" alt="Instagram"/>
 </a>
 <a href="https://discord.gg/gibrasil">
-  <img src="https://img.shields.io/badge/Discord-000000.svg?logo=discord&logoColor=00FF7F" alt="Discord"/>
+  <img src="https://img.shields.io/badge/Discord-000000.svg?style=for-the-badge&logo=discord&logoColor=00FF7F" alt="Discord"/>
 </a>
 <a href="https://www.linkedin.com/in/ryan-rodrigues-592a27313">
-  <img src="https://img.shields.io/badge/LinkedIn-000000.svg?logo=linkedin&logoColor=00FF7F" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-000000.svg?style=for-the-badge&logo=linkedin&logoColor=00FF7F" alt="LinkedIn"/>
 </a>
 <a href="mailto:yryurodriguess@gmail.com">
-  <img src="https://img.shields.io/badge/Email-000000.svg?logo=gmail&logoColor=00FF7F" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-000000.svg?style=for-the-badge&logo=gmail&logoColor=00FF7F" alt="Email"/>
 </a>
 
 </div>
@@ -42,7 +42,7 @@
                 <img src="https://github-readme-stats.vercel.app/api?username=Ryanditko&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=000000&title_color=00FF7F&text_color=FFFFFF&hide=contribs" height="165"/>
             </td>
             <td>
-                  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanditko&layout=compact&theme=dark&hide_border=false&bg_color=000000&title_color=0effa3&text_color=FFFFFF" height="165"/>
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanditko&layout=compact&theme=dark&hide_border=false&bg_color=000000&title_color=0effa3&text_color=FFFFFF" height="165"/>
             </td>
         </tr>
     </table>
@@ -59,8 +59,4 @@
   <p style="font-size: 1.2em; color: #6a1b9a;">
     <strong>Se você compartilha interesses semelhantes, vamos trocar ideias!</strong> 📗
   </p>
-</div>
-
-<div align="center">
-    <img src="https://i.imgur.com/PXM6gPw.png" width="500" alt="Kali_logo">
 </div>
