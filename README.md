@@ -2,12 +2,6 @@
     <img src="https://imgur.com/SZc0iiK.png" width="500" alt="Kali_logo">
 </div>
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/180eea52-68c7-408b-ba12-1c43879600d2" alt="Image" width="100%">
-</div>
-<br>
-<br>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfff&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Ryan+Rodrigues;I'm+19+years+old;I'm+from+Brazil;I+study+System+Development;Welcome+to+my+space!+👾)](https://git.io/typing-svg)
 
 ⭐ Minha missão é trazer soluções inteligentes, otimizar fluxos, gerenciar e automatizar processos.  
