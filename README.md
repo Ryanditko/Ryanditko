@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=+Bem+vindo+ao+meu+perfil,+Meu+nome+é+Ryan+Rodrigues!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF7F&size=24&center=true&vCenter=true&width=350&lines=Bem+vindo+ao+meu+perfil,+meu+nome+é+Ryan+Rodrigues)](https://git.io/typing-svg)
 
 <br>
 
