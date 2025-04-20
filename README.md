@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i.imgur.com/mgckQaT.jpeg" width="500" alt="Kali_logo">
+    <img src="https://i.imgur.com/HFT6fQM.png" width="500" alt="Kali_logo">
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Ryan+Rodrigues;I'm+19+years+old;I'm+from+São+Paulo;I+study+System+Development;Welcome+to+my+space!+🥇)](https://git.io/typing-svg)
