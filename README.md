@@ -2,19 +2,29 @@
     <img src="https://i.imgur.com/PXM6gPw.png" width="500" alt="Kali_logo">
 </div>
 
+<div align="center">
+  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=+Bem+vindo+ao+meu+perfil,+Meu+nome+é+Ryan+Rodrigues)](https://git.io/typing-svg)
- 
 
+<br>
 
-[![Instagram](https://img.shields.io/badge/Instagram-000000.svg?logo=Instagram&logoColor=00FF7F)](https://instagram.com/ryanrodriguexs) 
-[![Discord](https://img.shields.io/badge/Discord-000000.svg?logo=discord&logoColor=00FF7F)](https://discord.gg/gibrasil)
+<!-- Redes Sociais Centralizadas -->
+<a href="https://instagram.com/ryanrodriguexs">
+  <img src="https://img.shields.io/badge/Instagram-000000.svg?logo=Instagram&logoColor=00FF7F" alt="Instagram"/>
+</a>
+<a href="https://discord.gg/gibrasil">
+  <img src="https://img.shields.io/badge/Discord-000000.svg?logo=discord&logoColor=00FF7F" alt="Discord"/>
+</a>
 <a href="https://www.linkedin.com/in/ryan-rodrigues-592a27313">
-        <img src="https://img.shields.io/badge/LinkedIn-000000.svg?logo=linkedin&logoColor=00FF7F" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-000000.svg?logo=linkedin&logoColor=00FF7F" alt="LinkedIn"/>
+</a>
+<a href="mailto:yryurodriguess@gmail.com">
+  <img src="https://img.shields.io/badge/Email-000000.svg?logo=gmail&logoColor=00FF7F" alt="Email"/>
+</a>
 
-<p>
-    <a href="mailto:yryurodriguess@gmail.com">
-        <img src="https://img.shields.io/badge/Email-000000.svg?logo=gmail&logoColor=00FF7F" alt="Email"/>
-</p>
+</div>
+
+<br>
 
 <div align="center">
     <p>
@@ -41,7 +51,6 @@
 
 ![Gráfico de Atividades do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=Ryanditko&theme=github-compact&bg_color=000000&color=00FF7F&line=0effa3&point=ffffff&area=true&hide_border=true)
 
-
 </div>
 
 <img align="right" src="https://imgur.com/FaTOxix.png" alt="Gon_hxh" style="min-width: 100px; max-width: 100px; width: 100px;">
@@ -54,17 +63,4 @@
 
 <div align="center">
     <img src="https://i.imgur.com/PXM6gPw.png" width="500" alt="Kali_logo">
-</div>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=+Bem+vindo+ao+meu+perfil,+Meu+nome+é+Ryan+Rodrigues)](https://git.io/typing-svg)
-
-
-</div>
-
-<img align="right" src="https://imgur.com/FaTOxix.png" alt="Gon_hxh" style="min-width: 100px; max-width: 100px; width: 100px;">
-
-<div align="center">
-  <p style="font-size: 1.2em; color: #6a1b9a;">
-    <strong>Se você compartilha interesses semelhantes, vamos trocar ideias!</strong> 📗
-  </p>
 </div>
