@@ -8,18 +8,18 @@
 
 <br>
 
-<!-- Redes Sociais Centralizadas com ícones maiores -->
+<!-- Redes Sociais Centralizadas com ícones levemente menores -->
 <a href="https://instagram.com/ryanrodriguexs">
-  <img src="https://img.shields.io/badge/Instagram-000000.svg?style=for-the-badge&logo=Instagram&logoColor=00FF7F" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-000000.svg?style=flat-square&logo=Instagram&logoColor=00FF7F" alt="Instagram"/>
 </a>
 <a href="https://discord.gg/gibrasil">
-  <img src="https://img.shields.io/badge/Discord-000000.svg?style=for-the-badge&logo=discord&logoColor=00FF7F" alt="Discord"/>
+  <img src="https://img.shields.io/badge/Discord-000000.svg?style=flat-square&logo=discord&logoColor=00FF7F" alt="Discord"/>
 </a>
 <a href="https://www.linkedin.com/in/ryan-rodrigues-592a27313">
-  <img src="https://img.shields.io/badge/LinkedIn-000000.svg?style=for-the-badge&logo=linkedin&logoColor=00FF7F" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-000000.svg?style=flat-square&logo=linkedin&logoColor=00FF7F" alt="LinkedIn"/>
 </a>
 <a href="mailto:yryurodriguess@gmail.com">
-  <img src="https://img.shields.io/badge/Email-000000.svg?style=for-the-badge&logo=gmail&logoColor=00FF7F" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-000000.svg?style=flat-square&logo=gmail&logoColor=00FF7F" alt="Email"/>
 </a>
 
 </div>
