@@ -1,8 +1,8 @@
 <div align="center">
-    <img src="https://i.imgur.com/aC35WXT.png" width="500" alt="Kali_logo">
+    <img src="https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-3994-61f7-9439-25d6cb5264fc/raw?se=2025-04-20T05%3A24%3A22Z&sp=r&sv=2024-08-04&sr=b&scid=9cf44f3c-c4f4-54bf-a1fd-97137052f254&skoid=0abefe37-d2bd-4fcb-bc88-32bccbef6f7d&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-19T20%3A21%3A00Z&ske=2025-04-20T20%3A21%3A00Z&sks=b&skv=2024-08-04&sig=GUD23DKpuA%2BZO/y30Vo02zLs9AUCY0VLjRGJ98Uhr9c%3D" width="500" alt="Kali_logo">
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Ryan+Rodrigues;I'm+19+years+old;I'm+from+São+Paulo;I+study+System+Development;Welcome+to+my+space!+🥇)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+perfil,+Meu+nome+é+Ryan+Rodrigues)](https://git.io/typing-svg)
 
 ⭐ Minha missão é trazer soluções inteligentes, otimizar fluxos, gerenciar e automatizar processos.  
 💻 Desenvolvedor apaixonado por tecnologia, automação e segurança digital.  
