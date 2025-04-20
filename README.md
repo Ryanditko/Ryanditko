@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i.imgur.com/xNp7Wys.jpeg" width="500" alt="Kali_logo">
+    <img src="https://i.imgur.com/xNp7Wys.jpeg" width="500" alt="Rises of moon">
 </div>
 
 <div align="center">
