@@ -4,18 +4,16 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=+Bem+vindo+ao+meu+perfil,+Meu+nome+é+Ryan+Rodrigues)](https://git.io/typing-svg)
  
-## 💻 Software Developer
+
 
 [![Instagram](https://img.shields.io/badge/Instagram-000000.svg?logo=Instagram&logoColor=00FF7F)](https://instagram.com/ryanrodriguexs) 
-[![Discord](https://img.shields.io/badge/Discord-000000.svg?logo=discord&logoColor=00FF7F)](https://discord.gg/gibrasil) 
+[![Discord](https://img.shields.io/badge/Discord-000000.svg?logo=discord&logoColor=00FF7F)](https://discord.gg/gibrasil)
+<a href="https://www.linkedin.com/in/ryan-rodrigues-592a27313">
+        <img src="https://img.shields.io/badge/LinkedIn-000000.svg?logo=linkedin&logoColor=00FF7F" alt="LinkedIn"/>
 
 <p>
     <a href="mailto:yryurodriguess@gmail.com">
         <img src="https://img.shields.io/badge/Email-000000.svg?logo=gmail&logoColor=00FF7F" alt="Email"/>
-    </a>
-    <a href="https://www.linkedin.com/in/ryan-rodrigues-592a27313">
-        <img src="https://img.shields.io/badge/LinkedIn-000000.svg?logo=linkedin&logoColor=00FF7F" alt="LinkedIn"/>
-    </a>
 </p>
 
 <div align="center">
@@ -42,6 +40,23 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Ryanditko&theme=matrix&no-frame=true&no-bg=true&margin-w=10" />
 
 ![Gráfico de Atividades do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=Ryanditko&theme=github-compact&bg_color=000000&color=00FF7F&line=0effa3&point=ffffff&area=true&hide_border=true)
+
+
+</div>
+
+<img align="right" src="https://imgur.com/FaTOxix.png" alt="Gon_hxh" style="min-width: 100px; max-width: 100px; width: 100px;">
+
+<div align="center">
+  <p style="font-size: 1.2em; color: #6a1b9a;">
+    <strong>Se você compartilha interesses semelhantes, vamos trocar ideias!</strong> 📗
+  </p>
+</div>
+
+<div align="center">
+    <img src="https://i.imgur.com/PXM6gPw.png" width="500" alt="Kali_logo">
+</div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=+Bem+vindo+ao+meu+perfil,+Meu+nome+é+Ryan+Rodrigues)](https://git.io/typing-svg)
 
 
 </div>
