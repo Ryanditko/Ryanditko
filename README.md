@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i.imgur.com/PXM6gPw.png" width="500" alt="Kali_logo">
+    <img src="https://pin.it/1yYsy7MhW" width="500" alt="Kali_logo">
 </div>
 
 <div align="center">
