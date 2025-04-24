@@ -9,7 +9,7 @@
 <br>
 
 <!-- Redes Sociais com tamanho um pouco maior -->
-<a href="https://instagram.com/ryanrodriguexs">
+<a href="https://instagram.com/ryan.ditko">
   <img src="https://img.shields.io/badge/Instagram-000000.svg?style=flat&logo=Instagram&logoColor=00FF7F" alt="Instagram"/>
 </a>
 <a href="https://discord.gg/gibrasil">
