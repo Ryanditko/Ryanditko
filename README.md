@@ -28,7 +28,7 @@
 
 <div align="center">
     <p>
-        <img src="https://skillicons.dev/icons?i=notion,vscode,git,figma,kali, arch,linux" />
+        <img src="https://skillicons.dev/icons?i=notion,vscode,git,figma,kali,arch,linux" />
     </p>
     <p>
         <img src="https://skillicons.dev/icons?i=python,docker,js,nodejs,bootstrap,aws,mysql" />
