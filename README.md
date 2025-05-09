@@ -31,7 +31,7 @@
         <img src="https://skillicons.dev/icons?i=notion,vscode,git,figma,kali,arch,linux" />
     </p>
     <p>
-        <img src="https://skillicons.dev/icons?i=python,js,docker, nodejs,aws,mysql" />
+        <img src="https://skillicons.dev/icons?i=python,js,docker,nodejs,aws,mysql" />
     </p>
 </div>
 
