@@ -28,10 +28,10 @@
 
 <div align="center">
     <p>
-        <img src="https://skillicons.dev/icons?i=notion,vscode,git,figma,kali,arch,linux" />
+        <img src="https://skillicons.dev/icons?i=notion,vscode,git,figma,linux,windows" />
     </p>
     <p>
-        <img src="https://skillicons.dev/icons?i=python,docker,js,nodejs,aws,mysql" />
+        <img src="https://skillicons.dev/icons?i=python,js,nodejs,aws,mysql" />
     </p>
 </div>
 
