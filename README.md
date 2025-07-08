@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i.pinimg.com/736x/62/59/7e/62597eed0489364d5722309a980602fc.jpg" width="500" alt="Rises of moon">
+    <img src="https://i.imgur.com/zGDf2zH.png" width="500" alt="Rises of moon">
 </div>
 
 <div align="center">
@@ -65,7 +65,7 @@
 
 </div>
 
-<img align="right" src="https://imgur.com/FaTOxix.png" alt="Gon_hxh" style="min-width: 100px; max-width: 100px; width: 100px;">
+<img align="right" src="https://i.imgur.com/M88ww3B.png" alt="me" style="min-width: 100px; max-width: 100px; width: 100px;">
 
 <div align="center">
   <p style="font-size: 1.2em; color: #000000;">
