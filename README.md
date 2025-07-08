@@ -8,18 +8,25 @@
 
 <br>
 
-<!-- Redes Sociais com tamanho um pouco maior -->
+#### Redes sociais
+
 <a href="https://instagram.com/ryan.ditko">
-  <img src="https://img.shields.io/badge/Instagram-000000.svg?style=flat&logo=Instagram&logoColor=00FF7F" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-000000.svg?style=flat&logo=Instagram&logoColor=white" alt="Instagram"/>
 </a>
-<a href="https://discord.gg/gibrasil">
-  <img src="https://img.shields.io/badge/Discord-000000.svg?style=flat&logo=discord&logoColor=00FF7F" alt="Discord"/>
+<a href="https://discord.gg/eWkcKYKCc4">
+  <img src="https://img.shields.io/badge/Discord-000000.svg?style=flat&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 <a href="https://www.linkedin.com/in/ryan-rodrigues-592a27313">
-  <img src="https://img.shields.io/badge/LinkedIn-000000.svg?style=flat&logo=linkedin&logoColor=00FF7F" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-000000.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:yryurodriguess@gmail.com">
-  <img src="https://img.shields.io/badge/Email-000000.svg?style=flat&logo=gmail&logoColor=00FF7F" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-000000.svg?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.youtube.com/@Ryangame2005">
+  <img src="https://img.shields.io/badge/Youtube-000000.svg?style=flat&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+<a href="https://github.com/Ryanditko">
+  <img src="https://img.shields.io/badge/Github-000000.svg?style=flat&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
