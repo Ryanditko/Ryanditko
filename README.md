@@ -4,11 +4,11 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo,+Meu+nome+é+Ryan+Ditko!;Bem+vindo,+Meu+nome+é+Ryan+Ditko!&color=FFFFFF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=Welcome,+My+name+is+Ryan+Rodrigues!;Bem+vindo,+My+Name+is+Ryan+Rodrigues!&color=FFFFFF)](https://git.io/typing-svg)
 
 <br>
 
-#### Redes sociais
+#### Social Media
 
 <a href="https://instagram.com/ryan.ditko">
   <img src="https://img.shields.io/badge/Instagram-000000.svg?style=flat&logo=Instagram&logoColor=white" alt="Instagram"/>
@@ -32,6 +32,8 @@
 </div>
 
 <br>
+
+#### Stacks
 
 <div align="center">
     <p>
@@ -69,6 +71,6 @@
 
 <div align="center">
   <p style="font-size: 1.2em; color: #000000;">
-    <strong>Se você compartilha interesses semelhantes, vamos trocar ideias!</strong>
+    <strong>If you share similar interests, let's exchange ideas!</strong>
   </p>
 </div>
