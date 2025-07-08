@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i.imgur.com/xNp7Wys.jpeg" width="500" alt="Rises of moon">
+    <img src="https://i.pinimg.com/736x/62/59/7e/62597eed0489364d5722309a980602fc.jpg" width="500" alt="Rises of moon">
 </div>
 
 <div align="center">
@@ -69,6 +69,6 @@
 
 <div align="center">
   <p style="font-size: 1.2em; color: #6a1b9a;">
-    <strong>Se você compartilha interesses semelhantes, vamos trocar ideias!</strong> 📗
+    <strong>Se você compartilha interesses semelhantes, vamos trocar ideias!</strong>
   </p>
 </div>
