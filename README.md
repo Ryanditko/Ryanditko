@@ -54,18 +54,18 @@
                 <img src="https://github-readme-stats.vercel.app/api?username=Ryanditko&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=000000&title_color=000000&text_color=FFFFFF&hide=contribs" height="165"/>
             </td>
             <td>
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanditko&layout=compact&theme=dark&hide_border=false&bg_color=000000&title_color=000000&text_color=FFFFFF" height="165"/>
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanditko&layout=compact&theme=dark&hide_border=false&bg_color=FFFFFF&title_color=0effa3&text_color=FFFFFF" height="165"/>
             </td>
         </tr>
     </table>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Ryanditko&theme=matrix&no-frame=true&no-bg=true&margin-w=10" />
 
-![Gráfico de Atividades do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=Ryanditko&theme=github-compact&bg_color=000000&color=000000&line=0effa3&point=ffffff&area=true&hide_border=true)
+![Gráfico de Atividades do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=Ryanditko&theme=github-compact&bg_color=000000&color=00FF7F&line=0effa3&point=ffffff&area=true&hide_border=true)
 
 </div>
 
-<img align="right" src="https://i.imgur.com/M88ww3B.png" alt="Gon_hxh" style="min-width: 100px; max-width: 100px; width: 100px;">
+<img align="right" src="https://imgur.com/FaTOxix.png" alt="Gon_hxh" style="min-width: 100px; max-width: 100px; width: 100px;">
 
 <div align="center">
   <p style="font-size: 1.2em; color: #6a1b9a;">
