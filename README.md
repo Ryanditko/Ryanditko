@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=Welcome,+My+name+is+Ryan+Rodrigues!;Bem+vindo,+My+Name+is+Ryan+Rodrigues!&color=FFFFFF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=Welcome,+My+name+is+Ryan+Rodrigues!;Bem+vindo,+Meu+Nome+é+Ryan+Rodrigues!&color=FFFFFF)](https://git.io/typing-svg)
 
 <br>
 
@@ -29,23 +29,22 @@
   <img src="https://img.shields.io/badge/Github-000000.svg?style=flat&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-</div>
-
 <br>
 
+#### <span align="center">Stacks</span>
+
 <div align="center">
-      #### Stacks
     <p>
-    <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/html-000000?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/css-000000?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/aws-000000?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-</p>
+        <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/html-000000?style=for-the-badge&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/css-000000?style=for-the-badge&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white"/>
+        <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/aws-000000?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+    </p>
 </div>
 
 <div align="center">
