@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=+Bem+vindo,+Meu+nome+é+Ryan+Rodrigues!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo,+Meu+nome+é+Ryan+Ditko!;Bem+vindo,+Meu+nome+é+Ryan+Ditko!&color=FFFFFF)](https://git.io/typing-svg)
 
 <br>
 
@@ -28,11 +28,16 @@
 
 <div align="center">
     <p>
-        <img src="https://skillicons.dev/icons?i=notion,vscode,git,figma,linux,windows" />
-    </p>
-    <p>
-        <img src="https://skillicons.dev/icons?i=python,js,nodejs,aws,mysql" />
-    </p>
+    <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/html-000000?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/css-000000?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/aws-000000?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+</p>
 </div>
 
 <div align="center">
