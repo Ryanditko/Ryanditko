@@ -49,15 +49,15 @@
 
 <div align="center">
     <table>
-        <tr>
-            <td>
-                <img src="https://github-readme-stats.vercel.app/api?username=Ryanditko&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&hide=contribs" height="165"/>
-            </td>
-            <td>
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanditko&layout=compact&theme=dark&hide_border=false&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" height="165"/>
-            </td>
-        </tr>
-    </table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Ryanditko&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&hide=contribs" height="165"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanditko&layout=compact&theme=dark&hide_border=false&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" height="165"/>
+    </td>
+  </tr>
+</table>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Ryanditko&theme=onedark&no-frame=true&no-bg=true&margin-w=10&title=FFFFFF&text=FFFFFF" />
 
