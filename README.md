@@ -44,6 +44,7 @@
         <img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white"/>
         <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white"/>
         <img src="https://img.shields.io/badge/aws-000000?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+         <img src="https://img.shields.io/badge/aws-000000?style=for-the-badge&logo=docker&logoColor=white"/>
     </p>
 </div>
 
