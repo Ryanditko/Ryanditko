@@ -22,7 +22,7 @@
 <a href="mailto:yryurodriguess@gmail.com">
   <img src="https://img.shields.io/badge/Email-000000.svg?style=flat&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="https://www.youtube.com/@Ryangame2005">
+<a href="https://www.youtube.com/@Ryanditko">
   <img src="https://img.shields.io/badge/Youtube-000000.svg?style=flat&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
 <a href="https://github.com/Ryanditko">
