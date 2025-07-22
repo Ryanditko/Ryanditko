@@ -41,6 +41,7 @@
   [![AWS](https://img.shields.io/badge/aws-000000?style=for-the-badge&logo=amazonwebservices&logoColor=white)]()
   [![DOCKER](https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=white)]()
   [![DISCORD.JS](https://img.shields.io/badge/discord.js-000000?style=for-the-badge&logo=discord&logoColor=white)]()
+  [![DISCORD.PY](https://img.shields.io/badge/discord.py-000000?style=for-the-badge&logo=discord&logoColor=white)]()
   [![API REST](https://img.shields.io/badge/api_rest-000000?style=for-the-badge&logo=postman&logoColor=white)]()
 
 
