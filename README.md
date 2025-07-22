@@ -35,18 +35,12 @@
 <div align="center">
   <a href="https://discord.gg/gibrasil">
     <img src="https://cardzera.audibert.dev/api/748720691645251716?t={timestamp}" alt="GI Brasil"/>
-    <br/>
-    <span>ID: 748720691645251716</span>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://discord.gg/operaepiclese">
     <img src="https://cardzera.audibert.dev/api/996403908530405406?t={timestamp}" alt="Opera Epiclese"/>
-    <br/>
-    <span>ID: 996403908530405406</span>
   </a>
 </div>
-
-
 
 <div align="center">
     <p>
