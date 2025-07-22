@@ -8,62 +8,54 @@
 
 </div>
 
-
+---
 
 ### Social Media
 
 <div align="center">
-  <a href="https://instagram.com/ryan.ditko">
-    <img src="https://img.shields.io/badge/Instagram-000000.svg?style=flat&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://discord.gg/eWkcKYKCc4">
-    <img src="https://img.shields.io/badge/Discord-000000.svg?style=flat&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ryan-rodrigues-592a27313">
-    <img src="https://img.shields.io/badge/LinkedIn-000000.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:yryurodriguess@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000.svg?style=flat&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.youtube.com/@Ryanditko">
-    <img src="https://img.shields.io/badge/Youtube-000000.svg?style=flat&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://github.com/Ryanditko">
-    <img src="https://img.shields.io/badge/Github-000000.svg?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ryan.ditko)
+[![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/eWkcKYKCc4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-rodrigues-592a27313)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yryurodriguess@gmail.com)
+[![YouTube](https://img.shields.io/badge/Youtube-000000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Ryanditko)
+[![GitHub](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ryanditko)
+
 </div>
 
+---
 
 ### Join in my Discord servers
 
 <div align="center">
-  <a href="https://discord.gg/gibrasil">
-    <img src="https://cardzera.audibert.dev/api/748720691645251716?backgroundColor=000000&buttonColor=ffffff&buttonTextColor=000000&infoColor=ffffff&nameColor=ffffff&borderRadius=10&titleLen=24&elipsis=false&t={timestamp}" alt="GI Brasil"/>
-  </a>
-  <a href="https://discord.gg/operaepiclese">
-    <img src="https://cardzera.audibert.dev/api/996403908530405406?backgroundColor=000000&buttonColor=ffffff&buttonTextColor=000000&infoColor=ffffff&nameColor=ffffff&borderRadius=10&titleLen=24&elipsis=false&t={timestamp}" alt="Opera Epiclese"/>
-  </a>
+
+[![GI Brasil](https://cardzera.audibert.dev/api/748720691645251716?backgroundColor=000000&buttonColor=ffffff&buttonTextColor=000000&infoColor=ffffff&nameColor=ffffff&borderRadius=10&titleLen=24&elipsis=false&t={timestamp})](https://discord.gg/gibrasil)
+[![Opera Epiclese](https://cardzera.audibert.dev/api/996403908530405406?backgroundColor=000000&buttonColor=ffffff&buttonTextColor=000000&infoColor=ffffff&nameColor=ffffff&borderRadius=10&titleLen=24&elipsis=false&t={timestamp})](https://discord.gg/operaepiclese)
+
 </div>
 
-
+---
 
 ### Stacks
 
 <div align="center">
-    <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/html-000000?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/css-000000?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/aws-000000?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
-    <img src="https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/discord.js-000000?style=for-the-badge&logo=discord&logoColor=white"/>
-    <img src="https://img.shields.io/badge/api_rest-000000?style=for-the-badge&logo=postman&logoColor=white"/>
+
+[![PYTHON](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)]()
+[![JAVASCRIPT](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)]()
+[![TYPESCRIPT](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white)]()
+[![NODEJS](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)]()
+[![HTML](https://img.shields.io/badge/html-000000?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS](https://img.shields.io/badge/css-000000?style=for-the-badge&logo=css3&logoColor=white)]()
+[![GIT](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)]()
+[![GITHUB](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)]()
+[![AWS](https://img.shields.io/badge/aws-000000?style=for-the-badge&logo=amazonwebservices&logoColor=white)]()
+[![DOCKER](https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=white)]()
+[![DISCORD.JS](https://img.shields.io/badge/discord.js-000000?style=for-the-badge&logo=discord&logoColor=white)]()
+[![API REST](https://img.shields.io/badge/api_rest-000000?style=for-the-badge&logo=postman&logoColor=white)]()
+
 </div>
 
+---
 
 <div align="center">
   <table>
