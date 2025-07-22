@@ -34,11 +34,11 @@
 
 <div align="center">
   <a href="https://discord.gg/gibrasil">
-    <img src="https://cardzera.audibert.dev/api/748720691645251716?t={timestamp}" alt="GI Brasil"/>
+    <img src="https://cardzera.audibert.dev/api/748720691645251716?backgroundColor=000000&buttonColor=ffffff&buttonTextColor=000000&infoColor=ffffff&nameColor=ffffff&borderRadius=10&t={timestamp}" alt="GI Brasil"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://discord.gg/operaepiclese">
-    <img src="https://cardzera.audibert.dev/api/996403908530405406?t={timestamp}" alt="Opera Epiclese"/>
+    <img src="https://cardzera.audibert.dev/api/996403908530405406?backgroundColor=000000&buttonColor=ffffff&buttonTextColor=000000&infoColor=ffffff&nameColor=ffffff&borderRadius=10&t={timestamp}" alt="Opera Epiclese"/>
   </a>
 </div>
 
