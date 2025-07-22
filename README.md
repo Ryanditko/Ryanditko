@@ -8,8 +8,6 @@
 
 </div>
 
----
-
 ### Social Media
 
 <div align="center">
@@ -23,7 +21,7 @@
 
 </div>
 
----
+
 
 ### Join in my Discord servers
 
@@ -34,7 +32,6 @@
 
 </div>
 
----
 
 ### Stacks
 
@@ -55,7 +52,7 @@
 
 </div>
 
----
+
 
 <div align="center">
   <table>
