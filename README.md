@@ -31,7 +31,6 @@
 
 
 #### Servidores Discord
-[![DISCORD PRESENCE](https://lanyard.cnrad.dev/api/819954175173328906?borderRadius=10px)](https://discord.com/users/819954175173328906)
 <a href="https://discord.gg/gibrasil">
   <img src="https://cardzera.audibert.dev/api/748720691645251716?backgroundColor=000000&buttonColor=ffffff&buttonTextColor=000000&infoColor=ffffff&nameColor=ffffff&borderRadius=10&titleLen=24&elipsis=false&t={timestamp}" alt="GI Brasil"/>
 </a>
@@ -41,7 +40,6 @@
 </div>
 
 #### Stacks
-
 <div align="center">
     <p>
         <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white"/>
