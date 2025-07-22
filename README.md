@@ -31,6 +31,22 @@
 
 <br>
 
+#### Servidores Discord
+
+<div align="center">
+  <a href="https://discord.gg/gibrasil">
+    <img src="https://img.shields.io/badge/GI%20Brasil-000000.svg?style=flat&logo=discord&logoColor=white" alt="GI Brasil"/>
+  </a>
+  <span style="color: #FFFFFF; font-size: 0.9em;">ID: 748720691645251716</span>
+  <br>
+  <a href="https://discord.gg/operaepiclese">
+    <img src="https://img.shields.io/badge/Opera%20Epiclese-000000.svg?style=flat&logo=discord&logoColor=white" alt="Opera Epiclese"/>
+  </a>
+  <span style="color: #FFFFFF; font-size: 0.9em;">ID: 996403908530405406</span>
+</div>
+
+<br>
+
 #### <span align="center">Stacks</span>
 
 <div align="center">
