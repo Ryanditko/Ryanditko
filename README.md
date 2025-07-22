@@ -33,17 +33,15 @@
 
 #### Servidores Discord
 
-<div align="center">
-  <a href="https://discord.gg/gibrasil">
-    <img src="https://img.shields.io/badge/GI%20Brasil-000000.svg?style=flat&logo=discord&logoColor=white" alt="GI Brasil"/>
-  </a>
-  <span style="color: #FFFFFF; font-size: 0.9em;">ID: 748720691645251716</span>
-  <br>
-  <a href="https://discord.gg/operaepiclese">
-    <img src="https://img.shields.io/badge/Opera%20Epiclese-000000.svg?style=flat&logo=discord&logoColor=white" alt="Opera Epiclese"/>
-  </a>
-  <span style="color: #FFFFFF; font-size: 0.9em;">ID: 996403908530405406</span>
-</div>
+## Exemplos de Cardzera dos Servidores
+
+[![Discord Server Card](https://cardzera.audibert.dev/api/748720691645251716?t={timestamp})](https://discord.gg/gibrasil)
+<br>
+ID: 748720691645251716
+
+[![Discord Server Card](https://cardzera.audibert.dev/api/996403908530405406?t={timestamp})](https://discord.gg/operaepiclese)
+<br>
+ID: 996403908530405406
 
 <br>
 
