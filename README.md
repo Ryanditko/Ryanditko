@@ -42,6 +42,8 @@
   </a>
 </div>
 
+#### Stacks
+
 <div align="center">
     <p>
         <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white"/>
