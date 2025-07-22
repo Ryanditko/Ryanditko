@@ -1,5 +1,3 @@
-## Ryan Rodrigues (Ryanditko)
-
 <div align="center">
   <img src="https://i.imgur.com/zGDf2zH.png" width="500" alt="Rises of moon">
 </div>
@@ -10,7 +8,7 @@
 
 </div>
 
----
+
 
 ### Social Media
 
@@ -35,7 +33,6 @@
   </a>
 </div>
 
----
 
 ### Join in my Discord servers
 
@@ -48,7 +45,7 @@
   </a>
 </div>
 
----
+
 
 ### Stacks
 
@@ -67,7 +64,6 @@
     <img src="https://img.shields.io/badge/api_rest-000000?style=for-the-badge&logo=postman&logoColor=white"/>
 </div>
 
----
 
 <div align="center">
   <table>
