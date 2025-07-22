@@ -29,23 +29,24 @@
   <img src="https://img.shields.io/badge/Github-000000.svg?style=flat&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<br>
 
 #### Servidores Discord
 
-## Exemplos de Cardzera dos Servidores
+<div align="center">
+  <a href="https://discord.gg/gibrasil">
+    <img src="https://cardzera.audibert.dev/api/748720691645251716?t={timestamp}" alt="GI Brasil"/>
+    <br/>
+    <span>ID: 748720691645251716</span>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://discord.gg/operaepiclese">
+    <img src="https://cardzera.audibert.dev/api/996403908530405406?t={timestamp}" alt="Opera Epiclese"/>
+    <br/>
+    <span>ID: 996403908530405406</span>
+  </a>
+</div>
 
-[![Discord Server Card](https://cardzera.audibert.dev/api/748720691645251716?t={timestamp})](https://discord.gg/gibrasil)
-<br>
-ID: 748720691645251716
 
-[![Discord Server Card](https://cardzera.audibert.dev/api/996403908530405406?t={timestamp})](https://discord.gg/operaepiclese)
-<br>
-ID: 996403908530405406
-
-<br>
-
-#### <span align="center">Stacks</span>
 
 <div align="center">
     <p>
