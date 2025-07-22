@@ -54,6 +54,8 @@
         <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white"/>
         <img src="https://img.shields.io/badge/aws-000000?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
          <img src="https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=white"/>
+         <img src="https://img.shields.io/badge/discord.js-000000?style=for-the-badge&logo=discord&logoColor=white"/>
+         <img src="https://img.shields.io/badge/api_rest-000000?style=for-the-badge&logo=postman&logoColor=white"/>
     </p>
 </div>
 
