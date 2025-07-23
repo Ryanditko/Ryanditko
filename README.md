@@ -45,7 +45,7 @@
 <!-- Controle de versão e DevOps -->
 [![GIT](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)]()
 [![GITHUB](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)]()
-[![AWS](https://img.shields.io/badge/aws-000000?style=for-the-badge&logo=amazonaws&logoColor=white)]()
+[![AWS](https://img.shields.io/badge/aws-000000?style=for-the-badge&logo=amazonwebservices&logoColor=white)]()
 
 <!-- Discord Bots -->
 [![DISCORD.JS](https://img.shields.io/badge/discord.js-000000?style=for-the-badge&logo=discord&logoColor=white)]()
