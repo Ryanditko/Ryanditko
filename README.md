@@ -36,6 +36,8 @@
 <!-- Frontend -->
 [![HTML](https://img.shields.io/badge/html-000000?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS](https://img.shields.io/badge/css-000000?style=for-the-badge&logo=css3&logoColor=white)]()
+[![BOOTSTRAP](https://img.shields.io/badge/bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+<!-- Backend -->
 <!-- Backend -->
 [![NODEJS](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)]()
 [![API REST](https://img.shields.io/badge/api_rest-000000?style=for-the-badge&logo=postman&logoColor=white)]()
