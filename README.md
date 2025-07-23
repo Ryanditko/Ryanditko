@@ -34,14 +34,12 @@
 [![PYTHON](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)]()
 [![JAVASCRIPT](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)]()
 [![TYPESCRIPT](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white)]()
-[![C++](https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
 
 <!-- Frontend -->
 [![HTML](https://img.shields.io/badge/html-000000?style=for-the-badge&logo=html5&logoColor=white)]()
 [![CSS](https://img.shields.io/badge/css-000000?style=for-the-badge&logo=css3&logoColor=white)]()
 [![TAILWINDCSS](https://img.shields.io/badge/tailwindcss-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)]()
 [![REACT](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=white)]()
-[![NEXT.JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)]()
 
 <!-- Backend -->
 [![NODEJS](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)]()
