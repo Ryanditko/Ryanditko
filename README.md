@@ -68,8 +68,6 @@
     </tr>
   </table>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=Ryanditko&theme=onedark&no-frame=true&no-bg=true&margin-w=10&title=FFFFFF&text=FFFFFF" />
-
   ![Gráfico de Atividades do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=Ryanditko&theme=github-compact&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true)
 
 </div>
