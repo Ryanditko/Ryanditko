@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/c9/da/ac/c9daac45c36b765b9895fc9760d913db.gif" width="500" alt="Rises of moon">
+  <img src="https://i.pinimg.com/1200x/2f/75/af/2f75afe32756146f9c0627c0f487c969.jpg" width="500" alt="Rises of moon">
 </div>
 
 <div align="center">
