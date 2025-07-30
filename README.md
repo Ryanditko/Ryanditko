@@ -1,7 +1,7 @@
 # Ryan Rodrigues
 
 <div align="center">
-  <img src="https://i.imgur.com/AvyuD2w.png" width="100%" style="max-width: 800px;" alt="Header">
+  <img src="https://i.imgur.com/AvyuD2w.png" width="100%" style="max-width: 500px;" alt="Header">
 </div>
 
 <div align="center">
@@ -10,46 +10,40 @@
 
 </div>
 
----
-
-## 👨‍💻 About Me
+## About Me
 
 <img align="right" src="https://i.imgur.com/3fNS7ku.png" alt="Profile" width="150" height="150" style="margin-left: 20px;">
 
-**🔭 Currently working on:** Discord bots and web development projects  
-**🌱 Learning:** Docker, Golang, Kotlin, TypeScript, React  
-**💬 Ask me about:** Python, JavaScript, Discord bots, APIs  
-**💼 Experience:** Building communities and connecting people through technology  
-**🎯 Goal:** Develop impactful software solutions  
+**Currently working on:** Discord bots and web development projects  
+**Learning:** Docker, Golang, Kotlin, TypeScript, React  
+**Ask me about:** Python, JavaScript, Discord bots, APIs  
+**Experience:** Building communities and connecting people through technology  
+**Goal:** Develop impactful software solutions  
 
 <br clear="right"/>
 
----
-
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
-### 📱 Social Media
+### Social Media
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ryan.ditko)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-rodrigues-592a27313)
 [![YouTube](https://img.shields.io/badge/Youtube-000000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Ryanditko)
 [![GitHub](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ryanditko)
 
-### 💬 Communication
+### Communication
 [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/eWkcKYKCc4)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yryurodriguess@gmail.com)
 
-### 🎮 Join My Discord Communities
+### Join My Discord Communities
 
 [![GI Brasil](https://cardzera.audibert.dev/api/748720691645251716?backgroundColor=000000&buttonColor=FFFFFF&buttonTextColor=000000&infoColor=FFFFFF&nameColor=FFFFFF&borderRadius=10&titleLen=24&elipsis=false&t={timestamp})](https://discord.gg/gibrasil)
 [![Opera Epiclese](https://cardzera.audibert.dev/api/996403908530405406?backgroundColor=000000&buttonColor=FFFFFF&buttonTextColor=000000&infoColor=FFFFFF&nameColor=FFFFFF&borderRadius=10&titleLen=24&elipsis=false&t={timestamp})](https://discord.gg/operaepiclese)
 
 </div>
 
----
-
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -79,8 +73,6 @@
 
 </div>
 
----
-
 ## Currently Learning
 
 <div align="center">
@@ -95,9 +87,7 @@
 
 </div>
 
----
-
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -112,15 +102,13 @@
   </tr>
 </table>
 
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ryanditko&theme=dark&no-frame=true&no-bg=true&margin-w=4&row=1&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
+### GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ryanditko&theme=onedark&no-frame=true&no-bg=false&margin-w=4&row=1&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 📈 Activity Graph
+### Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ryanditko&theme=github-compact&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true)
 
 </div>
-
----
 
 ## Featured Projects
 
@@ -134,33 +122,29 @@
 
 </div>
 
----
-
 ## Professional Summary
 
 <div align="center">
 
-```javascript
-const developer = {
-    name: "Ryan Rodrigues",
-    location: "Brazil",
-    languages: ["Portuguese", "English"],
-    working: ["Discord Bots", "Web Development", "API Development", "Data Analytics"],
-    technologies: ["Python", "JavaScript", "Node.js", "SQL"],
-    currentFocus: "Full-stack development and community building"
-};
-```
+    const developer = {
+        name: "Ryan Rodrigues",
+        location: "Brazil",
+        languages: ["Portuguese", "English"],
+        working: ["Discord Bots", "Web Development", "API Development", "Data Analytics"],
+        technologies: ["Python", "JavaScript", "Node.js", "SQL"],
+        currentFocus: "Full-stack development and community building"
+    };
 
 </div>
 
----
-
-## 📞 Contact
+## Contact
 
 <div align="center">
 
 **Professional Inquiries:** [yryurodriguess@gmail.com](mailto:yryurodriguess@gmail.com)  
-**Portfolio:** [ryandev-dun.vercel.app](https://ryandev-dun.vercel.app)
+**Portfolio:** [View Portfolio](https://ryandev-dun.vercel.app)
+
+[![Portfolio Preview](https://img.shields.io/badge/Portfolio_Preview-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ryandev-dun.vercel.app)
 
 If you share similar interests or have project ideas, let's connect and collaborate.
 
@@ -168,11 +152,9 @@ If you share similar interests or have project ideas, let's connect and collabor
 
 </div>
 
----
-
 <div align="center">
 
-**⭐ If you find my work interesting, don't forget to star my repositories! ⭐**
+**If you find my work interesting, don't forget to star my repositories!**
 
 *Thank you for visiting my profile!*
 
