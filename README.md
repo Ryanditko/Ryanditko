@@ -36,6 +36,10 @@
 
 </div>
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 <h3>Stacks and Tools</h3>
 
 <!-- Linguagens -->
@@ -58,6 +62,9 @@
 [![DISCORD.JS](https://img.shields.io/badge/discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)]()
 [![DISCORD.PY](https://img.shields.io/badge/discord.py-3776AB?style=for-the-badge&logo=discord&logoColor=white)]()
 
+</td>
+<td valign="top" width="50%">
+
 <h3>Learning</h3>
 
 [![DOCKER](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
@@ -68,19 +75,23 @@
 [![TAILWINDCSS](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)]()
 [![REACT](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)]()
 
+</td>
+</tr>
+</table>
+
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Ryanditko&theme=default&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=ffffff&title_color=1f2937&text_color=374151&icon_color=4F46E5&hide=contribs" height="165"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Ryanditko&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=f0f6fc&text_color=7d8590&icon_color=4493f8&hide=contribs" height="165"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanditko&layout=compact&theme=default&hide_border=false&bg_color=ffffff&title_color=1f2937&text_color=374151" height="165"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanditko&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f0f6fc&text_color=7d8590" height="165"/>
       </td>
     </tr>
   </table>
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Ryanditko&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=1&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
-  ![Gráfico de Atividades do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=Ryanditko&theme=minimal&bg_color=ffffff&color=1f2937&line=4F46E5&point=4F46E5&area=true&hide_border=true)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Ryanditko&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&row=1&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
+  ![Gráfico de Atividades do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=Ryanditko&theme=github-compact&bg_color=0d1117&color=f0f6fc&line=4493f8&point=4493f8&area=true&hide_border=true&area_color=21262d)
   
 
 </div>
