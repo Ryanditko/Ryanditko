@@ -22,7 +22,7 @@
   [![GitHub](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ryanditko)
   
   
-   <h3>Contact</h3>
+   <h3>Portfolio</h3>
    
    <div align="center">
 
@@ -97,4 +97,9 @@
 
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ryanditko&label=Profile%20Views&color=000000&style=flat)
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Ryanditko&label=Profile%20Views&color=000000&style=flat)
+  
+</div>
+
