@@ -96,4 +96,5 @@
 *Thank you for visiting my profile!*
 
 </div>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Ryanditko&label=Profile%20Views&color=000000&style=flat)
