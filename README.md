@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/AvyuD2w.png" width="100%" style="max-width: 500px;" alt="Header">
+  <img src="https://i.imgur.com/5pM5Ava.png" width="100%" style="max-width: 500px;" alt="Header">
 </div>
 
 ## About Me
