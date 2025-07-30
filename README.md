@@ -20,6 +20,16 @@
   [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yryurodriguess@gmail.com)
   [![YouTube](https://img.shields.io/badge/Youtube-000000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Ryanditko)
   [![GitHub](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ryanditko)
+  
+  
+   <h3>Contact</h3>
+   
+   <div align="center">
+
+[![Portfolio Preview](https://img.shields.io/badge/Portfolio_Preview-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ryandev-dun.vercel.app)
+![Profile Views](https://komarev.com/ghpvc/?username=Ryanditko&label=Profile%20Views&color=000000&style=flat)
+
+</div>
 
 
   <h3>Join in my Discord servers</h3>
@@ -77,12 +87,6 @@
 
 <img align="right" src="https://i.imgur.com/M88ww3B.png" alt="me" style="min-width: 100px; max-width: 100px; width: 100px;">
 
-<div align="center">
-
-[![Portfolio Preview](https://img.shields.io/badge/Portfolio_Preview-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ryandev-dun.vercel.app)
-![Profile Views](https://komarev.com/ghpvc/?username=Ryanditko&label=Profile%20Views&color=000000&style=flat)
-
-</div>
 
 <div align="center">
 
