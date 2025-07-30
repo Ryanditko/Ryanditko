@@ -1,7 +1,7 @@
 # Ryan Rodrigues
 
 <div align="center">
-  <img src="https://i.imgur.com/5pM5Ava.png" width="100%" style="max-width: 600px;" alt="Header">
+  <img src="https://i.imgur.com/AvyuD2w.png" width="100%" style="max-width: 800px;" alt="Header">
 </div>
 
 <div align="center">
@@ -12,109 +12,68 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-<img align="right" src="https://i.imgur.com/M88ww3B.png" alt="Profile" width="150" height="150" style="margin-left: 20px;">
+<img align="right" src="https://i.imgur.com/3fNS7ku.png" alt="Profile" width="150" height="150" style="margin-left: 20px;">
 
-**Currently working on:** Discord bots and web development projects  
-**Learning:** Docker, Golang, Kotlin, TypeScript, React  
-**Ask me about:** Python, JavaScript, Discord bots, APIs  
-**Experience:** Building communities and connecting people through technology  
-**Goal:** Develop impactful software solutions  
+**🔭 Currently working on:** Discord bots and web development projects  
+**🌱 Learning:** Docker, Golang, Kotlin, TypeScript, React  
+**💬 Ask me about:** Python, JavaScript, Discord bots, APIs  
+**💼 Experience:** Building communities and connecting people through technology  
+**🎯 Goal:** Develop impactful software solutions  
 
 <br clear="right"/>
 
 ---
 
-## Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      
-**Social Media**
-
+### 📱 Social Media
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ryan.ditko)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-rodrigues-592a27313)
-
-    </td>
-    <td align="center" width="25%">
-      
-**Platforms**
-
 [![YouTube](https://img.shields.io/badge/Youtube-000000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Ryanditko)
 [![GitHub](https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ryanditko)
 
-    </td>
-    <td align="center" width="50%">
-      
-**Communication**
-
+### 💬 Communication
 [![Discord](https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/eWkcKYKCc4)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yryurodriguess@gmail.com)
 
-    </td>
-  </tr>
-</table>
+### 🎮 Join My Discord Communities
 
-### Join My Discord Communities
-
-<p align="center">
-  <a href="https://discord.gg/gibrasil">
-    <img src="https://cardzera.audibert.dev/api/748720691645251716?backgroundColor=000000&buttonColor=FFFFFF&buttonTextColor=000000&infoColor=FFFFFF&nameColor=FFFFFF&borderRadius=10&titleLen=24&elipsis=false&t={timestamp}" alt="GI Brasil Discord" style="margin: 5px;">
-  </a>
-  <a href="https://discord.gg/operaepiclese">
-    <img src="https://cardzera.audibert.dev/api/996403908530405406?backgroundColor=000000&buttonColor=FFFFFF&buttonTextColor=000000&infoColor=FFFFFF&nameColor=FFFFFF&borderRadius=10&titleLen=24&elipsis=false&t={timestamp}" alt="Opera Epiclese Discord" style="margin: 5px;">
-  </a>
-</p>
+[![GI Brasil](https://cardzera.audibert.dev/api/748720691645251716?backgroundColor=000000&buttonColor=FFFFFF&buttonTextColor=000000&infoColor=FFFFFF&nameColor=FFFFFF&borderRadius=10&titleLen=24&elipsis=false&t={timestamp})](https://discord.gg/gibrasil)
+[![Opera Epiclese](https://cardzera.audibert.dev/api/996403908530405406?backgroundColor=000000&buttonColor=FFFFFF&buttonTextColor=000000&infoColor=FFFFFF&nameColor=FFFFFF&borderRadius=10&titleLen=24&elipsis=false&t={timestamp})](https://discord.gg/operaepiclese)
 
 </div>
 
 ---
 
-## Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      
-**Programming Languages**
-
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Frontend Development**
-
+### Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-    </td>
-    <td align="center" width="50%">
-      
-**Backend & APIs**
-
+### Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
 ![API REST](https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=postman&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-000000?style=for-the-badge&logo=powerbi&logoColor=white)
 
-**Version Control & DevOps**
-
+### Version Control & DevOps
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
-    </td>
-  </tr>
-</table>
-
-**Discord Bot Development**
-
+### Discord Bot Development
 ![Discord.js](https://img.shields.io/badge/Discord.js-000000?style=for-the-badge&logo=discord&logoColor=white)
 ![Discord.py](https://img.shields.io/badge/Discord.py-000000?style=for-the-badge&logo=discord&logoColor=white)
 
@@ -138,7 +97,7 @@
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -153,12 +112,10 @@
   </tr>
 </table>
 
-<br>
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ryanditko&theme=dark&no-frame=true&no-bg=true&margin-w=4&row=1&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ryanditko&theme=dark&hide_border=false&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)](https://git.io/streak-stats)
-
-<br>
-
+### 📈 Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ryanditko&theme=github-compact&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true)
 
 </div>
@@ -198,7 +155,7 @@ const developer = {
 
 ---
 
-## Contact
+## 📞 Contact
 
 <div align="center">
 
