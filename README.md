@@ -1,12 +1,12 @@
 # Ryan Rodrigues
 
 <div align="center">
-  <img src="https://i.imgur.com/AvyuD2w.png" width="600" alt="Header">
+  <img src="https://i.imgur.com/5pM5Ava.png" width="100%" style="max-width: 600px;" alt="Header">
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Welcome,+I'm+Ryan+Rodrigues;Full+Stack+Developer+%26+Discord+Bot+Creator;Bem+vindo,+Eu+sou+o+Ryan;Desenvolvedor+e+Criador+de+Bots&color=FFFFFF&pause=1000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=28&center=true&vCenter=true&width=1000&lines=Welcome,+I'm+Ryan+Rodrigues;Full+Stack+Developer+%26+Discord+Bot+Creator;Bem+vindo,+Eu+sou+o+Ryan;Desenvolvedor+e+Criador+de+Bots&color=FFFFFF&pause=1000)](https://git.io/typing-svg)
 
 </div>
 
