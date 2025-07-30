@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=28&center=true&vCenter=true&width=1000&lines=Welcome,+I'm+Ryan+Rodrigues;Full+Stack+Developer+%26+Discord+Bot+Creator;Bem+vindo,+Eu+sou+o+Ryan;Desenvolvedor+e+Criador+de+Bots&color=FFFFFF&pause=1000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=28&center=true&vCenter=true&width=1000&lines=Welcome,+I'm+Ryan+Rodrigues!;Full+Stack+Developer+%26+Discord+Bot+Creator;Bem+vindo,+Eu+sou+o+Ryan;Desenvolvedor+e+Criador+de+Bots&color=FFFFFF&pause=1000)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## About Me
 
-<img align="right" src="https://i.imgur.com/AvyuD2w.png" alt="Profile" width="150" height="150" style="margin-left: 20px;">
+<img align="right" src="https://i.imgur.com/AvyuD2w.png" alt="Profile" width="150" height="150" style="margin-left: 10px;">
 
 **Currently working on:** Discord bots and web development projects  
 **Learning:** Docker, Golang, Kotlin, TypeScript, React  
@@ -67,7 +67,7 @@
 
 </div>
 
-## Currently Learning
+## Learning
 
 <div align="center">
 
@@ -81,7 +81,6 @@
 
 </div>
 
-## GitHub Analytics
 
 <div align="center">
 
