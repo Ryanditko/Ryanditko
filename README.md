@@ -78,6 +78,6 @@
 
 <div align="center">
   <p style="font-size: 1.2em; color: #000000;">
-    <strong>If you share similar interests, let's exchange ideas!</strong>
+    <h3>If you share similar interests, let's exchange ideas!<h3/>
   </p>
 </div>
