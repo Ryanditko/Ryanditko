@@ -33,7 +33,7 @@
 
   <h3>Join in my Discord servers</h3>
 
-  [![GI Brasil](https://cardzera.audibert.dev/api/748720691645251716?backgroundColor=F3E5F5&buttonColor=CE93D8&buttonTextColor=ffffff&infoColor=8E24AA&nameColor=4A148C&borderRadius=10&titleLen=24&elipsis=false&t={timestamp})](https://discord.gg/gibrasil)
+  [![GI Brasil](https://cardzera.audibert.dev/api/748720691645251716?backgroundColor=F3E5F5&buttonColor=BAE1FF&buttonTextColor=ffffff&infoColor=8E24AA&nameColor=4A148C&borderRadius=10&titleLen=24&elipsis=false&t={timestamp})](https://discord.gg/gibrasil)
   [![Opera Epiclese](https://cardzera.audibert.dev/api/996403908530405406?backgroundColor=E8F5E8&buttonColor=A5D6A7&buttonTextColor=ffffff&infoColor=388E3C&nameColor=1B5E20&borderRadius=10&titleLen=24&elipsis=false&t={timestamp})](https://discord.gg/operaepiclese)
 
 
@@ -72,16 +72,16 @@
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Ryanditko&theme=buefy&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=f8fafc&title_color=8b5cf6&text_color=64748b&icon_color=f59e0b&hide=contribs" height="165"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Ryanditko&theme=buefy&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=00000000&title_color=8b5cf6&text_color=64748b&icon_color=f59e0b&hide=contribs" height="165"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanditko&layout=compact&theme=buefy&hide_border=true&bg_color=f8fafc&title_color=8b5cf6&text_color=64748b" height="165"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanditko&layout=compact&theme=buefy&hide_border=true&bg_color=00000000&title_color=8b5cf6&text_color=64748b" height="165"/>
       </td>
     </tr>
   </table>
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=Ryanditko&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=1&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
-  ![Gráfico de Atividades do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=Ryanditko&theme=minimal&bg_color=f8fafc&color=8b5cf6&line=f59e0b&point=10b981&area=true&hide_border=true&area_color=ddd6fe)
+  ![Gráfico de Atividades do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=Ryanditko&theme=minimal&bg_color=00000000&color=8b5cf6&line=A0E7E5&point=A0E7E5&area=true&hide_border=true&area_color=A0E7E530)
   
 
 </div>
