@@ -27,7 +27,7 @@
   [![Opera Epiclese](https://cardzera.audibert.dev/api/996403908530405406?backgroundColor=000000&buttonColor=ffffff&buttonTextColor=000000&infoColor=ffffff&nameColor=ffffff&borderRadius=10&titleLen=24&elipsis=false&t={timestamp})](https://discord.gg/operaepiclese)
 
 
-<h3>Stacks</h3>
+<h3>Stacks and Tools</h3>
 
 <!-- Linguagens -->
 [![PYTHON](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)]()
