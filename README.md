@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A78BFA&size=35&center=true&vCenter=true&width=1000&lines=Welcome,+My+name+is+Ryan+Rodrigues!;Bem+vindo,+Meu+Nome+é+Ryan+Rodrigues!&color=A78BFA&pause=1000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A78BFA&size=35&center=true&vCenter=true&width=1000&lines=Welcome,+My+name+is+Ryan+Rodrigues!;Bem+vindo,+Meu+Nome+é+Ryan+Rodrigues!&color=A0E7E5&pause=1000)](https://git.io/typing-svg)
 
 </div>
 
@@ -100,7 +100,6 @@
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Ryanditko&label=Profile%20Views&color=A78BFA&style=flat)
-  ![Followers](https://img.shields.io/github/followers/Ryanditko?label=Followers&style=for-the-badge&color=F59E0B)
   
 </div>
 
