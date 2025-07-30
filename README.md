@@ -138,7 +138,7 @@
 <div align="center">
 
 [![Portfolio Preview](https://img.shields.io/badge/Portfolio_Preview-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ryandev-dun.vercel.app)
-[![Profile Views](https://komarev.com/ghpvc/?username=Ryanditko&label=Profile%20Views&color=000000&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Ryanditko&label=Profile%20Views&color=000000&style=flat)
 
 </div>
 
