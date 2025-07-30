@@ -10,7 +10,7 @@
 
 ## About Me
 
-<img align="right" src="https://i.imgur.com/AvyuD2w.png" alt="Profile" width="150" height="150" style="margin-left: 10px;">
+<img align="right" src="https://i.imgur.com/M88ww3B.png" alt="Profile" width="150" height="150" style="margin-left: 30px;">
 
 **Currently working on:** Discord bots and web development projects  
 **Learning:** Docker, Golang, Kotlin, TypeScript, React  
@@ -117,7 +117,7 @@
 
 <div align="center">
 
-    const developer = {
+    const ryan = {
         name: "Ryan Rodrigues",
         location: "Brazil",
         languages: ["Portuguese", "English"],
@@ -128,7 +128,7 @@
 
 </div>
 
-## Portfolio
+## 
 
 <div align="center">
 
