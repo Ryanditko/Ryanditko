@@ -14,7 +14,7 @@
 
 ## About Me
 
-<img align="right" src="https://i.imgur.com/3fNS7ku.png" alt="Profile" width="150" height="150" style="margin-left: 20px;">
+<img align="right" src="https://i.imgur.com/M88ww3B.png" alt="Profile" width="150" height="150" style="margin-left: 20px;">
 
 **Currently working on:** Discord bots and web development projects  
 **Learning:** Docker, Golang, Kotlin, TypeScript, React  
@@ -130,14 +130,17 @@
   <tr>
     <td align="center" width="50%">
       <h3>Discord Bot Collection</h3>
-      <p>Advanced Discord bots with moderation, music, and community features</p>
+      <p>Discord bots with moderation, music, and community features</p>
       <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Typescript-000000?style=flat-square&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/Discord.py-000000?style=flat-square&logo=discord&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Discord.js-000000?style=flat-square&logo=discord&logoColor=white"/>
     </td>
     <td align="center" width="50%">
       <h3>Web Applications</h3>
       <p>Full-stack web applications with modern technologies</p>
       <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Typescript-000000?style=flat-square&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=node.js&logoColor=white"/>
     </td>
   </tr>
@@ -156,7 +159,7 @@ const developer = {
     name: "Ryan Rodrigues",
     location: "Brazil",
     languages: ["Portuguese", "English"],
-    specialization: ["Discord Bots", "Web Development", "API Development"],
+    working: ["Discord Bots", "Web Development", "API Development", "Data Analytics"],
     technologies: ["Python", "JavaScript", "Node.js", "SQL"],
     currentFocus: "Full-stack development and community building"
 };
@@ -170,9 +173,8 @@ const developer = {
 
 <div align="center">
 
-**Professional Inquiries:** yryurodriguess@gmail.com  
-**Discord Community:** discord.gg/eWkcKYKCc4  
-**Portfolio:** github.com/Ryanditko  
+**Professional Inquiries:** yryurodriguess@gmail.com 
+**Portfolio:** https://ryandev-dun.vercel.app 
 
 If you share similar interests or have project ideas, let's connect and collaborate.
 
