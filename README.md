@@ -10,7 +10,7 @@
 
 ## About Me
 
-<img align="right" src="https://i.imgur.com/3fNS7ku.png" alt="Profile" width="150" height="150" style="margin-left: 20px;">
+<img align="right" src="https://i.imgur.com/AvyuD2w.png" alt="Profile" width="150" height="150" style="margin-left: 20px;">
 
 **Currently working on:** Discord bots and web development projects  
 **Learning:** Docker, Golang, Kotlin, TypeScript, React  
@@ -100,7 +100,7 @@
   </tr>
 </table>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ryanditko&theme=onedark&no-frame=true&no-bg=false&margin-w=4&row=1&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ryanditko&theme=monokai&no-frame=true&no-bg=false&margin-w=4&row=1&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ryanditko&theme=github-compact&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true)
 
@@ -133,15 +133,13 @@
 
 </div>
 
-## Contact
+## Portfolio
 
 <div align="center">
 
 [![Portfolio Preview](https://img.shields.io/badge/Portfolio_Preview-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ryandev-dun.vercel.app)
-
-If you share similar interests or have project ideas, let's connect and collaborate.
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Ryanditko&label=Profile%20Views&color=FFFFFF&style=flat)
+If you share similar interests or have project ideas, let's connect and collaborate.
 
 </div>
 
