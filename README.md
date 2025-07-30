@@ -1,13 +1,11 @@
-# Ryan Rodrigues
-
-<div align="center">
-  <img src="https://i.imgur.com/AvyuD2w.png" width="100%" style="max-width: 500px;" alt="Header">
-</div>
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=28&center=true&vCenter=true&width=1000&lines=Welcome,+I'm+Ryan+Rodrigues;Full+Stack+Developer+%26+Discord+Bot+Creator;Bem+vindo,+Eu+sou+o+Ryan;Desenvolvedor+e+Criador+de+Bots&color=FFFFFF&pause=1000)](https://git.io/typing-svg)
 
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/AvyuD2w.png" width="100%" style="max-width: 500px;" alt="Header">
 </div>
 
 ## About Me
@@ -102,10 +100,8 @@
   </tr>
 </table>
 
-### GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ryanditko&theme=onedark&no-frame=true&no-bg=false&margin-w=4&row=1&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Activity Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ryanditko&theme=github-compact&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true)
 
 </div>
@@ -140,9 +136,6 @@
 ## Contact
 
 <div align="center">
-
-**Professional Inquiries:** [yryurodriguess@gmail.com](mailto:yryurodriguess@gmail.com)  
-**Portfolio:** [View Portfolio](https://ryandev-dun.vercel.app)
 
 [![Portfolio Preview](https://img.shields.io/badge/Portfolio_Preview-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ryandev-dun.vercel.app)
 
