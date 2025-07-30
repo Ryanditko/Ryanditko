@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Welcome,+I'm+Ryan+Rodrigues;Full+Stack+Developer+%26+Discord+Bot+Creator;Bem+vindo,+Eu+sou+o+Ryan;Desenvolvedor+e+Criador+de+Bots&color=00FF00&pause=1000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Welcome,+I'm+Ryan+Rodrigues;Full+Stack+Developer+%26+Discord+Bot+Creator;Bem+vindo,+Eu+sou+o+Ryan;Desenvolvedor+e+Criador+de+Bots&color=FFFFFF&pause=1000)](https://git.io/typing-svg)
 
 </div>
 
@@ -42,8 +42,8 @@
 
 ### Join My Discord Communities
 
-[![GI Brasil](https://cardzera.audibert.dev/api/748720691645251716?backgroundColor=000000&buttonColor=00FF00&buttonTextColor=000000&infoColor=00FF00&nameColor=00FF00&borderRadius=10&titleLen=24&elipsis=false&t={timestamp})](https://discord.gg/gibrasil)
-[![Opera Epiclese](https://cardzera.audibert.dev/api/996403908530405406?backgroundColor=000000&buttonColor=00FF00&buttonTextColor=000000&infoColor=00FF00&nameColor=00FF00&borderRadius=10&titleLen=24&elipsis=false&t={timestamp})](https://discord.gg/operaepiclese)
+[![GI Brasil](https://cardzera.audibert.dev/api/748720691645251716?backgroundColor=000000&buttonColor=FFFFFF&buttonTextColor=000000&infoColor=FFFFFF&nameColor=FFFFFF&borderRadius=10&titleLen=24&elipsis=false&t={timestamp})](https://discord.gg/gibrasil)
+[![Opera Epiclese](https://cardzera.audibert.dev/api/996403908530405406?backgroundColor=000000&buttonColor=FFFFFF&buttonTextColor=000000&infoColor=FFFFFF&nameColor=FFFFFF&borderRadius=10&titleLen=24&elipsis=false&t={timestamp})](https://discord.gg/operaepiclese)
 
 </div>
 
@@ -104,19 +104,19 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Ryanditko&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=000000&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00" height="180"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Ryanditko&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" height="180"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanditko&layout=compact&theme=dark&hide_border=false&bg_color=000000&title_color=00FF00&text_color=FFFFFF" height="180"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanditko&layout=compact&theme=dark&hide_border=false&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF" height="180"/>
     </td>
   </tr>
 </table>
 
 ### Contribution Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ryanditko&theme=dark&hide_border=false&background=000000&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF00&sideLabels=00FF00&dates=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ryanditko&theme=dark&hide_border=false&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF)](https://git.io/streak-stats)
 
 ### Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ryanditko&theme=github-compact&bg_color=000000&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ryanditko&theme=github-compact&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true)
 
 </div>
 
@@ -176,6 +176,6 @@ const developer = {
 
 If you share similar interests or have project ideas, let's connect and collaborate.
 
-<img src="https://komarev.com/ghpvc/?username=Ryanditko&label=Profile%20Views&color=00FF00&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Ryanditko&label=Profile%20Views&color=FFFFFF&style=flat" alt="Profile Views" />
 
 </div>
