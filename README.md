@@ -31,10 +31,10 @@
 </div>
 
 
-  <h3>Join in my Discord servers</h3>
+<!-- <h3>Join in my Discord servers</h3>
 
   [![GI Brasil](https://cardzera.audibert.dev/api/748720691645251716?backgroundColor=000000&buttonColor=ffffff&buttonTextColor=000000&infoColor=ffffff&nameColor=ffffff&borderRadius=10&titleLen=24&elipsis=false&t={timestamp})](https://discord.gg/gibrasil)
-  [![Opera Epiclese](https://cardzera.audibert.dev/api/996403908530405406?backgroundColor=000000&buttonColor=ffffff&buttonTextColor=000000&infoColor=ffffff&nameColor=ffffff&borderRadius=10&titleLen=24&elipsis=false&t={timestamp})](https://discord.gg/voidrequiem)
+  [![Opera Epiclese](https://cardzera.audibert.dev/api/996403908530405406?backgroundColor=000000&buttonColor=ffffff&buttonTextColor=000000&infoColor=ffffff&nameColor=ffffff&borderRadius=10&titleLen=24&elipsis=false&t={timestamp})](https://discord.gg/voidrequiem)  -->
 
 
 <h3>Stacks and Tools</h3>
