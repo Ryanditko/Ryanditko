@@ -86,10 +86,6 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Ryanditko/Ryanditko/output/pacman-contribution-graph.svg" alt="Pacman contribution graph">
-
-
-
 <img align="right" src="https://i.imgur.com/M88ww3B.png" alt="me" style="min-width: 100px; max-width: 100px; width: 100px;">
 
 
