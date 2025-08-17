@@ -80,7 +80,7 @@
     </tr>
   </table>
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Ryanditko&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy)
+ <!-- Linguagens [![trophy](https://github-profile-trophy.vercel.app/?username=Ryanditko&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy) -->
   ![Gráfico de Atividades do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=Ryanditko&theme=github-compact&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true)
   
 
@@ -102,5 +102,6 @@
   ![Profile Views](https://komarev.com/ghpvc/?username=Ryanditko&label=Profile%20Views&color=000000&style=flat)
   
 </div>
+
 
 
