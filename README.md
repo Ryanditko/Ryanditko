@@ -86,6 +86,13 @@
 
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ryanditko/Ryanditko/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ryanditko/Ryanditko/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ryanditko/Ryanditko/output/pacman-contribution-graph.svg">
+  </picture>
+  
 <img align="right" src="https://i.imgur.com/M88ww3B.png" alt="me" style="min-width: 100px; max-width: 100px; width: 100px;">
 
 
