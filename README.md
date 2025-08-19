@@ -45,7 +45,7 @@ I enjoy working on projects that challenge me and help me grow as a developer.
     </a>
   </div>
 
-   ### <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOHe/giphy.gif" width="25"> Portfolio
+   ### <img src="https://cdn.dribbble.com/userupload/21659178/file/original-0907a66e63b9cb84561942e2192249f7.gif" width="25"> Portfolio
    
    <div align="center">
     <a href="https://ryandev-dun.vercel.app" target="_blank">
@@ -157,6 +157,7 @@ I enjoy working on projects that challenge me and help me grow as a developer.
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=120&section=footer"/>
+
 
 
 
