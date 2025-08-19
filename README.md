@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E7D32&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFAA&size=35&center=true&vCenter=true&width=1000&lines=Welcome,+I'm+Ryan+Rodrigues;Software+Developer;Learning+and+Building;Passionate+About+Technology)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=66BB6A&size=35&center=true&vCenter=true&width=1000&lines=Welcome,+I'm+Ryan+Rodrigues;Software+Developer;Learning+and+Building;Passionate+About+Technology)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://i.imgur.com/5pM5Ava.png" width="500" alt="Rises of moon">
@@ -133,11 +133,12 @@ I enjoy working on projects that challenge me and help me grow as a developer.
 
 **Thanks for checking out my profile! Feel free to explore my repos and connect.**  
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ryanditko&label=Profile%20Views&color=CDDC39&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Ryanditko&label=Profile%20Views&color=66BB6A&style=flat-square)
 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E7D32&height=120&section=footer"/>
+
 
 
 
