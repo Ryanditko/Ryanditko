@@ -59,34 +59,47 @@ I enjoy working on projects that challenge me and help me grow as a developer.
 
 ## <img src="https://media2.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech and Stacks
 
-### 💻 Programming Languages
+### <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="25"> Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FFAA)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FFAA)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FFAA)
 
-### 🎨 Frontend Technologies
+### <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="25"> Frontend Technologies
 
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FFAA)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FFAA)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=00FFAA)
 
-### ⚙️ Backend & Tools
+### <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="25"> Backend & Tools
 
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00FFAA)
 ![API REST](https://img.shields.io/badge/API_REST-000000?style=for-the-badge&logo=postman&logoColor=00FFAA)
 ![DAX](https://img.shields.io/badge/DAX-000000?style=for-the-badge&logo=powerbi&logoColor=00FFAA)
 
-### 🔧 Development Tools
+### <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="25"> Development Tools
 
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FFAA)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FFAA)
 ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=00FFAA)
 
-### 🤖 Bot Development
+### <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="25"> Bot Development
 
 ![Discord.js](https://img.shields.io/badge/Discord.js-000000?style=for-the-badge&logo=discord&logoColor=00FFAA)
 ![Discord.py](https://img.shields.io/badge/Discord.py-000000?style=for-the-badge&logo=discord&logoColor=00FFAA)
+
+### <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="25"> Data Analysis & Business Intelligence
+
+![Excel](https://img.shields.io/badge/Microsoft_Excel-000000?style=for-the-badge&logo=microsoft-excel&logoColor=00FFAA)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-000000?style=for-the-badge&logo=google-sheets&logoColor=00FFAA)
+![Power BI](https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=power-bi&logoColor=00FFAA)
+![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=00FFAA)
+![Kaggle](https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=00FFAA)
+
+### <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="25"> CRM & Customer Service
+
+![Salesforce](https://img.shields.io/badge/Salesforce-000000?style=for-the-badge&logo=salesforce&logoColor=00FFAA)
+![Genesys Cloud](https://img.shields.io/badge/Genesys%20Cloud-000000?style=for-the-badge&logo=genesys&logoColor=00FFAA)
 
 ---
 
@@ -117,13 +130,19 @@ I enjoy working on projects that challenge me and help me grow as a developer.
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> My GitHub Activity
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ryanditko&show_icons=true&count_private=true&hide_border=true&title_color=00FFAA&icon_color=00FFAA&text_color=ffffff&bg_color=000000" alt="Ryan's GitHub Stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanditko&layout=compact&hide_border=true&title_color=00FFAA&text_color=00FFAA&bg_color=000000" alt="Most Used Languages" />
-</div>
+<table>
+<tr>
+<td>
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=Ryanditko&show_icons=true&count_private=true&hide_border=true&title_color=00FFAA&icon_color=00FFAA&text_color=000000&bg_color=ffffff" alt="Ryan's GitHub Stats" />
+</td>
+<td>
+<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanditko&layout=compact&hide_border=true&title_color=00FFAA&text_color=000000&bg_color=ffffff" alt="Most Used Languages" />
+</td>
+</tr>
+</table>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ryanditko&bg_color=000000&color=00FFAA&line=00FFAA&point=00FFAA&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ryanditko&bg_color=ffffff&color=00FFAA&line=00FFAA&point=00FFAA&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -133,7 +152,7 @@ I enjoy working on projects that challenge me and help me grow as a developer.
 
 **Thanks for checking out my profile! Feel free to explore my repos and connect.**  
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ryanditko&label=Profile%20Views&color=CDDC39&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Ryanditko&label=Profile%20Views&color=00FFAA&style=flat-square)
 
 </div>
 
