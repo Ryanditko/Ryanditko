@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E7D32&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=66BB6A&size=35&center=true&vCenter=true&width=1000&lines=Welcome,+I'm+Ryan+Rodrigues;Software+Engineer+%26+Developer;Automation+%26+AI+Specialist;Building+Scalable+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=66BB6A&size=35&center=true&vCenter=true&width=1000&lines=Welcome,+I'm+Ryan+Rodrigues;Software+Developer;Learning+and+Building;Passionate+About+Technology)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7c7d25.gif" width="500" alt="Professional Developer">
@@ -8,12 +8,12 @@
 
 ## 👨‍💻 About Me
 
-I am a **Software Engineer** specialized in automation, security, and scalable system architecture.  
-Focused on delivering robust, efficient solutions that drive business value and technological innovation.  
+I'm a **Software Developer** passionate about technology and continuous learning.  
+I enjoy working on projects that challenge me and help me grow as a developer.  
 
-**Core Expertise:** Artificial Intelligence, Process Automation, Cloud Architecture, System Integration  
-**Current Focus:** Enterprise backend development, microservices, and cloud-native solutions  
-**Experience:** Proven track record in software engineering and process optimization  
+**Areas of Interest:** Web Development, Automation, Discord Bots, Data Analysis  
+**Currently Working On:** Backend development, learning new frameworks and tools  
+**Background:** Self-taught developer with a focus on practical learning and real projects  
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400" alt="Professional Tech">
@@ -60,40 +60,40 @@ Focused on delivering robust, efficient solutions that drive business value and 
 
 ---
 
-## 🚀 Tech Stack & Skills
+## 🚀 Technologies I Work With
 
-### 💻 Programming Languages:
+### 💻 Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=A4FFAF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=A4FFAF)
 ![SQL](https://img.shields.io/badge/SQL-1a1a1a?style=for-the-badge&logo=postgresql&logoColor=A4FFAF)
 
-### 🎨 Frontend Development:
+### 🎨 Frontend Technologies
 
 ![HTML5](https://img.shields.io/badge/HTML5-1a1a1a?style=for-the-badge&logo=html5&logoColor=A4FFAF)
 ![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=for-the-badge&logo=css3&logoColor=A4FFAF)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-1a1a1a?style=for-the-badge&logo=bootstrap&logoColor=A4FFAF)
 
-### ⚙️ Backend & Tools:
+### ⚙️ Backend & Tools
 
 ![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=for-the-badge&logo=node.js&logoColor=A4FFAF)
 ![API REST](https://img.shields.io/badge/API_REST-1a1a1a?style=for-the-badge&logo=postman&logoColor=A4FFAF)
 ![DAX](https://img.shields.io/badge/DAX-1a1a1a?style=for-the-badge&logo=powerbi&logoColor=A4FFAF)
 
-### 🔧 DevOps & Version Control:
+### 🔧 Development Tools
 
 ![Git](https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=A4FFAF)
 ![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=A4FFAF)
 ![AWS](https://img.shields.io/badge/AWS-1a1a1a?style=for-the-badge&logo=amazon-aws&logoColor=A4FFAF)
 
-### 🤖 Bot Development:
+### 🤖 Bot Development
 
 ![Discord.js](https://img.shields.io/badge/Discord.js-1a1a1a?style=for-the-badge&logo=discord&logoColor=A4FFAF)
 ![Discord.py](https://img.shields.io/badge/Discord.py-1a1a1a?style=for-the-badge&logo=discord&logoColor=A4FFAF)
 
 ---
 
-## 🌟 Currently Learning
+## 📚 What I'm Learning
 
 ![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=for-the-badge&logo=docker&logoColor=CDDC39)
 ![Go](https://img.shields.io/badge/Go-1a1a1a?style=for-the-badge&logo=go&logoColor=CDDC39)
@@ -118,11 +118,11 @@ Focused on delivering robust, efficient solutions that drive business value and 
 
 ---
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50" alt="Analytics"> GitHub Statistics
+## 📊 My GitHub Activity
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ryanditko&show_icons=true&count_private=true&hide_border=true&title_color=66BB6A&icon_color=A4FFAF&text_color=c9d1d9&bg_color=1a1a1a" alt="Ryan's GitHub Stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanditko&layout=compact&hide_border=true&title_color=66BB6A&text_color=A4FFAF&bg_color=1a1a1a" alt="Top Languages" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanditko&layout=compact&hide_border=true&title_color=66BB6A&text_color=A4FFAF&bg_color=1a1a1a" alt="Most Used Languages" />
 </div>
 
 <div align="center">
@@ -135,7 +135,7 @@ Focused on delivering robust, efficient solutions that drive business value and 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350" alt="Professional Thank You">
 
-**Thank you for visiting my profile! Feel free to explore my repositories and connect.**  
+**Thanks for checking out my profile! Feel free to explore my repos and connect.**  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ryanditko&label=Profile%20Views&color=66BB6A&style=flat-square)
 
