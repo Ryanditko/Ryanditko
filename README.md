@@ -22,7 +22,7 @@ I enjoy working on projects that challenge me and help me grow as a developer.
 
 <div align="center">
   
-  ### 🌐 Connect with Me
+  ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Social Media
 
   <div style="display: flex; gap: 15px;">
     <a href="mailto:yryurodriguess@gmail.com" target="_blank">
@@ -45,7 +45,7 @@ I enjoy working on projects that challenge me and help me grow as a developer.
     </a>
   </div>
 
-   ### 💼 Portfolio
+   ### <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25"> Portfolio
    
    <div align="center">
     <a href="https://ryandev-dun.vercel.app" target="_blank">
