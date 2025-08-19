@@ -137,7 +137,8 @@ I enjoy working on projects that challenge me and help me grow as a developer.
 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=66BB6A&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=120&section=footer"/>
+
 
 
 
