@@ -19,9 +19,9 @@
 I am a **Software Engineer** focused on automation, security, and data-driven solutions.  
 I work on projects that combine efficiency, scalability, and reliability.  
 
-- Areas of interest: Artificial Intelligence, Automation, SaaS platforms, System Integration.  
-- Current focus: backend development, cloud infrastructure, and scalable architectures.  
-- Strong background in process improvement and applied software engineering.
+Areas of interest: Artificial Intelligence, Automation, SaaS platforms, System Integration.  
+Current focus: backend development, cloud infrastructure, and scalable architectures.  
+Strong background in process improvement and applied software engineering.
   
 </div>
 
@@ -118,3 +118,4 @@ If you find my work useful, consider starring the repositories.
 ![Profile Views](https://komarev.com/ghpvc/?username=Ryanditko&label=Profile%20Views&color=000000&style=flat)
 
 </div>
+
