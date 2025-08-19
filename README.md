@@ -133,11 +133,12 @@ I enjoy working on projects that challenge me and help me grow as a developer.
 
 **Thanks for checking out my profile! Feel free to explore my repos and connect.**  
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ryanditko&label=Profile%20Views&color=CDDC39&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Ryanditko&label=Profile%20Views&color=00FFAA&style=flat-square)
 
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=120&section=footer"/>
+
 
 
 
