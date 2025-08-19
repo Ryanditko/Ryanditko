@@ -14,11 +14,6 @@ I enjoy working on projects that challenge me and help me grow as a developer.
 **Areas of Interest:** Web Development, Automation, Discord Bots, Data Analysis  
 **Currently Working On:** Backend development, learning new frameworks and tools  
 **Background:** Self-taught developer with a focus on practical learning and real projects  
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400" alt="Professional Tech">
-</div>
-
 ---
 
 
@@ -142,6 +137,7 @@ I enjoy working on projects that challenge me and help me grow as a developer.
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=120&section=footer"/>
+
 
 
 
