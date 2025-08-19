@@ -6,7 +6,7 @@
   <img src="https://i.imgur.com/5pM5Ava.png" width="500" alt="Rises of moon">
 </div>
 
-## 👨‍💻 About Me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
 
 I'm a **Software Developer** passionate about technology and continuous learning.  
 I enjoy working on projects that challenge me and help me grow as a developer.  
@@ -26,22 +26,22 @@ I enjoy working on projects that challenge me and help me grow as a developer.
 
   <div style="display: flex; gap: 15px;">
     <a href="mailto:yryurodriguess@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFAA" alt="Gmail">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=000000&color=00FFAA" alt="Gmail">
     </a>
     <a href="https://www.linkedin.com/in/ryan-rodrigues-592a27313" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFAA" alt="LinkedIn">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=000000&color=00FFAA" alt="LinkedIn">
     </a>
     <a href="https://instagram.com/ryan.ditko" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=00FFAA" alt="Instagram">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=000000&color=00FFAA" alt="Instagram">
     </a>
     <a href="https://discord.gg/eWkcKYKCc4" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&color=00FFAA" alt="Discord">
+      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=000000&color=00FFAA" alt="Discord">
     </a>
     <a href="https://www.youtube.com/@Ryanditko" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&color=00FFAA" alt="YouTube">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=000000&color=00FFAA" alt="YouTube">
     </a>
     <a href="https://github.com/Ryanditko" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=00FFAA" alt="GitHub">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=000000&color=00FFAA" alt="GitHub">
     </a>
   </div>
 
@@ -49,7 +49,7 @@ I enjoy working on projects that challenge me and help me grow as a developer.
    
    <div align="center">
     <a href="https://ryandev-dun.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/portfolio-%23FFFFFF?style=for-the-badge&logo=firefox&logoColor=white&color=00FFAA" alt="Portfolio">
+      <img src="https://img.shields.io/badge/portfolio-%23FFFFFF?style=for-the-badge&logo=firefox&logoColor=000000&color=00FFAA" alt="Portfolio">
     </a>
    </div>
 
@@ -57,7 +57,7 @@ I enjoy working on projects that challenge me and help me grow as a developer.
 
 ---
 
-## Tech and Stacks
+## <img src="https://media2.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech and Stacks
 
 ### 💻 Programming Languages
 
@@ -90,7 +90,7 @@ I enjoy working on projects that challenge me and help me grow as a developer.
 
 ---
 
-## 📚 Currently Learning
+## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> Currently Learning
 
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00FFAA)
 ![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go&logoColor=00FFAA)
@@ -102,7 +102,7 @@ I enjoy working on projects that challenge me and help me grow as a developer.
 
 ---
 
-## 🎮 Community & Discord Servers
+## <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="30"> Community & Discord Servers
 
 <div align="center">
   <a href="https://discord.gg/gibrasil">
@@ -115,7 +115,7 @@ I enjoy working on projects that challenge me and help me grow as a developer.
 
 ---
 
-## 📊 My GitHub Activity
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> My GitHub Activity
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ryanditko&show_icons=true&count_private=true&hide_border=true&title_color=00FFAA&icon_color=00FFAA&text_color=ffffff&bg_color=000000" alt="Ryan's GitHub Stats" />
@@ -133,12 +133,11 @@ I enjoy working on projects that challenge me and help me grow as a developer.
 
 **Thanks for checking out my profile! Feel free to explore my repos and connect.**  
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ryanditko&label=Profile%20Views&color=00FFAA&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Ryanditko&label=Profile%20Views&color=CDDC39&style=flat-square)
 
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=120&section=footer"/>
-
 
 
 
