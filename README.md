@@ -12,6 +12,7 @@
 </div>
 
 
+<div align="center">
 
 ## About Me  
 
@@ -20,7 +21,9 @@ I work on projects that combine efficiency, scalability, and reliability.
 
 - Areas of interest: Artificial Intelligence, Automation, SaaS platforms, System Integration.  
 - Current focus: backend development, cloud infrastructure, and scalable architectures.  
-- Strong background in process improvement and applied software engineering.  
+- Strong background in process improvement and applied software engineering.
+  
+</div>
 
 ---
 
@@ -102,6 +105,7 @@ I work on projects that combine efficiency, scalability, and reliability.
   </table>
   
  <!-- Linguagens [![trophy](https://github-profile-trophy.vercel.app/?username=Ryanditko&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=1&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues)](https://github.com/ryo-ma/github-profile-trophy) -->
+
   ![Gráfico de Atividades do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=Ryanditko&theme=github-compact&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true)
 ---
 
