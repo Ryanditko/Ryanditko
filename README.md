@@ -1,22 +1,22 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFAA&size=35&center=true&vCenter=true&width=1000&lines=Welcome,+I'm+Ryan+Rodrigues!;Software+Engineer+%26+Developer;Automation+%26+AI+Enthusiast;Building+the+Future+with+Code!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1976D2&size=35&center=true&vCenter=true&width=1000&lines=Welcome,+I'm+Ryan+Rodrigues;Software+Engineer+%26+Developer;Automation+%26+AI+Specialist;Building+Scalable+Solutions)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Coding GIF">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7c7d25.gif" width="500" alt="Professional Developer">
 </div>
 
 ## 👨‍💻 About Me
 
-I am a **Software Engineer** focused on automation, security, and data-driven solutions.  
-I work on projects that combine efficiency, scalability, and reliability.  
+I am a **Software Engineer** specialized in automation, security, and scalable system architecture.  
+Focused on delivering robust, efficient solutions that drive business value and technological innovation.  
 
-**Areas of expertise:** Artificial Intelligence, Automation, SaaS platforms, System Integration  
-**Current focus:** Backend development, cloud infrastructure, and scalable architectures  
-**Background:** Strong experience in process improvement and applied software engineering  
+**Core Expertise:** Artificial Intelligence, Process Automation, Cloud Architecture, System Integration  
+**Current Focus:** Enterprise backend development, microservices, and cloud-native solutions  
+**Experience:** Proven track record in software engineering and process optimization  
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="Tech Animation">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400" alt="Professional Tech">
 </div>
 
 ---
@@ -29,22 +29,22 @@ I work on projects that combine efficiency, scalability, and reliability.
 
   <div style="display: flex; gap: 15px;">
     <a href="mailto:yryurodriguess@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFAA" alt="Gmail">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=1976D2" alt="Gmail">
     </a>
     <a href="https://www.linkedin.com/in/ryan-rodrigues-592a27313" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFAA" alt="LinkedIn">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=1976D2" alt="LinkedIn">
     </a>
     <a href="https://instagram.com/ryan.ditko" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=00FFAA" alt="Instagram">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=1976D2" alt="Instagram">
     </a>
     <a href="https://discord.gg/eWkcKYKCc4" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&color=00FFAA" alt="Discord">
+      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&color=1976D2" alt="Discord">
     </a>
     <a href="https://www.youtube.com/@Ryanditko" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&color=00FFAA" alt="YouTube">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&color=1976D2" alt="YouTube">
     </a>
     <a href="https://github.com/Ryanditko" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=00FFAA" alt="GitHub">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=1976D2" alt="GitHub">
     </a>
   </div>
 
@@ -52,7 +52,7 @@ I work on projects that combine efficiency, scalability, and reliability.
    
    <div align="center">
     <a href="https://ryandev-dun.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/portfolio-%23FFFFFF?style=for-the-badge&logo=firefox&logoColor=white&color=00FFAA" alt="Portfolio">
+      <img src="https://img.shields.io/badge/portfolio-%23FFFFFF?style=for-the-badge&logo=firefox&logoColor=white&color=1976D2" alt="Portfolio">
     </a>
    </div>
 
@@ -104,38 +104,38 @@ I work on projects that combine efficiency, scalability, and reliability.
 
 <div align="center">
   <a href="https://discord.gg/gibrasil">
-    <img src="https://cardzera.audibert.dev/api/748720691645251716?backgroundColor=0d1117&buttonColor=00FFAA&buttonTextColor=000000&infoColor=ffffff&nameColor=00FFAA&borderRadius=10&titleLen=24&elipsis=false&t={timestamp}" alt="GI Brasil"/>
+    <img src="https://cardzera.audibert.dev/api/748720691645251716?backgroundColor=0d1117&buttonColor=1976D2&buttonTextColor=ffffff&infoColor=ffffff&nameColor=1976D2&borderRadius=10&titleLen=24&elipsis=false&t={timestamp}" alt="GI Brasil"/>
   </a>
   <a href="https://discord.gg/operaepiclese">
-    <img src="https://cardzera.audibert.dev/api/996403908530405406?backgroundColor=0d1117&buttonColor=00FFAA&buttonTextColor=000000&infoColor=ffffff&nameColor=00FFAA&borderRadius=10&titleLen=24&elipsis=false&t={timestamp}" alt="Opera Epiclese"/>
+    <img src="https://cardzera.audibert.dev/api/996403908530405406?backgroundColor=0d1117&buttonColor=1976D2&buttonTextColor=ffffff&infoColor=ffffff&nameColor=1976D2&borderRadius=10&titleLen=24&elipsis=false&t={timestamp}" alt="Opera Epiclese"/>
   </a>
 </div>
 
 ---
 
-## <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="40"> GitHub Statistics
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50" alt="Analytics"> GitHub Statistics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ryanditko&show_icons=true&count_private=true&hide_border=true&title_color=00FFAA&icon_color=00FFAA&text_color=c9d1d9&bg_color=0d1117" alt="Ryan's GitHub Stats" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanditko&layout=compact&hide_border=true&title_color=00FFAA&text_color=FFFFFF&bg_color=0d1117" alt="Top Languages" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ryanditko&show_icons=true&count_private=true&hide_border=true&title_color=1976D2&icon_color=1976D2&text_color=c9d1d9&bg_color=0d1117" alt="Ryan's GitHub Stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanditko&layout=compact&hide_border=true&title_color=1976D2&text_color=FFFFFF&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ryanditko&bg_color=0d1117&color=00FFAA&line=00FF7F&point=32CD32&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ryanditko&bg_color=0d1117&color=1976D2&line=42A5F5&point=1976D2&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="400" alt="Thank You GIF">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350" alt="Professional Thank You">
 
-**If you find my work useful, consider starring the repositories.**  
+**Thank you for visiting my profile! Feel free to explore my repositories and connect.**  
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ryanditko&label=Profile%20Views&color=00FFAA&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Ryanditko&label=Profile%20Views&color=1976D2&style=flat-square)
 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0D47A1&height=120&section=footer"/>
 
 
