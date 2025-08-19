@@ -87,6 +87,8 @@ I work on projects that combine efficiency, scalability, and reliability.
 </a>
 </div>
 
+---
+
   <table>
     <tr>
       <td>
