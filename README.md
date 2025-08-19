@@ -24,11 +24,6 @@ I work on projects that combine efficiency, scalability, and reliability.
 ---
 
 
-<div align="center">
-  <img src="https://i.imgur.com/5pM5Ava.png" width="500" alt="Rises of moon">
-</div>
-
-
 
 <div align="center">
   
