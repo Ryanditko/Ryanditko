@@ -26,30 +26,30 @@ I enjoy working on projects that challenge me and help me grow as a developer.
 
   <div style="display: flex; gap: 15px;">
     <a href="mailto:yryurodriguess@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=000000&color=00FFAA" alt="Gmail">
+      <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FFAA" alt="Gmail">
     </a>
     <a href="https://www.linkedin.com/in/ryan-rodrigues-592a27313" target="_blank">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=000000&color=00FFAA" alt="LinkedIn">
+      <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FFAA" alt="LinkedIn">
     </a>
     <a href="https://instagram.com/ryan.ditko" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=000000&color=00FFAA" alt="Instagram">
+      <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FFAA" alt="Instagram">
     </a>
     <a href="https://discord.gg/eWkcKYKCc4" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=000000&color=00FFAA" alt="Discord">
+      <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=00FFAA" alt="Discord">
     </a>
     <a href="https://www.youtube.com/@Ryanditko" target="_blank">
-      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=000000&color=00FFAA" alt="YouTube">
+      <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=00FFAA" alt="YouTube">
     </a>
     <a href="https://github.com/Ryanditko" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=000000&color=00FFAA" alt="GitHub">
+      <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FFAA" alt="GitHub">
     </a>
   </div>
 
-   ### <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25"> Portfolio
+   ### <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOHe/giphy.gif" width="25"> Portfolio
    
    <div align="center">
     <a href="https://ryandev-dun.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/portfolio-%23FFFFFF?style=for-the-badge&logo=firefox&logoColor=000000&color=00FFAA" alt="Portfolio">
+      <img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=briefcase&logoColor=00FFAA" alt="Portfolio">
     </a>
    </div>
 
@@ -59,7 +59,7 @@ I enjoy working on projects that challenge me and help me grow as a developer.
 
 ## <img src="https://media2.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech and Stacks
 
-### <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="25"> Programming Languages
+### <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="25"> Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FFAA)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FFAA)
@@ -133,16 +133,16 @@ I enjoy working on projects that challenge me and help me grow as a developer.
 <table>
 <tr>
 <td>
-<img width="400px" src="https://github-readme-stats.vercel.app/api?username=Ryanditko&show_icons=true&count_private=true&hide_border=true&title_color=00FFAA&icon_color=00FFAA&text_color=000000&bg_color=ffffff" alt="Ryan's GitHub Stats" />
+<img width="400px" src="https://github-readme-stats.vercel.app/api?username=Ryanditko&show_icons=true&count_private=true&hide_border=true&title_color=00FFAA&icon_color=00FFAA&text_color=00FFAA&bg_color=000000" alt="Ryan's GitHub Stats" />
 </td>
 <td>
-<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanditko&layout=compact&hide_border=true&title_color=00FFAA&text_color=000000&bg_color=ffffff" alt="Most Used Languages" />
+<img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryanditko&layout=compact&hide_border=true&title_color=00FFAA&text_color=00FFAA&bg_color=000000" alt="Most Used Languages" />
 </td>
 </tr>
 </table>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ryanditko&bg_color=ffffff&color=00FFAA&line=00FFAA&point=00FFAA&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ryanditko&bg_color=000000&color=00FFAA&line=00FFAA&point=00FFAA&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
