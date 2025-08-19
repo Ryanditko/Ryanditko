@@ -57,7 +57,7 @@ I enjoy working on projects that challenge me and help me grow as a developer.
 
 ---
 
-## 🚀 Technologies I Work With
+## Tech and Stacks
 
 ### 💻 Programming Languages
 
@@ -90,7 +90,7 @@ I enjoy working on projects that challenge me and help me grow as a developer.
 
 ---
 
-## 📚 What I'm Learning
+## 📚 Currently Learning
 
 ![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=for-the-badge&logo=docker&logoColor=CDDC39)
 ![Go](https://img.shields.io/badge/Go-1a1a1a?style=for-the-badge&logo=go&logoColor=CDDC39)
@@ -108,7 +108,7 @@ I enjoy working on projects that challenge me and help me grow as a developer.
   <a href="https://discord.gg/gibrasil">
     <img src="https://cardzera.audibert.dev/api/748720691645251716?backgroundColor=1a1a1a&buttonColor=66BB6A&buttonTextColor=000000&infoColor=A4FFAF&nameColor=66BB6A&borderRadius=10&titleLen=24&elipsis=false&t={timestamp}" alt="GI Brasil"/>
   </a>
-  <a href="https://discord.gg/operaepiclese">
+  <a href="https://discord.gg/voidrequiem">
     <img src="https://cardzera.audibert.dev/api/996403908530405406?backgroundColor=1a1a1a&buttonColor=66BB6A&buttonTextColor=000000&infoColor=A4FFAF&nameColor=66BB6A&borderRadius=10&titleLen=24&elipsis=false&t={timestamp}" alt="Opera Epiclese"/>
   </a>
 </div>
@@ -138,7 +138,8 @@ I enjoy working on projects that challenge me and help me grow as a developer.
 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1a1a1a&height=120&section=footer"/>
+
 
 
 
