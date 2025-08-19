@@ -1,9 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E7D32&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=66BB6A&size=35&center=true&vCenter=true&width=1000&lines=Welcome,+I'm+Ryan+Rodrigues;Software+Developer;Learning+and+Building;Passionate+About+Technology)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFAA&size=35&center=true&vCenter=true&width=1000&lines=Welcome,+I'm+Ryan+Rodrigues;Software+Developer;Learning+and+Building;Passionate+About+Technology)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7c7d25.gif" width="500" alt="Professional Developer">
+  <img src="https://i.imgur.com/5pM5Ava.png" width="500" alt="Rises of moon">
 </div>
 
 ## 👨‍💻 About Me
@@ -141,6 +141,7 @@ I enjoy working on projects that challenge me and help me grow as a developer.
 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E7D32&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=120&section=footer"/>
+
 
 
