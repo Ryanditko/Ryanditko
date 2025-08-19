@@ -78,7 +78,7 @@ I work on projects that combine efficiency, scalability, and reliability.
 [![TAILWINDCSS](https://img.shields.io/badge/tailwindcss-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)]()
 [![REACT](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=white)]()
 
-<h3> My Discord community </h3>
+<h3> My discord community </h3>
 <a href="https://discord.gg/gibrasil">
   <img src="https://cardzera.audibert.dev/api/748720691645251716?backgroundColor=000000&buttonColor=ffffff&buttonTextColor=000000&infoColor=ffffff&nameColor=ffffff&borderRadius=10&titleLen=24&elipsis=false&t={timestamp}" alt="GI Brasil"/>
 </a>
