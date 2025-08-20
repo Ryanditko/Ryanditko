@@ -75,13 +75,13 @@ I enjoy working on projects that challenge me and help me grow as a developer.
 
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00FFAA)
 ![API REST](https://img.shields.io/badge/API_REST-000000?style=for-the-badge&logo=postman&logoColor=00FFAA)
-![DAX](https://img.shields.io/badge/DAX-000000?style=for-the-badge&logo=powerbi&logoColor=00FFAA)
+![DAX](https://img.shields.io/badge/DAX-000000?style=for-the-badge&logo=microsoftexcel&logoColor=00FFAA)
 
 ### <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="25"> Development Tools
 
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FFAA)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FFAA)
-![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=00FFAA)
+![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonwebservices&logoColor=00FFAA)
 
 ### <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="25"> Bot Development
 
@@ -90,16 +90,16 @@ I enjoy working on projects that challenge me and help me grow as a developer.
 
 ### <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="25"> Data Analysis & Business Intelligence
 
-![Excel](https://img.shields.io/badge/Microsoft_Excel-000000?style=for-the-badge&logo=microsoft-excel&logoColor=00FFAA)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=00FFAA)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-000000?style=for-the-badge&logo=google-sheets&logoColor=00FFAA)
-![Power BI](https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=power-bi&logoColor=00FFAA)
+![Power BI](https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=00FFAA)
 ![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=00FFAA)
 ![Kaggle](https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=00FFAA)
 
 ### <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="25"> CRM & Customer Service
 
 ![Salesforce](https://img.shields.io/badge/Salesforce-000000?style=for-the-badge&logo=salesforce&logoColor=00FFAA)
-![Genesys Cloud](https://img.shields.io/badge/Genesys%20Cloud-000000?style=for-the-badge&logo=genesys&logoColor=00FFAA)
+![Genesys Cloud](https://img.shields.io/badge/Genesys%20Cloud-000000?style=for-the-badge&logo=cloud&logoColor=00FFAA)
 
 ---
 
