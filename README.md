@@ -49,7 +49,7 @@ I enjoy working on projects that challenge me and help me grow as a developer.
    
    <div align="center">
     <a href="https://ryandev-dun.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=briefcase&logoColor=00FFAA" alt="Portfolio">
+      <img src="https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00FFAA" alt="Portfolio">
     </a>
    </div>
 
@@ -157,6 +157,7 @@ I enjoy working on projects that challenge me and help me grow as a developer.
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=120&section=footer"/>
+
 
 
 
