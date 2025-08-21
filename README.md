@@ -142,7 +142,7 @@ I enjoy working on projects that challenge me and help me grow as a developer.
 </table>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ryanditko&bg_color=000000&color=00FFAA&line=00FFAA&point=00FFAA&area=true&hide_border=true&days=7" alt="GitHub Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ryanditko&bg_color=000000&color=00FFAA&line=00FFAA&point=00FFAA&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
