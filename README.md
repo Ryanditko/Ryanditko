@@ -6,6 +6,8 @@
   <img src="https://i.pinimg.com/originals/f9/ba/23/f9ba232d6b18c80b3a95c1ec8dc1c796.gif" width="1000" alt="Rises of moon">
 </div>
 
+<div align="center">
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
 
 I'm a **Software Developer** passionate about technology and continuous learning.  
@@ -14,6 +16,8 @@ I enjoy working on projects that challenge me and help me grow as a developer.
 **Areas of Interest:** Web Development, Automation, Discord Bots, Data Analysis  
 **Currently Working On:** Backend development, learning new frameworks and tools  
 **Background:** Self-taught developer with a focus on practical learning and real projects  
+
+</div>
 
 
 ---
@@ -56,6 +60,8 @@ I enjoy working on projects that challenge me and help me grow as a developer.
 </div>
 
 ---
+
+<div align="center">
 
 ## <img src="https://media2.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech and Stacks
 
@@ -101,7 +107,11 @@ I enjoy working on projects that challenge me and help me grow as a developer.
 ![Salesforce](https://img.shields.io/badge/Salesforce-000000?style=for-the-badge&logo=salesforce&logoColor=00FFAA)
 ![Genesys Cloud](https://img.shields.io/badge/Genesys%20Cloud-000000?style=for-the-badge&logo=cloud&logoColor=00FFAA)
 
+</div>
+
 ---
+
+<div align="center">
 
 ## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> Currently Learning
 
@@ -113,7 +123,11 @@ I enjoy working on projects that challenge me and help me grow as a developer.
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=00FFAA)
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FFAA)
 
+</div>
+
 ---
+
+<div align="center">
 
 ## <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="30"> Community & Discord Servers
 
@@ -126,7 +140,11 @@ I enjoy working on projects that challenge me and help me grow as a developer.
   </a>
 </div>
 
+</div>
+
 ---
+
+<div align="center">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> My GitHub Activity
 
@@ -145,6 +163,8 @@ I enjoy working on projects that challenge me and help me grow as a developer.
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ryanditko&bg_color=000000&color=00FFAA&line=00FFAA&point=00FFAA&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
+</div>
+
 ---
 
 <div align="center">
@@ -157,6 +177,7 @@ I enjoy working on projects that challenge me and help me grow as a developer.
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFAA&height=120&section=footer"/>
+
 
 
 
