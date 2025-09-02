@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FFAA&size=35&center=true&vCenter=true&width=1000&lines=Welcome,+I'm+Ryan+Rodrigues;Software+Developer;Learning+and+Building;Passionate+About+Technology)](https://git.io/typing-svg)
 
----
+
 
 <details>
   <summary>👨‍💻 About Me</summary>
@@ -16,7 +16,7 @@ I enjoy working on projects that challenge me and help me grow as a developer.
   </div>
 </details>
 
----
+
 
 <details>
   <summary>🌐 Social Media & Portfolio</summary>
@@ -36,7 +36,7 @@ I enjoy working on projects that challenge me and help me grow as a developer.
   </div>
 </details>
 
----
+
 
 <details>
   <summary>⚙️ Tech & Stacks</summary>
@@ -80,7 +80,7 @@ I enjoy working on projects that challenge me and help me grow as a developer.
   </div>
 </details>
 
----
+
 
 <details>
   <summary>📚 Currently Learning</summary>
@@ -97,7 +97,7 @@ I enjoy working on projects that challenge me and help me grow as a developer.
   </div>
 </details>
 
----
+
 
 <details>
   <summary>💬 Community & Discord Servers</summary>
@@ -109,7 +109,7 @@ I enjoy working on projects that challenge me and help me grow as a developer.
   </div>
 </details>
 
----
+
 
 <details>
   <summary>📊 GitHub Activity</summary>
@@ -126,17 +126,6 @@ I enjoy working on projects that challenge me and help me grow as a developer.
 
   </div>
 </details>
-
----
-
-<div align="center">
-  
-**Thanks for checking out my profile! Feel free to explore my repos and connect.**  
-
-![Profile Views](https://komarev.com/ghpvc/?username=Ryanditko&label=Profile%20Views&color=00FFAA&style=flat-square)
-
-</div>
-
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/b1/5b/d5/b15bd596014d9d9310e59b07b85da550.gif" width="600" alt="Rises of moon">
