@@ -1,6 +1,6 @@
 ## 🍏 **Ryan Rodrigues Cordeiro**
 
-```Founder at @Ditko | Data analyst at @leroy-merlin-br```
+```Software Engineer | Founder at @Ditko & Data analyst at @leroy-merlin-br```
 
 Studying Systems Analysis and Development (3rd semester) at Impacta Technology, passionate about creating things, helping others in daily life, and exploring tech. Currently conducting a scientific initiation on mitigating poisoning attacks in machine learning models via federated learning.
 
