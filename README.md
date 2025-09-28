@@ -6,7 +6,7 @@ Studying Systems Analysis and Development (3rd semester) at Impacta Technology, 
 
 Building in public: [Ditko](https://ditkotech.vercel.app)
 
-Portfolio: [Ryan.dev](https://ryandev-dun.vercel.app/)
+Check my Portfolio: [ryan.dev](https://ryandev-dun.vercel.app/)
 
 Contact me here: <a href="mailto:yryurodriguess@gmail.com" target="__blank">yryurodriguess@gmail.com</a>
 
