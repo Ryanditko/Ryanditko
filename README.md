@@ -2,7 +2,7 @@
 
 ```Founder at @Ditko | Data analyst at @leroy-merlin-br```
 
-Studying Systems Analysis and Development (3rd semester) at Faculdade Impacta, passionate about creating things, helping others in daily life, and exploring tech. Currently conducting a scientific initiation on mitigating poisoning attacks in machine learning models via federated learning.
+Studying Systems Analysis and Development (3rd semester) at Impacta Technology, passionate about creating things, helping others in daily life, and exploring tech. Currently conducting a scientific initiation on mitigating poisoning attacks in machine learning models via federated learning.
 
 Building in public: [Ditko](https://ditkotech.vercel.app)
 
@@ -44,3 +44,4 @@ Contact me here: <a href="mailto:yryurodriguess@gmail.com" target="__blank">yryu
 ### Languages
 ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Native Portuguese</br>
 ![USA](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") Advanced English
+
