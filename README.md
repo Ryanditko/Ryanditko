@@ -22,6 +22,7 @@ Contact me here: <a href="mailto:yryurodriguess@gmail.com" target="__blank">yryu
 ![DAX](https://img.shields.io/badge/DAX-000000?style=for-the-badge&logo=microsoftexcel&logoColor=A4C639)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=A4C639)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=A4C639)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=A4C639)
 ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonwebservices&logoColor=A4C639)
 ![Discord.js](https://img.shields.io/badge/Discord.js-000000?style=for-the-badge&logo=discord&logoColor=A4C639)
 ![Discord.py](https://img.shields.io/badge/Discord.py-000000?style=for-the-badge&logo=discord&logoColor=A4C639)
@@ -46,4 +47,5 @@ Contact me here: <a href="mailto:yryurodriguess@gmail.com" target="__blank">yryu
 ### Languages
 ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Native Portuguese</br>
 ![USA](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") Advanced English
+
 
