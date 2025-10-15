@@ -43,9 +43,11 @@ Contact me here: <a href="mailto:yryurodriguess@gmail.com" target="__blank">yryu
 ### My Community
 <a href="https://discord.gg/gibrasil"><img src="https://cardzera.audibert.dev/api/748720691645251716?backgroundColor=000000&buttonColor=A4C639&buttonTextColor=000000&infoColor=ffffff&nameColor=ffffff&borderRadius=10&titleLen=24&elipsis=false" alt="GI Brasil"/></a>
 <a href="https://discord.gg/programador"><img src="https://cardzera.audibert.dev/api/1112920281367973900?backgroundColor=000000&buttonColor=A4C639&buttonTextColor=000000&infoColor=ffffff&nameColor=ffffff&borderRadius=10&titleLen=24&elipsis=false" alt="Servidor dos Programadores"/></a>
+<a href="https://discord.gg/indiehackingbr"><img src="https://cardzera.audibert.dev/api/1207358526586888272?backgroundColor=000000&buttonColor=A4C639&buttonTextColor=000000&infoColor=ffffff&nameColor=ffffff&borderRadius=10&titleLen=24&elipsis=false" alt="Indie Hacking Brasil"/></a>
 
 ### Languages
 ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Native Portuguese</br>
 ![USA](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") Advanced English
+
 
 
