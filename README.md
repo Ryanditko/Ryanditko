@@ -45,8 +45,9 @@ Contact me here: <a href="mailto:yryurodriguess@gmail.com" target="__blank">yryu
 <a href="https://discord.gg/programador"><img src="https://cardzera.audibert.dev/api/1112920281367973900?backgroundColor=000000&buttonColor=A4C639&buttonTextColor=000000&infoColor=ffffff&nameColor=ffffff&borderRadius=10&titleLen=24&elipsis=false" alt="Servidor dos Programadores"/></a>
 
 ### Languages
-![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Native Portuguese</br>
-![USA](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") Advanced English
+![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Portuguese</br>
+![USA](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") English
+
 
 
 
