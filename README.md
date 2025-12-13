@@ -1,4 +1,4 @@
-## 🐻‍❄️ **Ryan Rodrigues Cordeiro**
+## **Ryan Rodrigues Cordeiro**
 
 ```Software Engineer at @Nubank | Building @Ditko.br```
 
@@ -59,3 +59,4 @@ Contact me here: <a href="mailto:yryurodriguess@gmail.com" target="__blank">yryu
 ### Languages
 🇧🇷 Portuguese  
 🇺🇸 English  
+
