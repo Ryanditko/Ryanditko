@@ -1,4 +1,4 @@
-## 🍏 **Ryan Rodrigues Cordeiro**
+## 🐻‍❄️ **Ryan Rodrigues Cordeiro**
 
 ```Software Engineer at @Nubank | Building @Ditko.br```
 
