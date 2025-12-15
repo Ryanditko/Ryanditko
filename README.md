@@ -4,7 +4,7 @@
 
 Studying Systems Analysis and Development (4th semester) at Impacta Technology, passionate about creating things, helping others in daily life, and exploring tech. Currently conducting a scientific initiation on mitigating poisoning attacks in machine learning models via federated learning.
 
-Building in public: [Ditko](https://ditkotech.vercel.app)
+Building in public: [Ditko](https://ditko-br.vercel.app/)
 
 Check my Portfolio: [ryan.dev](https://ryandev-dun.vercel.app/)
 
@@ -59,5 +59,6 @@ Contact me here: <a href="mailto:yryurodriguess@gmail.com" target="__blank">yryu
 ### Languages
 🇧🇷 Portuguese  
 🇺🇸 English  
+
 
 
