@@ -42,15 +42,15 @@ Contact me here: <a href="mailto:yryurodriguess@gmail.com" target="__blank">yryu
 
 ### Social Media
 
-<p align="left">
+<p>
   <a href="https://www.youtube.com/@ryanditko" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" width="50px"/>
+    <img src="https://skillicons.dev/icons?i=youtube" width="50"/>
   </a>
   <a href="https://www.instagram.com/ryan.ditko" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="50px"/>
+    <img src="https://skillicons.dev/icons?i=instagram" width="50"/>
   </a>
   <a href="https://www.linkedin.com/in/ryan-rodrigues-592a27313" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50px"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
   </a>
 </p>
 
