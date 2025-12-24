@@ -11,8 +11,9 @@ Check my Portfolio: [ryan.dev](https://ryandev-dun.vercel.app/)
 Contact me here: <a href="mailto:yryurodriguess@gmail.com" target="__blank">yryurodriguess@gmail.com</a>
 
 
+<!--  
 
-<--- ### Stacks
+### Stacks
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFFFFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
@@ -34,15 +35,15 @@ Contact me here: <a href="mailto:yryurodriguess@gmail.com" target="__blank">yryu
 ![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=FFFFFF)
 ![Kaggle](https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=FFFFFF)
 ![Salesforce](https://img.shields.io/badge/Salesforce-000000?style=for-the-badge&logo=salesforce&logoColor=FFFFFF)
-![Genesys Cloud](https://img.shields.io/badge/Genesys%20Cloud-000000?style=for-the-badge&logo=cloud&logoColor=FFFFFF) --->
+![Genesys Cloud](https://img.shields.io/badge/Genesys%20Cloud-000000?style=for-the-badge&logo=cloud&logoColor=FFFFFF)
 
+-->
 
 
 ### Social Media
-[![YOUTUBE](https://go-skill-icons.vercel.app/api/icons?i=youtube)](https://www.youtube.com/@ryanditko)
-[![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ryan.ditko)
+[![YOUTUBE](https://go-skill-icons.vercel.app/api/icons?i=youtube)](https://www.youtube.com/@ryanditko)  
+[![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ryan.ditko)  
 [![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/ryan-rodrigues-592a27313)
-
 
 
 ### My Community
@@ -55,17 +56,10 @@ Contact me here: <a href="mailto:yryurodriguess@gmail.com" target="__blank">yryu
 </a>
 
 
-
 ### Sponsor Me Here!
-
 [![Sponsor](https://img.shields.io/badge/Sponsor-Ryanditko-000000?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Ryanditko)
 
 
 ### Languages
 🇧🇷 Portuguese  
-🇺🇸 English  
-
-
-
-
-
+🇺🇸 English
