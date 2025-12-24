@@ -42,18 +42,17 @@ Contact me here: <a href="mailto:yryurodriguess@gmail.com" target="__blank">yryu
 
 ### Social Media
 
-<p>
+<p align="left">
   <a href="https://www.youtube.com/@ryanditko" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" width="50"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/youtube.svg" width="40" style="filter: invert(100%); margin-right: 10px;">
   </a>
   <a href="https://www.instagram.com/ryan.ditko" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="50"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/instagram.svg" width="40" style="filter: invert(100%); margin-right: 10px;">
   </a>
   <a href="https://www.linkedin.com/in/ryan-rodrigues-592a27313" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" width="40" style="filter: invert(100%); margin-right: 10px;">
   </a>
 </p>
-
 
 ### My Community
 <a href="https://discord.gg/gibrasil">
