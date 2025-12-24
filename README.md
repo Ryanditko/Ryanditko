@@ -41,9 +41,18 @@ Contact me here: <a href="mailto:yryurodriguess@gmail.com" target="__blank">yryu
 
 
 ### Social Media
-[![YOUTUBE](https://go-skill-icons.vercel.app/api/icons?i=youtube)](https://www.youtube.com/@ryanditko)  
-[![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ryan.ditko)  
-[![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/ryan-rodrigues-592a27313)
+
+<p align="left">
+  <a href="https://www.youtube.com/@ryanditko" target="_blank">
+    <img src="https://skillicons.dev/icons?i=youtube" width="50px"/>
+  </a>
+  <a href="https://www.instagram.com/ryan.ditko" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="50px"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ryan-rodrigues-592a27313" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50px"/>
+  </a>
+</p>
 
 
 ### My Community
