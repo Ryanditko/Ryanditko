@@ -6,7 +6,7 @@ Studying Systems Analysis and Development (4th semester) at Impacta Technology, 
 
 Building in public: [Ditko.br](https://ditko-br.vercel.app/)
 
-Check my Portfolio: [ryan.dev](https://ryandev-dun.vercel.app/)
+Check my portfolio: [ryan.dev](https://ryandev-dun.vercel.app/)
 
 Contact me here: <a href="mailto:yryurodriguess@gmail.com" target="__blank">yryurodriguess@gmail.com</a>
 
@@ -44,16 +44,19 @@ Contact me here: <a href="mailto:yryurodriguess@gmail.com" target="__blank">yryu
 [![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/ryan-rodrigues-592a27313)
 
 
-
 ### My Community
-<a href="https://discord.gg/gibrasil">
-<img src="https://cardzera.audibert.dev/api/748720691645251716?backgroundColor=000000&buttonColor=FFFFFF&buttonTextColor=000000&infoColor=ffffff&nameColor=ffffff&borderRadius=10&titleLen=24&elipsis=false" />
-</a>
 
-<a href="https://discord.gg/programador">
-<img src="https://cardzera.audibert.dev/api/1112920281367973900?backgroundColor=000000&buttonColor=FFFFFF&buttonTextColor=000000&infoColor=ffffff&nameColor=ffffff&borderRadius=10&titleLen=24&elipsis=false" />
-</a>
+<div style="display: flex; gap: 10px;">
 
+  <a href="https://discord.gg/gibrasil">
+    <img src="https://cardzera.audibert.dev/api/748720691645251716?backgroundColor=000000&buttonColor=FFFFFF&buttonTextColor=000000&infoColor=ffffff&nameColor=ffffff&borderRadius=10&elipsis=false" />
+  </a>
+
+  <a href="https://discord.gg/programador">
+    <img src="https://cardzera.audibert.dev/api/1112920281367973900?backgroundColor=000000&buttonColor=FFFFFF&buttonTextColor=000000&infoColor=ffffff&nameColor=ffffff&borderRadius=10&elipsis=false" />
+  </a>
+
+</div>
 
 
 ### Sponsor Me Here!
