@@ -12,7 +12,7 @@ Contact me here: <a href="mailto:yryurodriguess@gmail.com" target="__blank">yryu
 
 
 
-### Stacks
+<--- ### Stacks
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFFFFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
@@ -34,7 +34,7 @@ Contact me here: <a href="mailto:yryurodriguess@gmail.com" target="__blank">yryu
 ![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=FFFFFF)
 ![Kaggle](https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=FFFFFF)
 ![Salesforce](https://img.shields.io/badge/Salesforce-000000?style=for-the-badge&logo=salesforce&logoColor=FFFFFF)
-![Genesys Cloud](https://img.shields.io/badge/Genesys%20Cloud-000000?style=for-the-badge&logo=cloud&logoColor=FFFFFF)
+![Genesys Cloud](https://img.shields.io/badge/Genesys%20Cloud-000000?style=for-the-badge&logo=cloud&logoColor=FFFFFF) --->
 
 
 
