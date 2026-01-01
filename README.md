@@ -1,3 +1,5 @@
+**🎆 Happy New Year Guys!!**
+
 ## **Ryan Rodrigues Cordeiro**
 
 ```Software Engineer at @Nubank```
