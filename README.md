@@ -1,8 +1,10 @@
 ## **Ryan Rodrigues Cordeiro**
 
-```Software Engineer at @Nubank```
+```Software Engineer @nubank and Founder @ditko-br```
 
-Studying Systems Analysis and Development (4th semester) at Impacta Technology, passionate about creating things, helping others in daily life, and exploring tech. Currently conducting a scientific initiation on mitigating poisoning attacks in machine learning models via federated learning.
+I’m Ryan, a Brazilian software engineer currently working at [Nubank](https://www.nubank.com.br), while pursuing a degree in Systems Analysis and Development at [Impacta](https://www.impacta.edu.br).
+
+I enjoy designing and building software that solves real-world problems, while continuously deepening my understanding of technology. I also create content and am currently involved in scientific research focused on strengthening machine learning models against poisoning attacks through federated learning.
 
 Building in public: [Ditko.br](https://ditko-br.vercel.app/)
 
