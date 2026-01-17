@@ -1,6 +1,6 @@
 ## **Ryan Rodrigues Cordeiro**
 
-```Software Engineer @nubank and Founder @ditko-br```
+```Software Engineer and Founder```
 
 I’m Ryan, a Brazilian software engineer currently working at [Nubank](https://www.nubank.com.br), while pursuing a degree in Systems Analysis and Development at [Impacta](https://www.impacta.edu.br).
 
