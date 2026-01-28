@@ -1,6 +1,6 @@
 ## **Ryan Rodrigues Cordeiro**
 
-```Software Engineer and Founder```
+```Developer, Writer, Tech Enthusiast.```
 
 I’m Ryan, a Brazilian software engineer currently working at [Nubank](https://www.nubank.com.br), while pursuing a degree in Systems Analysis and Development at [Impacta](https://www.impacta.edu.br).
 
@@ -46,7 +46,7 @@ Contact me here: <a href="mailto:yryurodriguess@gmail.com" target="__blank">yryu
 [![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/ryan-rodrigues-592a27313)
 
 
-### My Community
+<!--- ### My Community
 
 <div style="display: flex; gap: 10px;">
 
@@ -58,7 +58,7 @@ Contact me here: <a href="mailto:yryurodriguess@gmail.com" target="__blank">yryu
     <img src="https://cardzera.audibert.dev/api/1112920281367973900?backgroundColor=000000&buttonColor=FFFFFF&buttonTextColor=000000&infoColor=ffffff&nameColor=ffffff&borderRadius=10&elipsis=false" />
   </a>
 
-</div>
+</div> --->
 
 
 ### Sponsor Me Here!
