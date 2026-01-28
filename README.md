@@ -41,7 +41,7 @@ Contact me here: <a href="mailto:yryurodriguess@gmail.com" target="__blank">yryu
 
 
 ### Social Media
-[![YOUTUBE](https://go-skill-icons.vercel.app/api/icons?i=youtube)](https://www.youtube.com/@ryanditko)
+<!--- [![YOUTUBE](https://go-skill-icons.vercel.app/api/icons?i=youtube)](https://www.youtube.com/@ryanditko) --->
 [![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ryan.ditko)
 [![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/ryan-rodrigues-592a27313)
 
