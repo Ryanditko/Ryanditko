@@ -14,7 +14,7 @@ Contact me here: <a href="mailto:yryurodriguess@gmail.com" target="__blank">yryu
 
 
 
-<!--- ### Stacks
+<!-- ### Stacks
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFFFFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
@@ -64,12 +64,6 @@ Contact me here: <a href="mailto:yryurodriguess@gmail.com" target="__blank">yryu
 ### Sponsor Me Here!
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-Ryanditko-000000?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/Ryanditko)
-
-
-### Languages
-🇧🇷 Portuguese  
-🇺🇸 English  
-
 
 
 
