@@ -2,7 +2,7 @@
 
 > <sub>**Developer, Indie Hacker, Writer, Tech Enthusiast.**</sub>
 
-I’m Ryan, a Brazilian software engineer currently working at [Nubank](https://www.nubank.com.br), while pursuing a degree in Systems Analysis and Development at [Impacta](https://www.impacta.edu.br). I enjoy designing and building software that solves real-world problems while continuously deepening my understanding of technology.
+I’m Ryan, a Brazilian software engineer currently working at [Nubank](https://www.nubank.com.br), while pursuing a degree in Systems Analysis and Development at [Impacta](https://www.impacta.edu.br). I’m driven by designing software that solves real-world problems while constantly pushing my technical boundaries.
 
 I also create content and am currently involved in [Scientific Research](https://github.com/Ryanditko/IC-aprendizado-federado-e-machine-learning-em-cybersecurity) focused on strengthening machine learning models against poisoning attacks through federated learning.
 
