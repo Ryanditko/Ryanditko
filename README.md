@@ -1,6 +1,6 @@
 ## **Ryan Rodrigues Cordeiro**
 
-```Developer, Indie Hacker, Writer, Tech Enthusiast.```
+> <sub>**Developer, Indie Hacker, Writer, Tech Enthusiast.**</sub>
 
 I’m Ryan, a Brazilian software engineer currently working at [Nubank](https://www.nubank.com.br), while pursuing a degree in Systems Analysis and Development at [Impacta](https://www.impacta.edu.br).
 
@@ -38,7 +38,8 @@ Contact me here: <a href="mailto:yryurodriguess@gmail.com" target="__blank">yryu
 ![Salesforce](https://img.shields.io/badge/Salesforce-000000?style=for-the-badge&logo=salesforce&logoColor=FFFFFF)
 ![Genesys Cloud](https://img.shields.io/badge/Genesys%20Cloud-000000?style=for-the-badge&logo=cloud&logoColor=FFFFFF) --->
 
-
+### Stacks
+[![My Skills](https://skillicons.dev/icons?i=clojure,py,ts,nodejs,postgres,supabase,tailwind,bootstrap,git,github,docker,aws,gcp)](https://skillicons.dev)
 
 ### Social Media
 <!--- [![YOUTUBE](https://go-skill-icons.vercel.app/api/icons?i=youtube)](https://www.youtube.com/@ryanditko) --->
