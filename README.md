@@ -10,10 +10,6 @@ Building: [Ditko.br](https://ditko-br.vercel.app/)
 
 Check my portfolio: [Ryan.dev](https://ryandev-dun.vercel.app/)
 
-Contact me here: <a href="mailto:yryurodriguess@gmail.com" target="__blank">yryurodriguess@gmail.com</a>
-
-
-
 <!-- ### Stacks
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFFFFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
@@ -42,9 +38,10 @@ Contact me here: <a href="mailto:yryurodriguess@gmail.com" target="__blank">yryu
 [![My Skills](https://skillicons.dev/icons?i=clojure,py,ts,nodejs,postgres,supabase,tailwind,bootstrap,git,github,docker,aws,gcp)](https://skillicons.dev)
 
 ### Social Media
-<!--- [![YOUTUBE](https://go-skill-icons.vercel.app/api/icons?i=youtube)](https://www.youtube.com/@ryanditko) --->
+[![YOUTUBE](https://go-skill-icons.vercel.app/api/icons?i=youtube)](https://www.youtube.com/@ryanditko)
 [![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ryan.ditko)
 [![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/ryan-rodrigues-592a27313)
+[![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=gmail)](yryurodriguess@gmail.com)
 
 
 <!--- ### My Community
