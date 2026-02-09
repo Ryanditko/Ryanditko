@@ -38,10 +38,10 @@ I enjoy designing and building software that solves real-world problems while co
 
 ### Social Media
 [![YOUTUBE](https://go-skill-icons.vercel.app/api/icons?i=youtube)](https://www.youtube.com/@ryanditko)
-[![DISCORD](https://go-skill-icons.vercel.app/api/icons?i=discord)](ryanditko)
+[![DISCORD](https://skillicons.dev/icons?i=discord&theme=dark)](https://discordapp.com/users/819954175173328906)
 [![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ryan.ditko)
 [![LINKEDIN](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://www.linkedin.com/in/ryan-rodrigues-592a27313)
-[![GMAIL](https://go-skill-icons.vercel.app/api/icons?i=gmail)](yryurodriguess@gmail.com)
+[![GMAIL](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:yryurodriguess@gmail.com)
 
 
 <!--- ### My Community
