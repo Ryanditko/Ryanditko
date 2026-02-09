@@ -1,6 +1,6 @@
 ## **Ryan Rodrigues Cordeiro**
 
-> <sub>**Developer, Indie Hacker, Writer, Tech Enthusiast.**</sub>
+> <sub>**Developer, Indie Hacker, Writer, Photographer, Tech Enthusiast.**</sub>
 
 I’m Ryan, a Brazilian software engineer currently working at [Nubank](https://www.nubank.com.br), while pursuing a degree in Systems Analysis and Development at [Impacta](https://www.impacta.edu.br). I’m driven by designing software that solves real-world problems while constantly pushing my technical boundaries.
 
