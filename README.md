@@ -34,7 +34,7 @@ I also create content and am currently involved in [Scientific Research](https:/
 ![Genesys Cloud](https://img.shields.io/badge/Genesys%20Cloud-000000?style=for-the-badge&logo=cloud&logoColor=FFFFFF) --->
 
 ### Stacks
-[![My Skills](https://skillicons.dev/icons?i=clojure,py,ts,nodejs,kafka,postgres,git,docker,aws,gcp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=clojure,py,ts,nodejs,kafka,postgres,dynamodb,git,docker,aws,gcp)](https://skillicons.dev)
 
 ### Social Media
 [![YOUTUBE](https://go-skill-icons.vercel.app/api/icons?i=youtube)](https://www.youtube.com/@ryanditko)
