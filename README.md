@@ -6,7 +6,7 @@ Currently __Software Engineer__ at [Nubank](https://www.nubank.com.br) and pursu
 
 I am a developer focused on building __robust and scalable solutions__. I'm the __founder and lead developer__ at [@Ditko.br](https://ditko-br.vercel.app/), and I also develop [Scientific Research](https://github.com/Ryanditko/IC-aprendizado-federado-e-machine-learning-em-cybersecurity) focused on __Federated Learning__ and __Cybersecurity__.
 
-**Portfolio:** [ryan.dev](https://ryandev-dun.vercel.app/)
+**Portfolio:** [Ryanditko](https://ryandev-dun.vercel.app/)
 
 ---
 
