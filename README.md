@@ -1,6 +1,6 @@
 ## **Ryan Rodrigues Cordeiro**
 
-> <sub>**Developer, Indie Hacker, Writer, Photographer, Tech Enthusiast.**</sub>
+```Developer ``` · ```Indie Hacker```· ```Writer``` · ```Photographer```  · ```Tech Enthusiast```
 
 Currently __Software Engineer__ at [Nubank](https://www.nubank.com.br) and pursuing __Systems Analysis and Development__ at [Impacta](https://www.impacta.edu.br).
 
