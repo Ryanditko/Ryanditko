@@ -10,9 +10,9 @@ I am a developer focused on building __robust and scalable solutions__. I'm the 
 
 ---
 
-### Technical Expertise
+### Technical Stacks & Plataforms
 
-Focused on __high-performance solutions__ and __distributed systems__.
+Focused on __system design__ and __distributed systems__.
 
 * **Stacks:** [Clojure](https://clojure.org/), [Python](https://docs.python.org/3/), [TypeScript](https://www.typescriptlang.org/docs/), [Node.js](https://nodejs.org/en/docs/), [Kafka](https://kafka.apache.org/documentation/), [PostgreSQL](https://www.postgresql.org/docs/), [DynamoDB](https://docs.aws.amazon.com/dynamodb/), [Git](https://git-scm.com/doc), [Docker](https://docs.docker.com/), [AWS](https://docs.aws.amazon.com/), [GCP](https://cloud.google.com/docs)
 * **Social Media:** [LinkedIn](https://www.linkedin.com/in/ryan-rodrigues-592a27313), [GitHub](https://github.com/Ryanditko), [YouTube](https://www.youtube.com/@ryanditko), [Instagram](https://www.instagram.com/ryan.ditko), [Discord](https://discordapp.com/users/819954175173328906), [Gmail](mailto:yryurodriguess@gmail.com)
