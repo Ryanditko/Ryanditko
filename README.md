@@ -1,20 +1,40 @@
-## **Ryan Rodrigues Cordeiro**
+<div align="center">
 
-`Developer` · `Indie Hacker` · `Writer` · `Photographer` · `Tech Enthusiast`
+`"Intelligence is not a privilege, it's a gift. And you use it for the good of mankind."`
 
-Currently an **Software Engineer** at [Nubank](https://www.nubank.com.br) and pursuing **Systems Analysis and Development** at [Impacta](https://www.impacta.edu.br).
+*[* [*e-mail*](mailto:yryurodriguess@gmail.com) *]* *[* [*discord*](https://discordapp.com/users/819954175173328906) *]* *[* [*linkedin*](https://www.linkedin.com/in/ryan-rodrigues-592a27313) *]*
 
-I’m interested in software engineering, especially in learning how to design and build scalable and maintainable systems.  
-Founder and lead developer at [@Ditko.br](https://ditko-br.vercel.app/), and also involved in [Scientific Research](https://github.com/Ryanditko/IC-aprendizado-federado-e-machine-learning-em-cybersecurity) focused on **Federated Learning** and **Cybersecurity**.
+</div>
 
-**Portfolio:** [Ryanditko](https://ryandev-dun.vercel.app/)
+<h2><samp>/about</samp></h2>
 
----
+<div align="left">
+  <samp>
+    <ul>
+      <li><em>Currently a <b>Software Engineer</b> at <a href="https://www.nubank.com.br">Nubank</a> and pursuing <b>Systems Analysis and Development</b> at <a href="https://www.impacta.edu.br">Impacta</a>.</em></li>
+      <li><em>Founder and lead developer at <a href="https://ditko-br.vercel.app/">@Ditko.br</a>.</em></li>
+      <li><em>Involved in <a href="https://github.com/Ryanditko/IC-aprendizado-federado-e-machine-learning-em-cybersecurity">Scientific Research</a> focused on <b>Federated Learning</b> and <b>Cybersecurity</b>.</em></li>
+      <li><em><b>Portfolio:</b> <a href="https://ryandev-dun.vercel.app/">Ryanditko</a></em></li>
+    </ul>
+  </samp>
+</div>
 
-### Technical Stacks & Platforms
+<h2><samp>/stack</samp></h2>
 
-Currently focusing on **system design** and **distributed systems**.
+<div align="left">
+  <samp>
+    <ul>
+      <li><em><b>Languages & Core:</b> Clojure, Python, TypeScript, Node.js.</em></li>
+      <li><em><b>Data & Infra:</b> Kafka, Datomic, PostgreSQL, DynamoDB, Docker, AWS, GCP.</em></li>
+      <li><em><b>Currently focusing on:</b> System design and distributed systems.</em></li>
+    </ul>
+  </samp>
+</div>
 
-* **Stacks:** [Clojure](https://clojure.org/), [Python](https://docs.python.org/3/), [TypeScript](https://www.typescriptlang.org/docs/), [Node.js](https://nodejs.org/en/docs/), [Kafka](https://kafka.apache.org/documentation/), [PostgreSQL](https://www.postgresql.org/docs/), [DynamoDB](https://docs.aws.amazon.com/dynamodb/), [Git](https://git-scm.com/doc), [Docker](https://docs.docker.com/), [AWS](https://docs.aws.amazon.com/), [GCP](https://cloud.google.com/docs)
-* **Social Media:** [LinkedIn](https://www.linkedin.com/in/ryan-rodrigues-592a27313), [GitHub](https://github.com/Ryanditko), [YouTube](https://www.youtube.com/@ryanditko), [Instagram](https://www.instagram.com/ryan.ditko), [Discord](https://discordapp.com/users/819954175173328906), [Gmail](mailto:yryurodriguess@gmail.com)
-* **Support:** [Sponsors](https://github.com/sponsors/Ryanditko)
+<h2><samp>/links</samp></h2>
+
+<div align="left">
+  <samp>
+    <em>[<a href="https://github.com/Ryanditko">github</a>] [<a href="https://www.youtube.com/@ryanditko">youtube</a>] [<a href="https://www.instagram.com/ryan.ditko">instagram</a>] [<a href="https://github.com/sponsors/Ryanditko">sponsors</a>]</em>
+  </samp>
+</div>
