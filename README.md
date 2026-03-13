@@ -2,8 +2,8 @@
 
 *`"Intelligence is not a privilege, it's a gift. And you use it for the good of mankind."`*
 
-*[* [*e-mail*](mailto:yryurodriguess@gmail.com) *]* *[* [*discord*](https://discordapp.com/users/819954175173328906) *]* *[* [*linkedin*](https://www.linkedin.com/in/ryan-rodrigues-592a27313) *]*
-
+*[* [*e-mail*](mailto:yryurodriguess@gmail.com) *]* *[* [*linkedin*](https://www.linkedin.com/in/ryan-rodrigues-592a27313) *]*
+*[* [*sponsors*](https://github.com/sponsors/Ryanditko) *]*
 ## ㅤ
 <div align="left">
   <samp>/about</samp>
@@ -25,7 +25,7 @@
   <div>
     <samp>
       <ul>
-        <li><em><b>Languages & Core:</b> Clojure, Python, TypeScript, Node.js.</em></li>
+        <li><em><b>Languages & Core:</b> Clojure, Python, TypeScript.</em></li>
         <li><em><b>Data & Infra:</b> Kafka, Datomic, PostgreSQL, DynamoDB, Docker, AWS, GCP.</em></li>
         <li><em><b>Currently focusing on:</b> System design and distributed systems.</em></li>
       </ul>
@@ -38,7 +38,7 @@
   <samp>/links</samp>
   <div>
     <samp>
-      <em>[ <a href="https://github.com/Ryanditko">github</a> ] [ <a href="https://www.youtube.com/@ryanditko">youtube</a> ] [ <a href="https://www.instagram.com/ryan.ditko">instagram</a> ] [ <a href="https://github.com/sponsors/Ryanditko">sponsors</a> ]</em>
+      <em>[ <a href="https://github.com/Ryanditko">github</a> ] [ <a href="https://www.youtube.com/@ryanditko">youtube</a> ] [ <a href="https://www.instagram.com/ryan.ditko">instagram</a>] [ <a href="https://discordapp.com/users/819954175173328906">discord</a> ]</em>
     </samp>
   </div>
 </div>
