@@ -21,7 +21,7 @@
 
 ## ㅤ
 <div align="left">
-  <samp>/stack</samp>
+  <samp>/stacks</samp>
   <div>
     <samp>
       <ul>
@@ -38,7 +38,7 @@
   <samp>/links</samp>
   <div>
     <samp>
-      <em>[ <a href="https://github.com/Ryanditko">github</a> ] [ <a href="https://www.youtube.com/@ryanditko">youtube</a> ] [ <a href="https://www.instagram.com/ryan.ditko">instagram</a>] [ <a href="https://discordapp.com/users/819954175173328906">discord</a> ]</em>
+      <em>[ <a href="https://www.youtube.com/@ryanditko">youtube</a> ] [ <a href="https://www.instagram.com/ryan.ditko">instagram</a>] [ <a href="https://discordapp.com/users/819954175173328906">discord</a> ]</em>
     </samp>
   </div>
 </div>
