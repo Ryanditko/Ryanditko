@@ -1,6 +1,6 @@
 <div align="center">
 
-*`"Intelligence is not a privilege, it's a gift. And you use it for the good of mankind."`*
+<pre><i>"Intelligence is not a privilege, it's a gift. And you use it for the good of mankind".</i></pre>
 
 *[* [*e-mail*](mailto:yryurodriguess@gmail.com) *]* *[* [*linkedin*](https://www.linkedin.com/in/ryan-rodrigues-592a27313) *]*
 *[* [*sponsors*](https://github.com/sponsors/Ryanditko) *]*
