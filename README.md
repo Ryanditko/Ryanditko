@@ -13,7 +13,7 @@
         <li><em>Currently a <b>Software Engineer</b> at <a href="https://www.nubank.com.br">Nubank</a> and pursuing <b>Systems Analysis and Development</b> at <a href="https://www.impacta.edu.br">Impacta</a>.</em></li>
         <li><em>Founder and lead developer at <a href="https://ditko-br.vercel.app/">@Ditko.br</a>.</em></li>
         <li><em>Involved in <a href="https://github.com/Ryanditko/IC-aprendizado-federado-e-machine-learning-em-cybersecurity">Scientific Research</a> focused on <b>Federated Learning</b> and <b>Cybersecurity</b>.</em></li>
-        <li><em><b>Portfolio:</b> <a href="https://ryandev-dun.vercel.app/">Ryanditko</a></em></li>
+        <li><em><b>Portfolio:</b> <a href="https://ryandev-dun.vercel.app/">Ryanditko</a>.</em></li>
       </ul>
     </samp>
   </div>
