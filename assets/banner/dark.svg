@@ -1,0 +1,143 @@
+<svg width="1180" height="610" viewBox="0 0 1180 610" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Premium developer profile hero banner dark theme">
+  <defs>
+    <linearGradient id="bgGradDark" x1="0" y1="0" x2="1180" y2="610" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#030712"/>
+      <stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+    <radialGradient id="glowTopDark" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(220 70) rotate(26) scale(380 290)">
+      <stop stop-color="#7C3AED" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowMidDark" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(840 250) rotate(18) scale(430 320)">
+      <stop stop-color="#22D3EE" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowBotDark" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(930 560) rotate(-8) scale(380 230)">
+      <stop stop-color="#10B981" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#10B981" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accentDark" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7C3AED"/>
+      <stop offset="0.5" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#10B981"/>
+      <animate attributeName="x1" values="0;1;0" dur="11s" repeatCount="indefinite"/>
+      <animate attributeName="y1" values="0;1;0" dur="11s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="1;0;1" dur="11s" repeatCount="indefinite"/>
+      <animate attributeName="y2" values="1;0;1" dur="11s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="asciiGradDark" x1="40" y1="80" x2="430" y2="520" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#67E8F9"/>
+      <stop offset="0.5" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+      <animate attributeName="x1" values="40;430;40" dur="10s" repeatCount="indefinite"/>
+      <animate attributeName="y1" values="80;520;80" dur="10s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="430;40;430" dur="10s" repeatCount="indefinite"/>
+      <animate attributeName="y2" values="520;80;520" dur="10s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="panelGlassDark" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="rgba(255,255,255,0.10)"/>
+      <stop offset="1" stop-color="rgba(255,255,255,0.02)"/>
+    </linearGradient>
+    <linearGradient id="shimmerDark" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="rgba(255,255,255,0)"/>
+      <stop offset="0.5" stop-color="rgba(255,255,255,0.35)"/>
+      <stop offset="1" stop-color="rgba(255,255,255,0)"/>
+    </linearGradient>
+    <filter id="noiseDark" x="-20%" y="-20%" width="140%" height="140%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="2" stitchTiles="stitch" result="n"/>
+      <feColorMatrix in="n" type="saturate" values="0"/>
+      <feComponentTransfer>
+        <feFuncA type="table" tableValues="0 0.05"/>
+      </feComponentTransfer>
+    </filter>
+    <filter id="softGlowDark" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="7" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="shadowDark" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+    <clipPath id="frameClipDark">
+      <rect x="10" y="10" width="1160" height="590" rx="30"/>
+    </clipPath>
+    <mask id="scanMaskDark">
+      <rect x="0" y="0" width="1180" height="610" fill="black"/>
+      <rect x="0" y="0" width="1180" height="180" fill="white" opacity="0.45">
+        <animate attributeName="y" values="-180;610" dur="6s" repeatCount="indefinite"/>
+      </rect>
+    </mask>
+  </defs>
+  <g clip-path="url(#frameClipDark)">
+    <rect x="10" y="10" width="1160" height="590" rx="30" fill="url(#bgGradDark)"/>
+    <rect x="10" y="10" width="1160" height="590" rx="30" fill="url(#glowTopDark)">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 12 6; 0 0" dur="9s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="10" y="10" width="1160" height="590" rx="30" fill="url(#glowMidDark)">
+      <animateTransform attributeName="transform" type="translate" values="0 0; -8 10; 0 0" dur="11s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="10" y="10" width="1160" height="590" rx="30" fill="url(#glowBotDark)">
+      <animateTransform attributeName="transform" type="translate" values="0 0; 8 -8; 0 0" dur="13s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="10" y="10" width="1160" height="590" rx="30" filter="url(#noiseDark)" opacity="0.22"/>
+    <rect x="10.5" y="10.5" width="1159" height="589" rx="30" stroke="rgba(255,255,255,0.08)"/>
+    <rect x="11" y="11" width="1158" height="588" rx="30" fill="url(#panelGlassDark)" opacity="0.08"/>
+    <g filter="url(#shadowDark)">
+      <rect x="44" y="52" width="424" height="506" rx="24" fill="#0F172A" fill-opacity="0.86"/>
+      <rect x="44.5" y="52.5" width="423" height="505" rx="24" stroke="rgba(255,255,255,0.08)"/>
+      <rect x="44" y="52" width="424" height="70" rx="24" fill="rgba(255,255,255,0.03)"/>
+      <circle cx="74" cy="87" r="6" fill="#FB7185"/>
+      <circle cx="96" cy="87" r="6" fill="#FBBF24"/>
+      <circle cx="118" cy="87" r="6" fill="#34D399"/>
+      <text x="146" y="92" fill="#94A3B8" font-size="14" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">ascii://ryanditko_profile</text>
+    </g>
+    <g transform="translate(70 145)">
+      <animateTransform attributeName="transform" type="translate" values="70 145;70 139;70 145" dur="5.5s" repeatCount="indefinite"/>
+      <g fill="url(#asciiGradDark)" filter="url(#softGlowDark)" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16">
+        <text x="0" y="0" opacity="0">      .-''''-.      <animate attributeName="opacity" values="0;1" begin="0s" dur="0.01s" fill="freeze"/></text>
+        <text x="0" y="26" opacity="0">    .'  _    \ `.   <animate attributeName="opacity" values="0;1" begin="0.18s" dur="0.01s" fill="freeze"/></text>
+        <text x="0" y="52" opacity="0">   /   (_)    \  \  <animate attributeName="opacity" values="0;1" begin="0.36s" dur="0.01s" fill="freeze"/></text>
+        <text x="0" y="78" opacity="0">  |  .-----.   |  | <animate attributeName="opacity" values="0;1" begin="0.54s" dur="0.01s" fill="freeze"/></text>
+        <text x="0" y="104" opacity="0">  |  | (• •)   |  | <animate attributeName="opacity" values="0;1" begin="0.72s" dur="0.01s" fill="freeze"/></text>
+        <text x="0" y="130" opacity="0">  |  |  ^    __|  | <animate attributeName="opacity" values="0;1" begin="0.9s" dur="0.01s" fill="freeze"/></text>
+        <text x="0" y="156" opacity="0">  |  | '-'  /__   / <animate attributeName="opacity" values="0;1" begin="1.08s" dur="0.01s" fill="freeze"/></text>
+        <text x="0" y="182" opacity="0">   \  `----'   / .'  <animate attributeName="opacity" values="0;1" begin="1.26s" dur="0.01s" fill="freeze"/></text>
+        <text x="0" y="208" opacity="0">    `.______.-'`     <animate attributeName="opacity" values="0;1" begin="1.44s" dur="0.01s" fill="freeze"/></text>
+        <text x="0" y="248" opacity="0">   [ initializing persona ] <animate attributeName="opacity" values="0;1" begin="1.85s" dur="0.01s" fill="freeze"/></text>
+        <text x="0" y="274" opacity="0">   [ status: online ]      <animate attributeName="opacity" values="0;1" begin="2.05s" dur="0.01s" fill="freeze"/></text>
+      </g>
+      <rect x="330" y="258" width="10" height="18" fill="#67E8F9">
+        <animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+    <g opacity="0.20" mask="url(#scanMaskDark)">
+      <rect x="44" y="52" width="424" height="506" fill="url(#shimmerDark)"/>
+    </g>
+    <g filter="url(#shadowDark)">
+      <rect x="500" y="52" width="636" height="506" rx="24" fill="#0F172A" fill-opacity="0.84"/>
+      <rect x="500.5" y="52.5" width="635" height="505" rx="24" stroke="rgba(255,255,255,0.08)"/>
+      <rect x="500" y="52" width="636" height="70" rx="24" fill="rgba(255,255,255,0.03)"/>
+      <text x="530" y="92" fill="#94A3B8" font-size="14" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">terminal://ryanditko/about</text>
+    </g>
+    <rect x="-250" y="48" width="220" height="514" fill="url(#shimmerDark)" opacity="0.35" transform="rotate(8 0 0)">
+      <animate attributeName="x" values="-250;1300" dur="5.8s" repeatCount="indefinite"/>
+    </rect>
+    <g font-family="Inter, Segoe UI, Arial, sans-serif">
+      <text x="536" y="170" fill="#F8FAFC" font-size="36" font-weight="600">Hi 👋</text>
+      <text x="536" y="212" fill="#F8FAFC" font-size="40" font-weight="700">I'm Ryanditko</text>
+      <text x="536" y="250" fill="url(#accentDark)" font-size="24" font-weight="600" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">Frontend Engineer</text>
+      <rect x="777" y="232" width="10" height="24" fill="#22D3EE">
+        <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/>
+      </rect>
+      <g fill="#94A3B8" font-size="17">
+        <text x="536" y="292" opacity="0">📍 Brazil<animate attributeName="opacity" values="0;1" begin="0.8s" dur="0.2s" fill="freeze"/></text>
+        <text x="536" y="322" opacity="0">🎓 Systems Analysis & Development<animate attributeName="opacity" values="0;1" begin="1.05s" dur="0.2s" fill="freeze"/></text>
+        <text x="536" y="352" opacity="0">🎯 Current Focus: React, Next.js, AI integrations<animate attributeName="opacity" values="0;1" begin="1.30s" dur="0.2s" fill="freeze"/></text>
+        <text x="536" y="382" opacity="0">🌐 Portfolio: ryanditko.dev<animate attributeName="opacity" values="0;1" begin="1.55s" dur="0.2s" fill="freeze"/></text>
+        <text x="536" y="412" opacity="0">✉️ Email: contact@ryanditko.dev<animate attributeName="opacity" values="0;1" begin="1.80s" dur="0.2s" fill="freeze"/></text>
+      </g>
+    </g>
+  </g>
+</svg>
