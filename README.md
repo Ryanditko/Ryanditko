@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td valign="top">
-<pre><sub>
+<pre>
            ;               ,           
          ,;                 '.         
         ;:                   :;        
@@ -34,7 +34,7 @@
 -hrr-     ';              ,;'          
             "'           '"            
               '
-</sub></pre>
+</pre>
     </td>
     <td valign="top">
       <a href="https://github.com/Ryanditko/Ryanditko">
