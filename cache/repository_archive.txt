@@ -1,0 +1,7 @@
+This is an archive of any deleted repositories I have contributed to.
+
+repository (hashed)  total commits  my commits  LOC added by me  LOC deleted by me
+         \                \                \           \___________  \
+          \                \                \_____________________ \  \
+           \                \___________________________________  \ \  \
+____________\___________________________________________________\__\_\__\____
