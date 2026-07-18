@@ -8,7 +8,7 @@ font-display: swap;
 -webkit-size-adjust: 109%;
 size-adjust: 109%;
 }
-.key {fill: #e23636;}
+.key {fill: #ffffff;}
 .value {fill: #a5d6ff;}
 .addColor {fill: #3fb950;}
 .delColor {fill: #f85149;}
@@ -41,7 +41,7 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="311"> ;'     ,;;:;::::::::::::::;";..    ':.</tspan>
 <tspan x="15" y="326">::     ;:"  :::::<tspan class="red">:::::</tspan>::::::  ":     ::</tspan>
 <tspan x="15" y="341"> :.    ::   ::::::<tspan class="red">:::</tspan>:::::::   :     ;</tspan>
-<tspan x="15" y="356">  ;    ::   ::::::<tspan class="red">::</tspan> :::::::   :    ;</tspan>
+<tspan x="15" y="356">  ;    ::   :::::::<tspan class="red">::</tspan>:::::::   :    ;</tspan>
 <tspan x="15" y="371">   '   ::   ::::::<tspan class="red">:::</tspan>.:::::'  ,:   '</tspan>
 <tspan x="15" y="386">    '  ::    ::::<tspan class="red">:::::</tspan>::::"   ::</tspan>
 <tspan x="15" y="401">       ::     ':::::::::"'    ::</tspan>
