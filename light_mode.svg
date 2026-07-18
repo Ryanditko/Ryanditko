@@ -8,7 +8,7 @@ font-display: swap;
 -webkit-size-adjust: 109%;
 size-adjust: 109%;
 }
-.key {fill: #953800;}
+.key {fill: #000000;}
 .value {fill: #0a3069;}
 .addColor {fill: #1a7f37;}
 .delColor {fill: #cf222e;}
