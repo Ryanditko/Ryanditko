@@ -1,0 +1,51 @@
+name: Update profile art
+
+# Refreshes the contribution graph daily from real data. On push / manual run it
+# also regenerates the info card and the ASCII spider portrait (both pure text,
+# no image dependencies).
+
+"on":
+  schedule:
+    - cron: "17 6 * * *"   # ~06:17 UTC every day
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install heatmap dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Scrape real contribution data (no auth needed)
+        env:
+          GH_PROFILE_USER: Ryanditko
+        run: python scripts/fetch_contributions.py
+
+      - name: Render animated contribution graph SVG
+        run: python scripts/generate_streak_svg.py Ryanditko contrib-heatmap.svg
+
+      # info card + spider portrait are static text; rebuild on push / manual run
+      - name: Regenerate info card
+        if: github.event_name != 'schedule'
+        run: python scripts/make_info_card.py
+
+      - name: Regenerate ASCII spider portrait
+        if: github.event_name != 'schedule'
+        run: python scripts/make_spider_svg.py
+
+      - name: Commit updated art
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: refresh profile art [skip ci]"
+          file_pattern: "data/contributions.json contrib-heatmap.svg info-card.svg ryan-ascii.svg"
