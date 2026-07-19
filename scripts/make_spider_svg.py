@@ -38,7 +38,9 @@ CURSOR = "#c9d1d9"
 maxlen = max(len(x) for x in lines)
 status_txt = f"ryan@github:~$ whoami {NAME}"
 ART_W = maxlen * CELL_W
-CANVAS_W = int(max(ART_W, len(status_txt) * CELL_W) + PAD * 2)
+# match the info-card width so both boxes render at the same size
+CANVAS_W = 520
+LEFT = (CANVAS_W - ART_W) / 2   # center the spider horizontally
 ART_H = len(lines) * CELL_H
 CANVAS_H = int(TITLEBAR_H + ART_H + STATUS_H + PAD)
 
@@ -58,7 +60,7 @@ def row_text(y, line, ri):
                 + "</tspan>" + esc(line[e:]))
     else:
         body = esc(line)
-    return (f'<text xml:space="preserve" x="{PAD}" y="{y:.1f}" fill="{INK}" '
+    return (f'<text xml:space="preserve" x="{LEFT:.1f}" y="{y:.1f}" fill="{INK}" '
             f'font-size="{FONT:.1f}">{body}</text>')
 
 
@@ -88,13 +90,13 @@ for ri, line in enumerate(lines):
         continue
     delay = ri * STAGGER
     parts.append(
-        f'<clipPath id="s{ri}"><rect x="{PAD}" y="{row_y:.1f}" height="{CELL_H}" width="0">'
+        f'<clipPath id="s{ri}"><rect x="{LEFT:.1f}" y="{row_y:.1f}" height="{CELL_H}" width="0">'
         f'<animate attributeName="width" from="0" to="{ART_W:.0f}" begin="{delay:.3f}s" '
         f'dur="{ROW_DUR:.2f}s" fill="freeze"/></rect></clipPath>')
     parts.append(f'<g clip-path="url(#s{ri})">{text}</g>')
     parts.append(
         f'<rect y="{row_y+1:.1f}" width="{CELL_W:.0f}" height="{CELL_H-2:.0f}" fill="{CURSOR}" opacity="0">'
-        f'<animate attributeName="x" from="{PAD}" to="{PAD+ART_W:.0f}" begin="{delay:.3f}s" '
+        f'<animate attributeName="x" from="{LEFT:.1f}" to="{LEFT+ART_W:.0f}" begin="{delay:.3f}s" '
         f'dur="{ROW_DUR:.2f}s" fill="freeze"/>'
         f'<set attributeName="opacity" to="0.85" begin="{delay:.3f}s"/>'
         f'<set attributeName="opacity" to="0" begin="{delay+ROW_DUR:.3f}s"/></rect>')

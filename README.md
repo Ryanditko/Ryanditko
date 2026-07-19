@@ -18,7 +18,7 @@
 
 <table>
 <tr>
-<td valign="top"><img src="./ryan-ascii.svg" width="420" alt="Ryan Rodrigues — ASCII portrait" /></td>
+<td valign="top"><img src="./ryan-ascii.svg" width="440" alt="Ryan Rodrigues — ASCII portrait" /></td>
 <td valign="top"><img src="./info-card.svg" width="440" alt="Ryan Rodrigues — experience, stack, highlights, links" /></td>
 </tr>
 </table>
