@@ -32,7 +32,7 @@ BG, BG2 = "#0d1117", "#111722"
 FRAME = "#30363d"
 TITLE_TEXT = "#7d8590"
 INK = "#c9d1d9"
-RED_FILL = "#e23636"
+HOURGLASS_FILL = "#8fe0a5"
 CURSOR = "#c9d1d9"
 
 maxlen = max(len(x) for x in lines)
@@ -56,7 +56,7 @@ def row_text(y, line, ri):
     if ri in RED:
         s, e = RED[ri]
         s = min(s, len(line)); e = min(e, len(line))
-        body = (esc(line[:s]) + f'<tspan fill="{RED_FILL}">' + esc(line[s:e])
+        body = (esc(line[:s]) + f'<tspan fill="{HOURGLASS_FILL}">' + esc(line[s:e])
                 + "</tspan>" + esc(line[e:]))
     else:
         body = esc(line)
