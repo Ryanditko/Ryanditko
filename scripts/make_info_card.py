@@ -14,7 +14,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(HERE, "..", "info-card.svg")
 STATIC = bool(os.environ.get("STATIC"))
 
-W, H = 520, 562
+W, H = 520, 541
 PAD = 20
 TITLEBAR_H = 30
 KEY_X = PAD
@@ -26,10 +26,10 @@ BG2 = "#111722"
 FRAME = "#30363d"
 MUTED = "#7d8590"
 INK = "#c9d1d9"
-KEY = "#ffa657"      # orange keys (matches Andrew)
-SECTION = "#58a6ff"  # blue section headers
-GREEN = "#3fb950"
-ACCENT = "#22d3ee"
+KEY = "#a8e6c1"      # pastel green keys
+SECTION = "#a9c9ff"  # pastel blue section headers
+GREEN = "#8fe0a5"
+ACCENT = "#a3d8e8"
 
 # content model: tuples describing each row
 # ("host",)                    -> "avi@github" + rule
@@ -40,7 +40,6 @@ ACCENT = "#22d3ee"
 ROWS = [
     ("host",),
     ("kv", "Now", "Software Engineer @ Nubank"),
-    ("kv", "Prev", "Data Analyst @ Leroy Merlin"),
     ("kv", "Also", "Founder @ Ditko · Scientific Researcher"),
     ("kv", "Edu", "ADS @ Impacta University ('24 – '26)"),
     ("gap",),
@@ -55,10 +54,10 @@ ROWS = [
     ("bul", "NASA Space Apps Challenge participant"),
     ("bul", "Federated learning in cybersecurity research"),
     ("bul", "260+ stars across open-source projects"),
-    ("bul", "Creator of Roadmap-Projects"),
+    ("bul", "Creator of E.V."),
     ("gap",),
     ("sec", "Links"),
-    ("kv", "Portfolio", "ryandev-dun.vercel.app"),
+    ("kv", "Portfolio", "ryanditko-dev.vercel.app"),
     ("kv", "LinkedIn", "in/ryanditko"),
     ("kv", "Instagram", "ryan.ditko"),
     ("kv", "YouTube", "@ryanditko"),
