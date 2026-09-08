@@ -32,7 +32,7 @@ BG, BG2 = "#0d1117", "#111722"
 FRAME = "#30363d"
 TITLE_TEXT = "#7d8590"
 INK = "#c9d1d9"
-HOURGLASS_FILL = "#2fae5c"
+HOURGLASS_FILL = "#8fe0a5"
 CURSOR = "#c9d1d9"
 
 maxlen = max(len(x) for x in lines)
