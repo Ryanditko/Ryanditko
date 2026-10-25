@@ -1,22 +1,22 @@
 {
   "username": "Ryanditko",
-  "generated_at": "2026-10-24T11:04:49Z",
+  "generated_at": "2026-10-25T11:34:22Z",
   "range": {
-    "start": "2025-10-19",
-    "end": "2026-10-24"
+    "start": "2025-10-26",
+    "end": "2026-10-25"
   },
-  "total_contributions": 5373,
-  "active_days": 336,
-  "avg_per_active_day": 16.0,
+  "total_contributions": 5357,
+  "active_days": 333,
+  "avg_per_active_day": 16.1,
   "current_streak": {
-    "length": 312,
+    "length": 313,
     "start": "2025-12-17",
-    "end": "2026-10-24"
+    "end": "2026-10-25"
   },
   "longest_streak": {
-    "length": 312,
+    "length": 313,
     "start": "2025-12-17",
-    "end": "2026-10-24"
+    "end": "2026-10-25"
   },
   "best_day": {
     "date": "2026-08-05",
@@ -25,7 +25,7 @@
   "monthly": [
     {
       "month": "2025-10",
-      "total": 51
+      "total": 20
     },
     {
       "month": "2025-11",
@@ -73,38 +73,10 @@
     },
     {
       "month": "2026-10",
-      "total": 486
+      "total": 501
     }
   ],
   "days": [
-    {
-      "date": "2025-10-19",
-      "count": 2
-    },
-    {
-      "date": "2025-10-20",
-      "count": 1
-    },
-    {
-      "date": "2025-10-21",
-      "count": 27
-    },
-    {
-      "date": "2025-10-22",
-      "count": 0
-    },
-    {
-      "date": "2025-10-23",
-      "count": 0
-    },
-    {
-      "date": "2025-10-24",
-      "count": 1
-    },
-    {
-      "date": "2025-10-25",
-      "count": 0
-    },
     {
       "date": "2025-10-26",
       "count": 15
@@ -1559,6 +1531,10 @@
     },
     {
       "date": "2026-10-24",
+      "count": 15
+    },
+    {
+      "date": "2026-10-25",
       "count": 14
     }
   ]
