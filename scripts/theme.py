@@ -1,5 +1,9 @@
 """Shared light/dark palettes for profile SVGs (GitHub theme aware)."""
 
+# Portrait + info card must share the same canvas so the README table stays even.
+CARD_W = 520
+CARD_H = 568
+
 THEMES = {
     "dark": {
         "bg": "#0d1117",

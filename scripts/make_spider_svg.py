@@ -12,7 +12,7 @@ import sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 import eb_garamond_face  # noqa: E402
-from theme import THEMES  # noqa: E402
+from theme import CARD_H, CARD_W, THEMES  # noqa: E402
 
 ART = sys.argv[1] if len(sys.argv) > 1 else os.path.join(HERE, "spider-art.txt")
 ROOT = os.path.join(HERE, "..")
@@ -35,10 +35,11 @@ NAME = "Ryan Rodrigues"
 maxlen = max(len(x) for x in lines)
 status_txt = f"ryan@github:~$ whoami {NAME}"
 ART_W = maxlen * CELL_W
-CANVAS_W = 520
+CANVAS_W = CARD_W
+CANVAS_H = CARD_H
 LEFT = (CANVAS_W - ART_W) / 2
-ART_H = len(lines) * CELL_H
-CANVAS_H = int(TITLEBAR_H + ART_H + STATUS_H + PAD)
+# Art area fills the space between title bar and status bar.
+ART_H = CANVAS_H - TITLEBAR_H - STATUS_H - PAD
 ROW_DUR, STAGGER = 0.11, 0.11
 
 
@@ -77,7 +78,9 @@ def render(theme_name):
     cursor = t["ink"]
     gid = f"pbg-{theme_name}"
 
-    art_top = TITLEBAR_H + PAD * 0.6
+    # Vertically center the ASCII block inside the fixed art area.
+    content_h = len(lines) * CELL_H
+    art_top = TITLEBAR_H + PAD * 0.6 + max(0, (ART_H - content_h - PAD * 0.6) / 2)
     parts = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{CANVAS_W}" height="{CANVAS_H}" '
         f'viewBox="0 0 {CANVAS_W} {CANVAS_H}" '

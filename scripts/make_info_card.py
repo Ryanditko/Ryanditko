@@ -11,18 +11,18 @@ import sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 import eb_garamond_face  # noqa: E402
-from theme import THEMES  # noqa: E402
+from theme import CARD_H, CARD_W, THEMES  # noqa: E402
 
 ROOT = os.path.join(HERE, "..")
 STATIC = bool(os.environ.get("STATIC"))
 
-W = 520
+W = CARD_W
+H = CARD_H
 PAD = 20
 TITLEBAR_H = 30
 KEY_X = PAD
 VAL_X = PAD + 92
 LINE_H = 20.5
-BOTTOM_PAD = 28
 
 ROWS = [
     ("host",),
@@ -64,16 +64,6 @@ def rise(inner, i):
         f'<animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" '
         f'begin="{delay:.2f}s" dur="0.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/></g>'
     )
-
-
-y = TITLEBAR_H + 30
-for row in ROWS:
-    kind = row[0]
-    if kind == "gap":
-        y += LINE_H * 0.5
-    elif kind in ("host", "sec", "kv", "bul"):
-        y += LINE_H
-H = int(round(y + BOTTOM_PAD))
 
 
 def render(theme_name):
