@@ -74,7 +74,7 @@ def render(theme_name):
     frame = t["frame"]
     title_text = t["muted"]
     ink = t["ink"]
-    hourglass = t["key"]
+    hourglass = t["section"]  # brand green mark on the abdomen
     cursor = t["ink"]
     gid = f"pbg-{theme_name}"
 
