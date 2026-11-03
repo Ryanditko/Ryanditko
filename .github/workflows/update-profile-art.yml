@@ -32,15 +32,15 @@ jobs:
           GH_PROFILE_USER: Ryanditko
         run: python scripts/fetch_contributions.py
 
-      - name: Render animated contribution graph SVG
-        run: python scripts/generate_streak_svg.py Ryanditko contrib-heatmap.svg
+      - name: Render animated contribution graph SVG (dark + light)
+        run: python scripts/generate_streak_svg.py Ryanditko contrib-heatmap
 
       # info card + spider portrait are static text; rebuild on push / manual run
-      - name: Regenerate info card
+      - name: Regenerate info card (dark + light)
         if: github.event_name != 'schedule'
         run: python scripts/make_info_card.py
 
-      - name: Regenerate ASCII spider portrait
+      - name: Regenerate ASCII spider portrait (dark + light)
         if: github.event_name != 'schedule'
         run: python scripts/make_spider_svg.py
 
@@ -48,4 +48,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: refresh profile art [skip ci]"
-          file_pattern: "data/contributions.json contrib-heatmap.svg info-card.svg ryan-ascii.svg"
+          file_pattern: "data/contributions.json contrib-heatmap.svg contrib-heatmap-dark.svg contrib-heatmap-light.svg info-card.svg info-card-dark.svg info-card-light.svg ryan-ascii.svg ryan-ascii-dark.svg ryan-ascii-light.svg"
