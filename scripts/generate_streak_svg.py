@@ -5,6 +5,10 @@ Usage: python generate_streak_svg.py [username] [output.svg]
 """
 import sys, json, os, datetime, urllib.request
 
+HERE = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, HERE)
+import eb_garamond_face  # noqa: E402
+
 USER = sys.argv[1] if len(sys.argv) > 1 else "Ryanditko"
 OUT  = sys.argv[2] if len(sys.argv) > 2 else "streak.svg"
 
@@ -50,8 +54,9 @@ else:
 
 # ---- layout ----
 CELL, GAP, RAD, LEFT, TOP = 13, 3, 2.5, 34, 24
-COLORS = ["#161b22", "#2a4a3a", "#3d6f52", "#5c9e78", "#a8e6c1"]
-FLASH = "#c8f7d8"
+# White ramp: empty -> brightest.
+COLORS = ["#161b22", "#3d444d", "#6e7681", "#b1bac4", "#f0f6fc"]
+FLASH = "#ffffff"
 GRAY = "#7d8590"
 MONTHS = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"]
 
@@ -91,8 +96,9 @@ for i, c in enumerate(contribs):
         f'fill="{COLORS[lvl]}" style="animation-delay:{delay}s"/>'
     )
 
-svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif">
+svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" font-family="{eb_garamond_face.FONT_FAMILY}">
 <style>
+  {eb_garamond_face.font_face_css()}
   text.lbl {{ fill:{GRAY}; font-size:13px; font-weight:600; }}
   text.total {{ fill:#e6edf3; font-size:15px; font-weight:700; }}
   .c {{ transform-box:fill-box; transform-origin:center; opacity:0; animation:pop {DUR}s ease-out both; }}

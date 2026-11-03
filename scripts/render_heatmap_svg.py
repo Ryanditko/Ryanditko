@@ -11,13 +11,17 @@ Run by .github/workflows/update-profile-art.yml after fetch_contributions.py.
 import datetime
 import json
 import os
+import sys
 
 HERE = os.path.dirname(__file__)
+sys.path.insert(0, HERE)
+import eb_garamond_face  # noqa: E402
+
 IN_PATH = os.path.join(HERE, "..", "data", "contributions.json")
 OUT_PATH = os.path.join(HERE, "..", "contrib-heatmap.svg")
 
-# Pastel green ramp: empty -> brightest.
-PALETTE = ["#161b22", "#2d4a3a", "#3f6b52", "#5c9b74", "#8fe0a5", "#b8f5c8"]
+# White ramp: empty -> brightest.
+PALETTE = ["#161b22", "#2d333b", "#484f58", "#6e7681", "#b1bac4", "#f0f6fc"]
 
 CELL = 12
 GAP = 3
@@ -33,7 +37,7 @@ FRAME = "#a9c9ff"
 MUTED = "#7d8590"
 TEXT = "#e6edf3"
 ACCENT = "#a3d8e8"
-GREEN = "#8fe0a5"
+GREEN = "#f0f6fc"
 GOLD = "#f5e1a4"
 
 # reveal timing (one-shot)
@@ -111,8 +115,8 @@ def render(data):
 
     parts = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{canvas_w}" height="{canvas_h}" '
-        f'viewBox="0 0 {canvas_w} {canvas_h}" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">',
-        f'<style>{css}</style>',
+        f'viewBox="0 0 {canvas_w} {canvas_h}" font-family="{eb_garamond_face.FONT_FAMILY}">',
+        f'<style>{eb_garamond_face.font_face_css()}\n{css}</style>',
         '<defs>'
         f'<linearGradient id="hbg" x1="0" y1="0" x2="0" y2="1">'
         f'<stop offset="0" stop-color="{BG2}"/><stop offset="1" stop-color="{BG}"/></linearGradient>'
