@@ -34,7 +34,6 @@ STATUS_H = 34
 NAME = "Ryan Rodrigues"
 
 maxlen = max(len(x) for x in lines)
-status_txt = f"ryan@github:~$ whoami {NAME}"
 ART_W = maxlen * CELL_W
 CANVAS_W, CANVAS_H = CARD_W, CARD_H
 OX, OY = CARD_PAD, CARD_PAD
@@ -135,15 +134,14 @@ def render(theme_name):
         f'<line x1="1" y1="{status_line_y:.1f}" x2="{INNER_W - 1}" y2="{status_line_y:.1f}" '
         f'stroke="{frame}"/>'
     )
+    # Cursor as an inline tspan so it sits right after the name (Garamond is
+    # proportional; a fixed pixel estimate drifts away from the glyphs).
     parts.append(
         f'<text x="{PAD}" y="{status_y:.1f}" fill="{title_text}" font-size="13">'
-        f'ryan@github:~$ whoami <tspan fill="{ink}">{NAME}</tspan></text>'
-    )
-    cur_x = PAD + int(len(status_txt) * 13 * 0.48) + 6
-    parts.append(
-        f'<rect x="{cur_x}" y="{status_y - 12:.1f}" width="8" height="14" fill="{ink}">'
+        f'ryan@github:~$ whoami <tspan fill="{ink}">{NAME}</tspan>'
+        f'<tspan fill="{ink}" dx="2">█'
         f'<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" '
-        f'dur="1s" repeatCount="indefinite"/></rect>'
+        f'dur="1s" repeatCount="indefinite"/></tspan></text>'
     )
     parts.append("</g></svg>")
     return "".join(parts)
