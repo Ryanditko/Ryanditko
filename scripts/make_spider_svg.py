@@ -55,7 +55,7 @@ def row_text(y, line, ri, ink, hourglass, prefix):
         e = min(e, len(line))
         body = (
             esc(line[:s])
-            + f'<tspan fill="{hourglass}" filter="url(#{prefix}-glow)">'
+            + f'<tspan fill="{hourglass}">'
             + esc(line[s:e])
             + "</tspan>"
             + esc(line[e:])

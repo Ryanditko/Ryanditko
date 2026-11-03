@@ -131,10 +131,10 @@ def render(theme_name):
         elif kind == "sec":
             title = esc(row[1])
             inner = (
-                f'<text x="{KEY_X}" y="{y:.1f}" fill="{section}" font-size="12.5" font-weight="700" '
-                f'filter="url(#{prefix}-glow)">&#8212; {title}</text>'
+                f'<text x="{KEY_X}" y="{y:.1f}" fill="{section}" font-size="12.5" font-weight="700">'
+                f'&#8212; {title}</text>'
                 f'<line x1="{KEY_X + 12 + len(row[1]) * 8}" y1="{y - 4:.1f}" x2="{INNER_W - PAD}" '
-                f'y2="{y - 4:.1f}" stroke="{frame}" stroke-opacity="0.8"/>'
+                f'y2="{y - 4:.1f}" stroke="{frame}" stroke-opacity="0.55"/>'
             )
         elif kind == "kv":
             k, val = esc(row[1]), esc(row[2])
@@ -145,8 +145,7 @@ def render(theme_name):
         elif kind == "bul":
             txt = esc(row[1])
             inner = (
-                f'<circle cx="{KEY_X + 3}" cy="{y - 4:.1f}" r="2.5" fill="{highlight}" '
-                f'filter="url(#{prefix}-glow)"/>'
+                f'<circle cx="{KEY_X + 3}" cy="{y - 4:.1f}" r="2.2" fill="{highlight}"/>'
                 f'<text x="{KEY_X + 14}" y="{y:.1f}" fill="{ink}" font-size="12.5">{txt}</text>'
             )
         else:

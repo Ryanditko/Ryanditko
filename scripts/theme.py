@@ -2,7 +2,7 @@
 
 # Portrait + info card must share the same canvas so the README table stays even.
 # Outer size includes room for the soft drop-shadow; inner content is inset by CARD_PAD.
-CARD_PAD = 14
+CARD_PAD = 18
 CARD_INNER_W = 520
 CARD_INNER_H = 568
 CARD_W = CARD_INNER_W + CARD_PAD * 2

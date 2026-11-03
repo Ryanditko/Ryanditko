@@ -82,7 +82,7 @@ REVEAL, DUR = 3.6, 0.55
 maxorder = (NW - 1) + 6 * 0.55
 
 
-def build_rects(colors, pad=0, cell_shadow=0.18):
+def build_rects(colors, pad=0):
     rects = []
     for i, c in enumerate(contribs):
         if c is None:
@@ -93,18 +93,9 @@ def build_rects(colors, pad=0, cell_shadow=0.18):
         delay = round((wk + row * 0.55) / maxorder * REVEAL, 3)
         cls = "c g" if lvl >= 1 else "c e"
         rects.append(
-            f'<rect x="{x + 1}" y="{y + 1}" width="{CELL}" height="{CELL}" rx="{RAD}" '
-            f'fill="#000000" opacity="{cell_shadow}"/>'
-        )
-        rects.append(
             f'<rect class="{cls}" x="{x}" y="{y}" width="{CELL}" height="{CELL}" '
             f'rx="{RAD}" fill="{colors[lvl]}" style="animation-delay:{delay}s"/>'
         )
-        if lvl >= 1:
-            rects.append(
-                f'<rect x="{x + 1.2}" y="{y + 1.2}" width="{CELL - 4}" height="2.2" rx="1" '
-                f'fill="#ffffff" opacity="0.22" style="animation-delay:{delay}s" class="c"/>'
-            )
     return rects
 
 
@@ -113,11 +104,10 @@ def render(theme_name):
     colors = t["ramp"]
     gray = t["muted"]
     total_fill = t["total"]
-    bg, bg2 = t["bg"], t["bg2"]
+    bg, bg2, frame = t["bg"], t["bg2"], t["frame"]
     prefix = f"heat-{theme_name}"
-    pad = 12
+    pad = 16
     panel_w, panel_h = W + pad * 2, H + pad * 2
-    cell_shadow = 0.32 if theme_name == "dark" else 0.10
     labels = []
     last_m = None
     for wk in range(NW):
@@ -136,7 +126,9 @@ def render(theme_name):
         labels.append(
             f'<text class="lbl" x="{2 + pad}" y="{TOP + pad + r * (CELL + GAP) + CELL - 2}">{name}</text>'
         )
-    rects = build_rects(colors, pad=pad, cell_shadow=cell_shadow)
+    rects = build_rects(colors, pad=pad)
+    edge = "#ffffff"
+    edge_op = 0.06 if theme_name == "dark" else 0.9
 
     svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{panel_w}" height="{panel_h}" viewBox="0 0 {panel_w} {panel_h}" font-family="{eb_garamond_face.FONT_FAMILY}">
 <style>
@@ -156,8 +148,9 @@ def render(theme_name):
   {card_depth_defs(prefix, theme_name)}
 </defs>
 <g filter="url(#{prefix}-shadow)">
-  <rect x="1" y="1" width="{panel_w - 2}" height="{panel_h - 2}" rx="14" fill="url(#{prefix}-bg)"/>
-  <rect x="1" y="1" width="{panel_w - 2}" height="{panel_h - 2}" rx="14" fill="none" stroke="url(#{prefix}-bevel)" stroke-width="1.4"/>
+  <rect x="0.5" y="0.5" width="{panel_w - 1}" height="{panel_h - 1}" rx="16" fill="url(#{prefix}-bg)"/>
+  <rect x="0.5" y="0.5" width="{panel_w - 1}" height="{panel_h - 1}" rx="16" fill="none" stroke="{frame}" stroke-width="1"/>
+  <path d="M 16.5 1 H {panel_w - 16.5}" stroke="{edge}" stroke-opacity="{edge_op}" stroke-width="1" fill="none"/>
 </g>
 {''.join(labels)}
 {''.join(rects)}
