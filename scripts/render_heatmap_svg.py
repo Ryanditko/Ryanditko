@@ -20,8 +20,8 @@ import eb_garamond_face  # noqa: E402
 IN_PATH = os.path.join(HERE, "..", "data", "contributions.json")
 OUT_PATH = os.path.join(HERE, "..", "contrib-heatmap.svg")
 
-# White ramp: empty -> brightest.
-PALETTE = ["#161b22", "#2d333b", "#484f58", "#6e7681", "#b1bac4", "#f0f6fc"]
+# Green/white blend: empty -> brand green -> near-white mint.
+PALETTE = ["#161b22", "#2d4a3a", "#3f6b52", "#5c9b74", "#8fe0a5", "#eaf8ef"]
 
 CELL = 12
 GAP = 3

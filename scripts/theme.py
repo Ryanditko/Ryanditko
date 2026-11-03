@@ -15,8 +15,8 @@ THEMES = {
         "section": "#8fe0a5",  # previous pastel green (was blue)
         "accent": "#a8e6c1",
         "total": "#e6edf3",
-        # empty -> most contributions
-        "ramp": ["#161b22", "#3d444d", "#6e7681", "#b1bac4", "#f0f6fc"],
+        # empty -> most: dark green -> brand green (#8fe0a5) -> near-white mint
+        "ramp": ["#161b22", "#2d4a3a", "#5c9b74", "#8fe0a5", "#eaf8ef"],
         "dots": ["#ff5f56", "#ffbd2e", "#27c93f"],
     },
     "light": {
@@ -29,8 +29,8 @@ THEMES = {
         "section": "#1a7f37",  # green readable on light bg
         "accent": "#2da44e",
         "total": "#1f2328",
-        # empty -> most contributions (darker = more on light bg)
-        "ramp": ["#ebedf0", "#c8cdd3", "#8b949e", "#484f58", "#1f2328"],
+        # empty -> most: pale mint -> brand green -> deeper green
+        "ramp": ["#ebedf0", "#cfeeda", "#8fe0a5", "#3f9b6a", "#1a7f37"],
         "dots": ["#ff5f56", "#ffbd2e", "#27c93f"],
     },
 }
