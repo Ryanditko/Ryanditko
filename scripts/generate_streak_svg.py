@@ -14,6 +14,7 @@ import urllib.request
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 import eb_garamond_face  # noqa: E402
+from depth import card_depth_defs  # noqa: E402
 from theme import THEMES  # noqa: E402
 
 USER = sys.argv[1] if len(sys.argv) > 1 else "Ryanditko"
@@ -81,7 +82,42 @@ REVEAL, DUR = 3.6, 0.55
 maxorder = (NW - 1) + 6 * 0.55
 
 
-def build_labels():
+def build_rects(colors, pad=0, cell_shadow=0.18):
+    rects = []
+    for i, c in enumerate(contribs):
+        if c is None:
+            continue
+        wk, row, lvl = i // 7, i % 7, c["level"]
+        x = LEFT + wk * (CELL + GAP) + pad
+        y = TOP + row * (CELL + GAP) + pad
+        delay = round((wk + row * 0.55) / maxorder * REVEAL, 3)
+        cls = "c g" if lvl >= 1 else "c e"
+        rects.append(
+            f'<rect x="{x + 1}" y="{y + 1}" width="{CELL}" height="{CELL}" rx="{RAD}" '
+            f'fill="#000000" opacity="{cell_shadow}"/>'
+        )
+        rects.append(
+            f'<rect class="{cls}" x="{x}" y="{y}" width="{CELL}" height="{CELL}" '
+            f'rx="{RAD}" fill="{colors[lvl]}" style="animation-delay:{delay}s"/>'
+        )
+        if lvl >= 1:
+            rects.append(
+                f'<rect x="{x + 1.2}" y="{y + 1.2}" width="{CELL - 4}" height="2.2" rx="1" '
+                f'fill="#ffffff" opacity="0.22" style="animation-delay:{delay}s" class="c"/>'
+            )
+    return rects
+
+
+def render(theme_name):
+    t = THEMES[theme_name]
+    colors = t["ramp"]
+    gray = t["muted"]
+    total_fill = t["total"]
+    bg, bg2 = t["bg"], t["bg2"]
+    prefix = f"heat-{theme_name}"
+    pad = 12
+    panel_w, panel_h = W + pad * 2, H + pad * 2
+    cell_shadow = 0.32 if theme_name == "dark" else 0.10
     labels = []
     last_m = None
     for wk in range(NW):
@@ -93,42 +129,16 @@ def build_labels():
         if d.month != last_m:
             last_m = d.month
             labels.append(
-                f'<text class="lbl" x="{LEFT + wk * (CELL + GAP)}" y="{TOP - 8}">'
+                f'<text class="lbl" x="{LEFT + pad + wk * (CELL + GAP)}" y="{TOP - 8 + pad}">'
                 f"{MONTHS[d.month - 1]}</text>"
             )
     for name, r in [("Mon", 1), ("Wed", 3), ("Fri", 5)]:
         labels.append(
-            f'<text class="lbl" x="2" y="{TOP + r * (CELL + GAP) + CELL - 2}">{name}</text>'
+            f'<text class="lbl" x="{2 + pad}" y="{TOP + pad + r * (CELL + GAP) + CELL - 2}">{name}</text>'
         )
-    return labels
+    rects = build_rects(colors, pad=pad, cell_shadow=cell_shadow)
 
-
-def build_rects(colors):
-    rects = []
-    for i, c in enumerate(contribs):
-        if c is None:
-            continue
-        wk, row, lvl = i // 7, i % 7, c["level"]
-        x = LEFT + wk * (CELL + GAP)
-        y = TOP + row * (CELL + GAP)
-        delay = round((wk + row * 0.55) / maxorder * REVEAL, 3)
-        cls = "c g" if lvl >= 1 else "c e"
-        rects.append(
-            f'<rect class="{cls}" x="{x}" y="{y}" width="{CELL}" height="{CELL}" '
-            f'rx="{RAD}" fill="{colors[lvl]}" style="animation-delay:{delay}s"/>'
-        )
-    return rects
-
-
-LABELS = build_labels()
-
-
-def render(theme_name):
-    t = THEMES[theme_name]
-    colors = t["ramp"]
-    gray = t["muted"]
-    total_fill = t["total"]
-    svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" font-family="{eb_garamond_face.FONT_FAMILY}">
+    svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{panel_w}" height="{panel_h}" viewBox="0 0 {panel_w} {panel_h}" font-family="{eb_garamond_face.FONT_FAMILY}">
 <style>
   {eb_garamond_face.font_face_css()}
   text.lbl {{ fill:{gray}; font-size:13px; font-weight:600; }}
@@ -139,10 +149,19 @@ def render(theme_name):
   @keyframes flash {{ 0%{{filter:brightness(2.4)}} 45%{{filter:brightness(2.4)}} 100%{{filter:brightness(1)}} }}
   @media (prefers-reduced-motion: reduce) {{ .c {{ opacity:1 !important; animation:none !important; }} }}
 </style>
-<rect width="{W}" height="{H}" fill="none"/>
-{''.join(LABELS)}
-{''.join(build_rects(colors))}
-<text class="total" x="{LEFT}" y="{H - 6}">{total:,} {total_label}</text>
+<defs>
+  <linearGradient id="{prefix}-bg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="{bg2}"/><stop offset="1" stop-color="{bg}"/>
+  </linearGradient>
+  {card_depth_defs(prefix, theme_name)}
+</defs>
+<g filter="url(#{prefix}-shadow)">
+  <rect x="1" y="1" width="{panel_w - 2}" height="{panel_h - 2}" rx="14" fill="url(#{prefix}-bg)"/>
+  <rect x="1" y="1" width="{panel_w - 2}" height="{panel_h - 2}" rx="14" fill="none" stroke="url(#{prefix}-bevel)" stroke-width="1.4"/>
+</g>
+{''.join(labels)}
+{''.join(rects)}
+<text class="total" x="{LEFT + pad}" y="{H - 6 + pad}">{total:,} {total_label}</text>
 </svg>'''
     return svg
 

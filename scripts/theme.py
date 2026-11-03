@@ -1,8 +1,12 @@
 """Shared light/dark palettes for profile SVGs (GitHub theme aware)."""
 
 # Portrait + info card must share the same canvas so the README table stays even.
-CARD_W = 520
-CARD_H = 568
+# Outer size includes room for the soft drop-shadow; inner content is inset by CARD_PAD.
+CARD_PAD = 14
+CARD_INNER_W = 520
+CARD_INNER_H = 568
+CARD_W = CARD_INNER_W + CARD_PAD * 2
+CARD_H = CARD_INNER_H + CARD_PAD * 2
 
 THEMES = {
     "dark": {

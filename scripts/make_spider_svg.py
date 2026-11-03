@@ -12,7 +12,8 @@ import sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 import eb_garamond_face  # noqa: E402
-from theme import CARD_H, CARD_W, THEMES  # noqa: E402
+from depth import card_chrome, card_depth_defs  # noqa: E402
+from theme import CARD_H, CARD_INNER_H, CARD_INNER_W, CARD_PAD, CARD_W, THEMES  # noqa: E402
 
 ART = sys.argv[1] if len(sys.argv) > 1 else os.path.join(HERE, "spider-art.txt")
 ROOT = os.path.join(HERE, "..")
@@ -35,11 +36,11 @@ NAME = "Ryan Rodrigues"
 maxlen = max(len(x) for x in lines)
 status_txt = f"ryan@github:~$ whoami {NAME}"
 ART_W = maxlen * CELL_W
-CANVAS_W = CARD_W
-CANVAS_H = CARD_H
-LEFT = (CANVAS_W - ART_W) / 2
-# Art area fills the space between title bar and status bar.
-ART_H = CANVAS_H - TITLEBAR_H - STATUS_H - PAD
+CANVAS_W, CANVAS_H = CARD_W, CARD_H
+OX, OY = CARD_PAD, CARD_PAD
+INNER_W, INNER_H = CARD_INNER_W, CARD_INNER_H
+LEFT = (INNER_W - ART_W) / 2
+ART_H = INNER_H - TITLEBAR_H - STATUS_H - PAD
 ROW_DUR, STAGGER = 0.11, 0.11
 
 
@@ -47,21 +48,20 @@ def esc(s):
     return html.escape(s, quote=False)
 
 
-def row_text(y, line, ri, ink, hourglass):
+def row_text(y, line, ri, ink, hourglass, prefix):
     if ri in RED:
         s, e = RED[ri]
         s = min(s, len(line))
         e = min(e, len(line))
         body = (
             esc(line[:s])
-            + f'<tspan fill="{hourglass}">'
+            + f'<tspan fill="{hourglass}" filter="url(#{prefix}-glow)">'
             + esc(line[s:e])
             + "</tspan>"
             + esc(line[e:])
         )
     else:
         body = esc(line)
-    # ASCII art must stay monospace so columns align; UI chrome uses EB Garamond.
     return (
         f'<text xml:space="preserve" x="{LEFT:.1f}" y="{y:.1f}" fill="{ink}" '
         f'font-family="{MONO}" font-size="{FONT:.1f}">{body}</text>'
@@ -74,11 +74,11 @@ def render(theme_name):
     frame = t["frame"]
     title_text = t["muted"]
     ink = t["ink"]
-    hourglass = t["section"]  # brand green mark on the abdomen
+    hourglass = t["section"]
     cursor = t["ink"]
-    gid = f"pbg-{theme_name}"
+    prefix = f"port-{theme_name}"
+    gid = f"{prefix}-bg"
 
-    # Vertically center the ASCII block inside the fixed art area.
     content_h = len(lines) * CELL_H
     art_top = TITLEBAR_H + PAD * 0.6 + max(0, (ART_H - content_h - PAD * 0.6) / 2)
     parts = [
@@ -86,27 +86,29 @@ def render(theme_name):
         f'viewBox="0 0 {CANVAS_W} {CANVAS_H}" '
         f'font-family="{eb_garamond_face.FONT_FAMILY}">',
         f'<style>{eb_garamond_face.font_face_css()}</style>',
-        '<defs>'
+        "<defs>",
         f'<linearGradient id="{gid}" x1="0" y1="0" x2="0" y2="1">'
-        f'<stop offset="0" stop-color="{bg2}"/><stop offset="1" stop-color="{bg}"/></linearGradient></defs>',
-        f'<rect width="{CANVAS_W}" height="{CANVAS_H}" rx="12" fill="url(#{gid})"/>',
-        f'<rect x="0.5" y="0.5" width="{CANVAS_W - 1}" height="{CANVAS_H - 1}" rx="12" '
-        f'fill="none" stroke="{frame}"/>',
-        f'<line x1="0" y1="{TITLEBAR_H}" x2="{CANVAS_W}" y2="{TITLEBAR_H}" stroke="{frame}"/>',
+        f'<stop offset="0" stop-color="{bg2}"/><stop offset="1" stop-color="{bg}"/></linearGradient>',
+        card_depth_defs(prefix, theme_name),
+        "</defs>",
+        f'<rect width="{CANVAS_W}" height="{CANVAS_H}" fill="none"/>',
+        f'<g transform="translate({OX},{OY})">',
     ]
+    parts.extend(card_chrome(prefix, INNER_W, INNER_H, TITLEBAR_H, f"url(#{gid})", frame))
+
     for i, dotcol in enumerate(t["dots"]):
         parts.append(
             f'<circle cx="{PAD + i * 16}" cy="{TITLEBAR_H / 2}" r="5" fill="{dotcol}"/>'
         )
     parts.append(
-        f'<text x="{CANVAS_W / 2}" y="{TITLEBAR_H / 2 + 4}" fill="{title_text}" font-size="12" '
+        f'<text x="{INNER_W / 2}" y="{TITLEBAR_H / 2 + 4}" fill="{title_text}" font-size="12" '
         f'text-anchor="middle">ryan@github: ~$ ./portrait.sh</text>'
     )
 
     for ri, line in enumerate(lines):
         y = art_top + ri * CELL_H + CELL_H * 0.75
         row_y = art_top + ri * CELL_H
-        text = row_text(y, line, ri, ink, hourglass)
+        text = row_text(y, line, ri, ink, hourglass, prefix)
         if STATIC:
             parts.append(text)
             continue
@@ -130,21 +132,20 @@ def render(theme_name):
     status_line_y = TITLEBAR_H + ART_H + PAD * 0.5
     status_y = status_line_y + 19
     parts.append(
-        f'<line x1="0" y1="{status_line_y:.1f}" x2="{CANVAS_W}" y2="{status_line_y:.1f}" '
+        f'<line x1="1" y1="{status_line_y:.1f}" x2="{INNER_W - 1}" y2="{status_line_y:.1f}" '
         f'stroke="{frame}"/>'
     )
     parts.append(
         f'<text x="{PAD}" y="{status_y:.1f}" fill="{title_text}" font-size="13">'
         f'ryan@github:~$ whoami <tspan fill="{ink}">{NAME}</tspan></text>'
     )
-    # Proportional EB Garamond: approximate advance (~0.48em) for the blinking cursor.
     cur_x = PAD + int(len(status_txt) * 13 * 0.48) + 6
     parts.append(
         f'<rect x="{cur_x}" y="{status_y - 12:.1f}" width="8" height="14" fill="{ink}">'
         f'<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" '
         f'dur="1s" repeatCount="indefinite"/></rect>'
     )
-    parts.append("</svg>")
+    parts.append("</g></svg>")
     return "".join(parts)
 
 

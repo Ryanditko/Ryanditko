@@ -11,17 +11,19 @@ import sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 import eb_garamond_face  # noqa: E402
-from theme import CARD_H, CARD_W, THEMES  # noqa: E402
+from depth import card_chrome, card_depth_defs  # noqa: E402
+from theme import CARD_H, CARD_INNER_H, CARD_INNER_W, CARD_PAD, CARD_W, THEMES  # noqa: E402
 
 ROOT = os.path.join(HERE, "..")
 STATIC = bool(os.environ.get("STATIC"))
 
-W = CARD_W
-H = CARD_H
+W, H = CARD_W, CARD_H
+OX, OY = CARD_PAD, CARD_PAD
+INNER_W, INNER_H = CARD_INNER_W, CARD_INNER_H
 PAD = 20
 TITLEBAR_H = 30
 KEY_X = PAD
-VAL_X = PAD + 92
+VAL_X = PAD + 108
 TOP_PAD = 30
 BOTTOM_PAD = 28
 
@@ -68,7 +70,6 @@ def rise(inner, i):
 
 
 def line_height_for_card():
-    """Stretch row spacing so the written card fills the same canvas as the portrait."""
     units = 0.0
     for row in ROWS:
         kind = row[0]
@@ -76,7 +77,7 @@ def line_height_for_card():
             units += 0.5
         elif kind in ("host", "sec", "kv", "bul"):
             units += 1.0
-    available = H - TITLEBAR_H - TOP_PAD - BOTTOM_PAD
+    available = INNER_H - TITLEBAR_H - TOP_PAD - BOTTOM_PAD
     return available / units
 
 
@@ -86,26 +87,30 @@ def render(theme_name):
     frame, muted, ink = t["frame"], t["muted"], t["ink"]
     key, section, accent = t["key"], t["section"], t["accent"]
     highlight = t["section"]
-    gid = f"ibg-{theme_name}"
+    prefix = f"info-{theme_name}"
+    gid = f"{prefix}-bg"
     line_h = line_height_for_card()
 
     parts = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" '
         f'font-family="{eb_garamond_face.FONT_FAMILY}">',
         f'<style>{eb_garamond_face.font_face_css()}</style>',
-        '<defs>'
+        "<defs>",
         f'<linearGradient id="{gid}" x1="0" y1="0" x2="0" y2="1">'
-        f'<stop offset="0" stop-color="{bg2}"/><stop offset="1" stop-color="{bg}"/></linearGradient></defs>',
-        f'<rect width="{W}" height="{H}" rx="12" fill="url(#{gid})"/>',
-        f'<rect x="0.5" y="0.5" width="{W - 1}" height="{H - 1}" rx="12" fill="none" stroke="{frame}"/>',
-        f'<line x1="0" y1="{TITLEBAR_H}" x2="{W}" y2="{TITLEBAR_H}" stroke="{frame}"/>',
+        f'<stop offset="0" stop-color="{bg2}"/><stop offset="1" stop-color="{bg}"/></linearGradient>',
+        card_depth_defs(prefix, theme_name),
+        "</defs>",
+        f'<rect width="{W}" height="{H}" fill="none"/>',
+        f'<g transform="translate({OX},{OY})">',
     ]
+    parts.extend(card_chrome(prefix, INNER_W, INNER_H, TITLEBAR_H, f"url(#{gid})", frame))
+
     for i, dotcol in enumerate(t["dots"]):
         parts.append(
             f'<circle cx="{PAD + i * 16}" cy="{TITLEBAR_H / 2}" r="5" fill="{dotcol}"/>'
         )
     parts.append(
-        f'<text x="{W / 2}" y="{TITLEBAR_H / 2 + 4}" fill="{muted}" font-size="12" '
+        f'<text x="{INNER_W / 2}" y="{TITLEBAR_H / 2 + 4}" fill="{muted}" font-size="12" '
         f'text-anchor="middle">ryan@github: ~$ neofetch</text>'
     )
 
@@ -120,16 +125,16 @@ def render(theme_name):
                 f'<text x="{KEY_X}" y="{y:.1f}" font-size="14" font-weight="700">'
                 f'<tspan fill="{highlight}">ryan</tspan><tspan fill="{muted}">@</tspan>'
                 f'<tspan fill="{accent}">github</tspan></text>'
-                f'<line x1="{KEY_X + 96}" y1="{y - 4:.1f}" x2="{W - PAD}" y2="{y - 4:.1f}" '
+                f'<line x1="{KEY_X + 110}" y1="{y - 4:.1f}" x2="{INNER_W - PAD}" y2="{y - 4:.1f}" '
                 f'stroke="{frame}" stroke-opacity="0.8"/>'
             )
         elif kind == "sec":
             title = esc(row[1])
             inner = (
-                f'<text x="{KEY_X}" y="{y:.1f}" fill="{section}" font-size="12.5" font-weight="700">'
-                f'&#8212; {title}</text>'
-                f'<line x1="{KEY_X + 12 + len(row[1]) * 8}" y1="{y - 4:.1f}" x2="{W - PAD}" y2="{y - 4:.1f}" '
-                f'stroke="{frame}" stroke-opacity="0.8"/>'
+                f'<text x="{KEY_X}" y="{y:.1f}" fill="{section}" font-size="12.5" font-weight="700" '
+                f'filter="url(#{prefix}-glow)">&#8212; {title}</text>'
+                f'<line x1="{KEY_X + 12 + len(row[1]) * 8}" y1="{y - 4:.1f}" x2="{INNER_W - PAD}" '
+                f'y2="{y - 4:.1f}" stroke="{frame}" stroke-opacity="0.8"/>'
             )
         elif kind == "kv":
             k, val = esc(row[1]), esc(row[2])
@@ -140,7 +145,8 @@ def render(theme_name):
         elif kind == "bul":
             txt = esc(row[1])
             inner = (
-                f'<circle cx="{KEY_X + 3}" cy="{y - 4:.1f}" r="2.5" fill="{highlight}"/>'
+                f'<circle cx="{KEY_X + 3}" cy="{y - 4:.1f}" r="2.5" fill="{highlight}" '
+                f'filter="url(#{prefix}-glow)"/>'
                 f'<text x="{KEY_X + 14}" y="{y:.1f}" fill="{ink}" font-size="12.5">{txt}</text>'
             )
         else:
@@ -148,7 +154,7 @@ def render(theme_name):
         parts.append(rise(inner, i))
         y += line_h
 
-    parts.append("</svg>")
+    parts.append("</g></svg>")
     return "".join(parts)
 
 
