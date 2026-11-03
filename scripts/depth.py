@@ -1,7 +1,8 @@
-"""Shared soft elevation for profile SVGs.
+"""Shared soft elevation + stage atmosphere for profile SVGs.
 
 Painted shadow stacks (not only SVG filters) so GitHub Camo / <img>
-actually shows the lift. Cards get a stronger stack than pills.
+actually shows the lift. Stage washes give the README a shared floor
+behind floating cards.
 """
 
 from theme import THEMES
@@ -25,12 +26,19 @@ def depth_palette(theme_name):
             "bottom_edge_opacity": 0.45,
             "title_fill": "#ffffff",
             "title_opacity": 0.04,
-            # painted layers behind the card (dx, dy, grow, opacity)
             "cast": [
                 (0, 18, 10, 0.22),
                 (0, 10, 4, 0.28),
                 (0, 4, 1, 0.40),
             ],
+            "stage": "#0d1117",
+            "stage2": "#101a14",
+            "glow": t["section"],
+            "glow2": t["accent"],
+            "grid": "#8fe0a5",
+            "grid_opacity": 0.045,
+            "vignette": "#000000",
+            "vignette_opacity": 0.55,
         }
     return {
         "ambient_opacity": 0.14,
@@ -52,11 +60,19 @@ def depth_palette(theme_name):
             (0, 8, 3, 0.10),
             (0, 3, 0, 0.12),
         ],
+        "stage": "#ffffff",
+        "stage2": "#eef7f1",
+        "glow": t["section"],
+        "glow2": t["accent"],
+        "grid": "#1a7f37",
+        "grid_opacity": 0.05,
+        "vignette": "#8b949e",
+        "vignette_opacity": 0.12,
     }
 
 
 def card_depth_defs(prefix, theme_name):
-    """Filters/gradients for softly elevated cards."""
+    """Filters/gradients for elevated cards + local stage floor."""
     d = depth_palette(theme_name)
     return f'''
 <filter id="{prefix}-shadow" x="-25%" y="-20%" width="150%" height="160%" color-interpolation-filters="sRGB">
@@ -68,6 +84,9 @@ def card_depth_defs(prefix, theme_name):
 <filter id="{prefix}-blur" x="-40%" y="-40%" width="180%" height="180%" color-interpolation-filters="sRGB">
   <feGaussianBlur stdDeviation="7"/>
 </filter>
+<filter id="{prefix}-glowblur" x="-50%" y="-50%" width="200%" height="200%" color-interpolation-filters="sRGB">
+  <feGaussianBlur stdDeviation="28"/>
+</filter>
 <linearGradient id="{prefix}-title" x1="0" y1="0" x2="0" y2="1">
   <stop offset="0" stop-color="{d["title_fill"]}" stop-opacity="{d["title_opacity"]}"/>
   <stop offset="1" stop-color="{d["title_fill"]}" stop-opacity="0"/>
@@ -77,7 +96,50 @@ def card_depth_defs(prefix, theme_name):
   <stop offset="0.35" stop-color="#ffffff" stop-opacity="0"/>
   <stop offset="1" stop-color="#000000" stop-opacity="{0.18 if theme_name == "dark" else 0.04}"/>
 </linearGradient>
+<radialGradient id="{prefix}-stage" cx="50%" cy="42%" r="68%">
+  <stop offset="0" stop-color="{d["stage2"]}"/>
+  <stop offset="1" stop-color="{d["stage"]}"/>
+</radialGradient>
+<radialGradient id="{prefix}-orb" cx="50%" cy="55%" r="45%">
+  <stop offset="0" stop-color="{d["glow"]}" stop-opacity="{0.22 if theme_name == "dark" else 0.14}"/>
+  <stop offset="1" stop-color="{d["glow"]}" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="{prefix}-orb2" cx="18%" cy="20%" r="40%">
+  <stop offset="0" stop-color="{d["glow2"]}" stop-opacity="{0.12 if theme_name == "dark" else 0.08}"/>
+  <stop offset="1" stop-color="{d["glow2"]}" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="{prefix}-vig" cx="50%" cy="50%" r="72%">
+  <stop offset="0.55" stop-color="{d["vignette"]}" stop-opacity="0"/>
+  <stop offset="1" stop-color="{d["vignette"]}" stop-opacity="{d["vignette_opacity"]}"/>
+</radialGradient>
 '''.strip()
+
+
+def stage_floor(prefix, w, h, theme_name):
+    """Atmosphere painted on the SVG canvas behind a floating card."""
+    d = depth_palette(theme_name)
+    # faint terminal grid
+    step = 28
+    grid = []
+    for x in range(0, int(w) + 1, step):
+        grid.append(
+            f'<line x1="{x}" y1="0" x2="{x}" y2="{h}" stroke="{d["grid"]}" '
+            f'stroke-opacity="{d["grid_opacity"]}" stroke-width="1"/>'
+        )
+    for y in range(0, int(h) + 1, step):
+        grid.append(
+            f'<line x1="0" y1="{y}" x2="{w}" y2="{y}" stroke="{d["grid"]}" '
+            f'stroke-opacity="{d["grid_opacity"]}" stroke-width="1"/>'
+        )
+    return [
+        f'<rect width="{w}" height="{h}" fill="url(#{prefix}-stage)"/>',
+        f'<ellipse cx="{w * 0.5:.1f}" cy="{h * 0.62:.1f}" rx="{w * 0.42:.1f}" ry="{h * 0.28:.1f}" '
+        f'fill="url(#{prefix}-orb)" filter="url(#{prefix}-glowblur)"/>',
+        f'<ellipse cx="{w * 0.18:.1f}" cy="{h * 0.22:.1f}" rx="{w * 0.28:.1f}" ry="{h * 0.18:.1f}" '
+        f'fill="url(#{prefix}-orb2)" filter="url(#{prefix}-glowblur)"/>',
+        f'<g>{"".join(grid)}</g>',
+        f'<rect width="{w}" height="{h}" fill="url(#{prefix}-vig)"/>',
+    ]
 
 
 def painted_cast_shadow(prefix, w, h, theme_name, rx=16):
@@ -103,7 +165,6 @@ def card_chrome(prefix, w, h, titlebar_h, bg_fill, frame, rx=16):
     parts.append(
         f'<rect x="0.5" y="0.5" width="{w - 1}" height="{h - 1}" rx="{rx}" fill="{bg_fill}"/>'
     )
-    # subtle top-lit / bottom-shaded face
     parts.append(
         f'<rect x="0.5" y="0.5" width="{w - 1}" height="{h - 1}" rx="{rx}" '
         f'fill="url(#{prefix}-face)"/>'
@@ -112,12 +173,10 @@ def card_chrome(prefix, w, h, titlebar_h, bg_fill, frame, rx=16):
         f'<rect x="0.5" y="0.5" width="{w - 1}" height="{h - 1}" rx="{rx}" fill="none" '
         f'stroke="{d["rim"]}" stroke-opacity="{d["rim_opacity"]}" stroke-width="1"/>'
     )
-    # top rim catch-light
     parts.append(
         f'<path d="M {rx + 0.5} 1.2 H {w - rx - 0.5}" stroke="{d["edge"]}" '
         f'stroke-opacity="{d["edge_opacity"]}" stroke-width="1.2" fill="none"/>'
     )
-    # bottom rim contact line (grounds the card)
     parts.append(
         f'<path d="M {rx + 0.5} {h - 1.2} H {w - rx - 0.5}" stroke="{d["bottom_edge"]}" '
         f'stroke-opacity="{d["bottom_edge_opacity"]}" stroke-width="1.2" fill="none"/>'

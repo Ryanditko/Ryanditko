@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="308" height="62" viewBox="0 0 308 62" font-family="'EB Garamond', Garamond, Georgia, 'Times New Roman', serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="316" height="70" viewBox="0 0 316 70" font-family="'EB Garamond', Garamond, Georgia, 'Times New Roman', serif">
 <style>@font-face {
   font-family: 'EB Garamond';
   font-style: normal;
@@ -16,6 +16,9 @@
 <filter id="prompt-whoami-dark-blur" x="-40%" y="-40%" width="180%" height="180%" color-interpolation-filters="sRGB">
   <feGaussianBlur stdDeviation="7"/>
 </filter>
+<filter id="prompt-whoami-dark-glowblur" x="-50%" y="-50%" width="200%" height="200%" color-interpolation-filters="sRGB">
+  <feGaussianBlur stdDeviation="28"/>
+</filter>
 <linearGradient id="prompt-whoami-dark-title" x1="0" y1="0" x2="0" y2="1">
   <stop offset="0" stop-color="#ffffff" stop-opacity="0.04"/>
   <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
@@ -25,8 +28,25 @@
   <stop offset="0.35" stop-color="#ffffff" stop-opacity="0"/>
   <stop offset="1" stop-color="#000000" stop-opacity="0.18"/>
 </linearGradient>
+<radialGradient id="prompt-whoami-dark-stage" cx="50%" cy="42%" r="68%">
+  <stop offset="0" stop-color="#101a14"/>
+  <stop offset="1" stop-color="#0d1117"/>
+</radialGradient>
+<radialGradient id="prompt-whoami-dark-orb" cx="50%" cy="55%" r="45%">
+  <stop offset="0" stop-color="#8fe0a5" stop-opacity="0.22"/>
+  <stop offset="1" stop-color="#8fe0a5" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="prompt-whoami-dark-orb2" cx="18%" cy="20%" r="40%">
+  <stop offset="0" stop-color="#a8e6c1" stop-opacity="0.12"/>
+  <stop offset="1" stop-color="#a8e6c1" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="prompt-whoami-dark-vig" cx="50%" cy="50%" r="72%">
+  <stop offset="0.55" stop-color="#000000" stop-opacity="0"/>
+  <stop offset="1" stop-color="#000000" stop-opacity="0.55"/>
+</radialGradient>
 </defs>
-<g transform="translate(14,7)" filter="url(#prompt-whoami-dark-shadow)">
+<rect width="316" height="70" fill="url(#prompt-whoami-dark-stage)"/><ellipse cx="158.0" cy="43.4" rx="132.7" ry="19.6" fill="url(#prompt-whoami-dark-orb)" filter="url(#prompt-whoami-dark-glowblur)"/><ellipse cx="56.9" cy="15.4" rx="88.5" ry="12.6" fill="url(#prompt-whoami-dark-orb2)" filter="url(#prompt-whoami-dark-glowblur)"/><g><line x1="0" y1="0" x2="0" y2="70" stroke="#8fe0a5" stroke-opacity="0.045" stroke-width="1"/><line x1="28" y1="0" x2="28" y2="70" stroke="#8fe0a5" stroke-opacity="0.045" stroke-width="1"/><line x1="56" y1="0" x2="56" y2="70" stroke="#8fe0a5" stroke-opacity="0.045" stroke-width="1"/><line x1="84" y1="0" x2="84" y2="70" stroke="#8fe0a5" stroke-opacity="0.045" stroke-width="1"/><line x1="112" y1="0" x2="112" y2="70" stroke="#8fe0a5" stroke-opacity="0.045" stroke-width="1"/><line x1="140" y1="0" x2="140" y2="70" stroke="#8fe0a5" stroke-opacity="0.045" stroke-width="1"/><line x1="168" y1="0" x2="168" y2="70" stroke="#8fe0a5" stroke-opacity="0.045" stroke-width="1"/><line x1="196" y1="0" x2="196" y2="70" stroke="#8fe0a5" stroke-opacity="0.045" stroke-width="1"/><line x1="224" y1="0" x2="224" y2="70" stroke="#8fe0a5" stroke-opacity="0.045" stroke-width="1"/><line x1="252" y1="0" x2="252" y2="70" stroke="#8fe0a5" stroke-opacity="0.045" stroke-width="1"/><line x1="280" y1="0" x2="280" y2="70" stroke="#8fe0a5" stroke-opacity="0.045" stroke-width="1"/><line x1="308" y1="0" x2="308" y2="70" stroke="#8fe0a5" stroke-opacity="0.045" stroke-width="1"/><line x1="0" y1="0" x2="316" y2="0" stroke="#8fe0a5" stroke-opacity="0.045" stroke-width="1"/><line x1="0" y1="28" x2="316" y2="28" stroke="#8fe0a5" stroke-opacity="0.045" stroke-width="1"/><line x1="0" y1="56" x2="316" y2="56" stroke="#8fe0a5" stroke-opacity="0.045" stroke-width="1"/></g><rect width="316" height="70" fill="url(#prompt-whoami-dark-vig)"/>
+<g transform="translate(18,9)" filter="url(#prompt-whoami-dark-shadow)">
   <rect width="280" height="44" rx="22.0" fill="#111722"/>
   <rect width="280" height="44" rx="22.0" fill="none" stroke="#30363d" stroke-opacity="1.0" stroke-width="1"/>
   <path d="M 22.0 1 H 258.0" stroke="#ffffff" stroke-opacity="0.1" stroke-width="1" fill="none"/>

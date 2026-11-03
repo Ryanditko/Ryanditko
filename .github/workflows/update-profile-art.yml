@@ -48,8 +48,12 @@ jobs:
         if: github.event_name != 'schedule'
         run: python scripts/make_prompt_svg.py
 
+      - name: Regenerate stage atmosphere bands (dark + light)
+        if: github.event_name != 'schedule'
+        run: python scripts/make_stage.py
+
       - name: Commit updated art
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "chore: refresh profile art [skip ci]"
-          file_pattern: "data/contributions.json contrib-heatmap.svg contrib-heatmap-dark.svg contrib-heatmap-light.svg info-card.svg info-card-dark.svg info-card-light.svg ryan-ascii.svg ryan-ascii-dark.svg ryan-ascii-light.svg prompt-contributions-dark.svg prompt-contributions-light.svg prompt-whoami-dark.svg prompt-whoami-light.svg"
+          file_pattern: "data/contributions.json contrib-heatmap.svg contrib-heatmap-dark.svg contrib-heatmap-light.svg info-card.svg info-card-dark.svg info-card-light.svg ryan-ascii.svg ryan-ascii-dark.svg ryan-ascii-light.svg prompt-contributions-dark.svg prompt-contributions-light.svg prompt-whoami-dark.svg prompt-whoami-light.svg stage-top-dark.svg stage-top-light.svg stage-bottom-dark.svg stage-bottom-light.svg"
