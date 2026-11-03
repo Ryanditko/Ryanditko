@@ -33,11 +33,11 @@ TITLEBAR_H = 30
 
 BG = "#0a0e14"
 BG2 = "#0d1420"
-FRAME = "#a9c9ff"
+FRAME = "#30363d"
 MUTED = "#7d8590"
 TEXT = "#e6edf3"
-ACCENT = "#a3d8e8"
-GREEN = "#f0f6fc"
+ACCENT = "#a8e6c1"
+GREEN = "#8fe0a5"
 GOLD = "#f5e1a4"
 
 # reveal timing (one-shot)
