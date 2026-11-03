@@ -19,15 +19,23 @@
   <linearGradient id="heat-light-bg" x1="0" y1="0" x2="0" y2="1">
     <stop offset="0" stop-color="#f6f8fa"/><stop offset="1" stop-color="#ffffff"/>
   </linearGradient>
-  <filter id="heat-light-shadow" x="-20%" y="-15%" width="140%" height="150%" color-interpolation-filters="sRGB">
-  <feDropShadow dx="0" dy="8" stdDeviation="16"
-    flood-color="#000000" flood-opacity="0.1"/>
-  <feDropShadow dx="0" dy="1.5" stdDeviation="2.5"
-    flood-color="#000000" flood-opacity="0.08"/>
+  <filter id="heat-light-shadow" x="-25%" y="-20%" width="150%" height="160%" color-interpolation-filters="sRGB">
+  <feDropShadow dx="0" dy="10" stdDeviation="12"
+    flood-color="#000000" flood-opacity="0.14"/>
+  <feDropShadow dx="0" dy="2" stdDeviation="3"
+    flood-color="#000000" flood-opacity="0.12"/>
+</filter>
+<filter id="heat-light-blur" x="-40%" y="-40%" width="180%" height="180%" color-interpolation-filters="sRGB">
+  <feGaussianBlur stdDeviation="7"/>
 </filter>
 <linearGradient id="heat-light-title" x1="0" y1="0" x2="0" y2="1">
-  <stop offset="0" stop-color="#ffffff" stop-opacity="0.45"/>
+  <stop offset="0" stop-color="#ffffff" stop-opacity="0.55"/>
   <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="heat-light-face" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#ffffff" stop-opacity="0.35"/>
+  <stop offset="0.35" stop-color="#ffffff" stop-opacity="0"/>
+  <stop offset="1" stop-color="#000000" stop-opacity="0.04"/>
 </linearGradient>
 </defs>
 <g filter="url(#heat-light-shadow)">
