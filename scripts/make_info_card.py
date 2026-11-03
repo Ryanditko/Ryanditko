@@ -22,7 +22,8 @@ PAD = 20
 TITLEBAR_H = 30
 KEY_X = PAD
 VAL_X = PAD + 92
-LINE_H = 20.5
+TOP_PAD = 30
+BOTTOM_PAD = 28
 
 ROWS = [
     ("host",),
@@ -66,13 +67,27 @@ def rise(inner, i):
     )
 
 
+def line_height_for_card():
+    """Stretch row spacing so the written card fills the same canvas as the portrait."""
+    units = 0.0
+    for row in ROWS:
+        kind = row[0]
+        if kind == "gap":
+            units += 0.5
+        elif kind in ("host", "sec", "kv", "bul"):
+            units += 1.0
+    available = H - TITLEBAR_H - TOP_PAD - BOTTOM_PAD
+    return available / units
+
+
 def render(theme_name):
     t = THEMES[theme_name]
     bg, bg2 = t["bg"], t["bg2"]
     frame, muted, ink = t["frame"], t["muted"], t["ink"]
     key, section, accent = t["key"], t["section"], t["accent"]
-    highlight = t["key"]
+    highlight = t["section"]
     gid = f"ibg-{theme_name}"
+    line_h = line_height_for_card()
 
     parts = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" '
@@ -94,11 +109,11 @@ def render(theme_name):
         f'text-anchor="middle">ryan@github: ~$ neofetch</text>'
     )
 
-    y = TITLEBAR_H + 30
+    y = TITLEBAR_H + TOP_PAD
     for i, row in enumerate(ROWS):
         kind = row[0]
         if kind == "gap":
-            y += LINE_H * 0.5
+            y += line_h * 0.5
             continue
         if kind == "host":
             inner = (
@@ -131,7 +146,7 @@ def render(theme_name):
         else:
             continue
         parts.append(rise(inner, i))
-        y += LINE_H
+        y += line_h
 
     parts.append("</svg>")
     return "".join(parts)
