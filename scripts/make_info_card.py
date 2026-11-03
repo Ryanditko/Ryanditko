@@ -11,7 +11,7 @@ import sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
 import eb_garamond_face  # noqa: E402
-from depth import card_chrome, card_depth_defs, stage_floor  # noqa: E402
+from depth import card_chrome, card_depth_defs  # noqa: E402
 from theme import CARD_H, CARD_INNER_H, CARD_INNER_W, CARD_PAD, CARD_W, THEMES  # noqa: E402
 
 ROOT = os.path.join(HERE, "..")
@@ -100,9 +100,9 @@ def render(theme_name):
         f'<stop offset="0" stop-color="{bg2}"/><stop offset="1" stop-color="{bg}"/></linearGradient>',
         card_depth_defs(prefix, theme_name),
         "</defs>",
+        f'<rect width="{W}" height="{H}" fill="none"/>',
+        f'<g transform="translate({OX},{OY})">',
     ]
-    parts.extend(stage_floor(prefix, W, H, theme_name))
-    parts.append(f'<g transform="translate({OX},{OY})">')
 
     parts.extend(card_chrome(prefix, INNER_W, INNER_H, TITLEBAR_H, f"url(#{gid})", frame))
 
