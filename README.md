@@ -9,7 +9,7 @@
 
 <h3><code>ryan@github ~ $ ./contributions.sh</code></h3>
 
-<img src="./contrib-heatmap.svg" width="860" alt="Ryan's GitHub contribution graph — auto-refreshed daily" />
+<img src="./contrib-heatmap.svg?v=white1" width="860" alt="Ryan's GitHub contribution graph — auto-refreshed daily" />
 
 <br>
 <br>
@@ -18,8 +18,8 @@
 
 <table>
 <tr>
-<td valign="top"><img src="./ryan-ascii.svg" width="440" alt="Ryan Rodrigues — ASCII portrait" /></td>
-<td valign="top"><img src="./info-card.svg" width="440" alt="Ryan Rodrigues — experience, stack, highlights, links" /></td>
+<td valign="top"><img src="./ryan-ascii.svg?v=white1" width="440" alt="Ryan Rodrigues — ASCII portrait" /></td>
+<td valign="top"><img src="./info-card.svg?v=white1" width="440" alt="Ryan Rodrigues — experience, stack, highlights, links" /></td>
 </tr>
 </table>
 

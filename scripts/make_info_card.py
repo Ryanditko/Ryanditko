@@ -30,9 +30,9 @@ BG2 = "#111722"
 FRAME = "#30363d"
 MUTED = "#7d8590"
 INK = "#c9d1d9"
-KEY = "#a8e6c1"      # pastel green keys
+KEY = "#f0f6fc"      # white keys
 SECTION = "#a9c9ff"  # pastel blue section headers
-GREEN = "#8fe0a5"
+GREEN = "#f0f6fc"    # white accents (name + bullets)
 ACCENT = "#a3d8e8"
 
 # content model: tuples describing each row
