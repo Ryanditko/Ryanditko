@@ -11,11 +11,13 @@ import sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, HERE)
+import eb_garamond_face  # noqa: E402
 from theme import THEMES  # noqa: E402
 
 ART = sys.argv[1] if len(sys.argv) > 1 else os.path.join(HERE, "spider-art.txt")
 ROOT = os.path.join(HERE, "..")
 STATIC = bool(os.environ.get("STATIC"))
+MONO = "ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
 
 RED = {20: (17, 22), 21: (18, 21), 22: (19, 21), 23: (18, 21), 24: (17, 22)}
 
@@ -58,9 +60,10 @@ def row_text(y, line, ri, ink, hourglass):
         )
     else:
         body = esc(line)
+    # ASCII art must stay monospace so columns align; UI chrome uses EB Garamond.
     return (
         f'<text xml:space="preserve" x="{LEFT:.1f}" y="{y:.1f}" fill="{ink}" '
-        f'font-size="{FONT:.1f}">{body}</text>'
+        f'font-family="{MONO}" font-size="{FONT:.1f}">{body}</text>'
     )
 
 
@@ -78,7 +81,8 @@ def render(theme_name):
     parts = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{CANVAS_W}" height="{CANVAS_H}" '
         f'viewBox="0 0 {CANVAS_W} {CANVAS_H}" '
-        f'font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">',
+        f'font-family="{eb_garamond_face.FONT_FAMILY}">',
+        f'<style>{eb_garamond_face.font_face_css()}</style>',
         '<defs>'
         f'<linearGradient id="{gid}" x1="0" y1="0" x2="0" y2="1">'
         f'<stop offset="0" stop-color="{bg2}"/><stop offset="1" stop-color="{bg}"/></linearGradient></defs>',
@@ -130,7 +134,8 @@ def render(theme_name):
         f'<text x="{PAD}" y="{status_y:.1f}" fill="{title_text}" font-size="13">'
         f'ryan@github:~$ whoami <tspan fill="{ink}">{NAME}</tspan></text>'
     )
-    cur_x = PAD + int(len(status_txt) * CELL_W) + 4
+    # Proportional EB Garamond: approximate advance (~0.48em) for the blinking cursor.
+    cur_x = PAD + int(len(status_txt) * 13 * 0.48) + 6
     parts.append(
         f'<rect x="{cur_x}" y="{status_y - 12:.1f}" width="8" height="14" fill="{ink}">'
         f'<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" '
